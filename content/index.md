@@ -1,9 +1,3 @@
-/*
-Title: Welcome
-Author: Stefan Toman
-Date: 02.09.2015
-*/
+# ICPC@TUM
 
-## Welcome to Pico
-
-Congratulations, you have successfully installed [Pico](http://picocms.org/). Pico is a stupidly simple, blazing fast, flat file CMS.
+Welcome!
