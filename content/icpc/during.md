@@ -39,7 +39,7 @@ Especially if teams with a lower rank than your team have already solved a probl
 ## Solving the Problems
 
 Time at the only computer is precious.
-Thus, before you start to implement anything, make up a clear plan what you are trying to implement.
+Thus, before you start to implement anything, make up a clear plan of what you are trying to implement.
 If you think you can solve a problem within a few minutes, just let one of you grab the computer and implement it, while the others start thinking about other, more difficult problems.
 For harder problems it may make sense to write down pseudocode and work out the algorithm from there.
 
