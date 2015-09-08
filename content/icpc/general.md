@@ -2,7 +2,7 @@
 
 ## The different rounds
 
-The [International Collegiate Programming Contest (ICPC)](http://icpc.baylor.edu/) is organized in different rounds that are held in a year's time. First one national contest decides which teams of each university are sent to the regional contest of north-west europe. The teams that are also successful in the regional contest are then sent to the World Finals.
+The [International Collegiate Programming Contest (ICPC)](http://icpc.baylor.edu/) is organized in different rounds that are held in a year's time. First one national contest decides which teams of each university are sent to the regional contest of north-west Europe. The teams that are also successful in the regional contest are then sent to the World Finals.
 
 The first ICPC contest of the year is usually the Winter Contest at the end of january / beginning of february. It is for training-purposes only.
 
