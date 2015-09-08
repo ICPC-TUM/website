@@ -21,7 +21,7 @@ $(function(){
 </script>
 
 Lastly you need to 
-* have started your studies no later than <span id='studystart'>(current year -4)</span> OR
+* have started your studies no later than <span id='studystart'>(current year - 4)</span> OR
 * be born <span id="born">(current year - 23)</span> or later.
 
 If both or the previous conditions cannot be met you can petition the ICPC Eligibility Committee if you have not completed more than the equivalent of eight semesters of full-time study as of the date of the regional contest. Have a look at the [ICPC rules website](http://icpc.baylor.edu/regionals/rules#HExtendingthePeriodofEligibility) for more details.
