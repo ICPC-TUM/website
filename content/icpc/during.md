@@ -21,7 +21,7 @@ Almost always there are one or two very simple problems that can be solved in a 
 You just have to find them.
 For that, it has proven helpful that you divide the problem set into parts and at the start, everybody reads his assigned part of the problem set.
 
-To give others an idea of what you read, you could create an overview sheet that contains the following (or more) information per problem: 
+To give your teammates an idea of what you read, you could create an overview sheet that contains the following (or more) information per problem: 
     - Topic (for example: Shortest Paths, Number Theory, etc)
     - Estimated difficulty of solving the problem (on a scale of 1-10, how hard is coming up with a solution)
     - Estimated difficulty of implementing the solution (on a scale of 1-10, how hard is coding the solution)
