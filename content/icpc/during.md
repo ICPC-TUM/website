@@ -61,7 +61,7 @@ Have, for example, one specialist for algorithms on graphs that can focus on sol
 ## Mindset
 
 Lastly, even though this is an adrenaline-packed contest situation, don't forget to have fun.
-Get up from your desk, have some pizza. Sometimes this change is enough to give you that "Heureka"-moment that lets you solve a problem.
+Get up from your desk, have some pizza. Sometimes this change is enough to give you that "Heureka"-moment that lets you finally solve a problem.
 Also, don't get stuck on something too hard. Sometimes your solution just does not work and that's okay.
 So take a step back and either try a different problem or free your thoughts and take a fresh approach.
 
