@@ -51,6 +51,12 @@ If you still can not find it, try to explain your code to someone. This can be e
 (Of course a teammate is even better - time has shown that teammates find more bugs, on average, than walls)
 This has proven a massive help when there is a logical flaw in your algorithm.
 
+## The last hour
+
+Shortly before the end, you will probably end up with some problems that did not work.
+From our experience it is better to try to get these working instead of beginning a totally new problem and ending up with a half-finished implementation when the contest ends.
+And in the end, just try to submit different versions that you believe could work.
+
 ## Team Composition
 
 Before the contest, get an overview of the skills of your team.
