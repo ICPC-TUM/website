@@ -48,6 +48,7 @@ For harder problems it may make sense to write down pseudocode and work out the 
 If you have an almost working solution that seems to have a bug, print your source code.
 According to our experience, debugging using pen and paper is a valid technique and saves valuable time at the computer.
 If you still can not find it, try to explain your code to someone. This can be either a teammember or even the wall. Just try to put your algorithm into words.
+(Of course a teammate is even better - time has shown that teammates find more bugs, on average, than walls)
 This has proven a massive help when there is a logical flaw in your algorithm.
 
 ## Team Composition
