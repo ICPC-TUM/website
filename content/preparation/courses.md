@@ -5,13 +5,13 @@ On this page you can find courses offered at TUM that are specifically designed 
 ## Algorithms for Programming contests
 Practical course
 Language: English
-[http://wwwmayr.in.tum.de/lehre/2014WS/conpra/](http://wwwmayr.in.tum.de/lehre/2014WS/conpra/)
+[http://wwwmayr.in.tum.de/lehre/2015WS/conpra/](http://wwwmayr.in.tum.de/lehre/2015WS/conpra/)
 Contact: [conpra@in.tum.de](mailto:conpra@in.tum.de)
 Description:
 There will be a lecture where we explain algorithms for a new topic each week. During the following week, the participants need to solve problems related to this topic. Solutions, different ideas and remarks regarding the problems will be presented in the next lecture. The problems differ in the level of difficulty: There will be problems asking for straightforward implementations of the presented algorithms as well as harder problems taken from several contests. For submitting and judging the submissions we will use TUMjudge, the system which is used for almost all rounds of the ICPC.
 
 Course History:
-* [WS15](http://wwwmayr.in.tum.de/lehre/2015SS/conpra/)
+* [WS15/16](http://wwwmayr.in.tum.de/lehre/2015WS/conpra/)
 * [SS15](http://wwwmayr.in.tum.de/lehre/2015SS/conpra/)
 * [WS14/15](http://wwwmayr.in.tum.de/lehre/2014WS/conpra/)
 * [SS14](http://wwwmayr.in.tum.de/lehre/2014SS/conpra/)
