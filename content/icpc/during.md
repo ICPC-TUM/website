@@ -19,15 +19,15 @@ It makes your life a whole lot easier if you can just take a fast algorithm for 
 Right at the beginning of the contest, everybody is shooting for the low-hanging fruit.
 Almost always there are one or two very simple problems that can be solved in a few lines of code.
 You just have to find them.
-For that, it has proven helpful that you divide the problem set into parts and at the start, everybody reads his assigned part of the problem set.
+For that, it has proven helpful to divide he problem set into parts s.t. at the start everybody reads his assigned segment of the problem set.
 
 To give your teammates an idea of what you read, you could create an overview sheet that contains the following (or more) information per problem: 
-    - Topic (for example: Shortest Paths, Number Theory, etc)
+    - Topic (for example: Shortest Paths, Number Theory, etc.)
     - Estimated difficulty of solving the problem (on a scale of 1-10, how hard is coming up with a solution)
     - Estimated difficulty of implementing the solution (on a scale of 1-10, how hard is coding the solution)
 
 You could also include a column that contains a flag if you solved that problem to document your progress.
-(Also the feeling to check a program of that you worked hard on is just great.)
+(Also the feeling to check off a program of that you worked hard on is just great.)
 
 ## Choosing a problem to solve
 
@@ -41,13 +41,13 @@ Especially if teams with a lower rank than your team have already solved a probl
 Time at the only computer is precious.
 Thus, before you start to implement anything, make up a clear plan of what you are trying to implement.
 If you think you can solve a problem within a few minutes, just let one of you grab the computer and implement it, while the others start thinking about other, more difficult problems.
-For harder problems it may make sense to write down pseudocode and work out the algorithm from there.
+For harder problems it might make sense to write down pseudocode and work out the algorithm from there.
 
 ## Debugging
 
 If you have an almost working solution that seems to have a bug, print your source code.
 According to our experience, debugging using pen and paper is a valid technique and saves valuable time at the computer.
-If you still can not find it, try to explain your code to someone. This can be either a teammember or even the wall. Just try to put your algorithm into words.
+If you still cannot find it, try to explain your code to someone. This can be either a teammember or even the wall. Just try to put your algorithm into words.
 (Of course a teammate is even better - time has shown that teammates find more bugs, on average, than walls)
 This has proven a massive help when there is a logical flaw in your algorithm.
 
@@ -55,7 +55,7 @@ This has proven a massive help when there is a logical flaw in your algorithm.
 
 Shortly before the end, you will probably end up with some problems that did not work.
 From our experience it is better to try to get these working instead of beginning a totally new problem and ending up with a half-finished implementation when the contest ends.
-And in the end, just try to submit different versions that you believe could work.
+In the end, just try to submit different versions that you believe could work.
 
 ## Team Composition
 
@@ -70,6 +70,6 @@ Have, for example, one specialist for algorithms on graphs that can focus on sol
 Lastly, even though this is an adrenaline-packed contest situation, don't forget to have fun.
 Get up from your desk, have some pizza. Sometimes this change is enough to give you that "Heureka"-moment that lets you finally solve a problem.
 Also, don't get stuck on something too hard. Sometimes your solution just does not work and that's okay.
-So take a step back and either try a different problem or free your thoughts and take a fresh approach.
+So take a step back and either try a different problem or free your mind and take a fresh approach.
 
 
