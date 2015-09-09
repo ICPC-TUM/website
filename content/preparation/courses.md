@@ -8,7 +8,7 @@ Language: English
 [http://wwwmayr.in.tum.de/lehre/2015WS/conpra/](http://wwwmayr.in.tum.de/lehre/2015WS/conpra/)
 Contact: [conpra@in.tum.de](mailto:conpra@in.tum.de)
 Description:
-There will be a lecture where we explain algorithms for a new topic each week. During the following week, the participants need to solve problems related to this topic. Solutions, different ideas and remarks regarding the problems will be presented in the next lecture. The problems differ in the level of difficulty: There will be problems asking for straightforward implementations of the presented algorithms as well as harder problems taken from several contests. For submitting and judging the submissions we will use TUMjudge, the system which is used for almost all rounds of the ICPC.
+There will be a lecture where we explain algorithms for a new topic each week. During the following week, the participants need to solve problems related to this topic. Solutions, different ideas and remarks regarding the problems will be presented in the next lecture. The problems differ in the level of difficulty: There will be problems asking for straightforward implementations of the presented algorithms as well as harder problems taken from several contests. For submitting and judging the submissions we will use TUMjudge, an adaptation of DOMJudge which is the system used for almost all rounds of the ICPC.
 
 Course History:
 * [WS15/16](http://wwwmayr.in.tum.de/lehre/2015WS/conpra/)
@@ -23,7 +23,7 @@ Language: German
 Contact: [finis@in.tum.de](mailto:finis@in.tum.de)
 Description:
 In this proseminar the participants are given a problem from a former ICPC problem set. These problems are characterized by fun and interesting problem descriptions on the one hand and very compact and elegant solutions on the other hand.
-Each participant then solves the given problem in a programming language of his / her choice and present the problem as well as its solution to the other participants. 
+Each participant then solves the given problem in a programming language of his / her choice and presents the problem as well as its solution to the other participants. 
 
 Course History:
 * [SS15](http://www3.informatik.tu-muenchen.de/teaching/ss15/proseminar/)
