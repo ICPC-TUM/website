@@ -3,14 +3,14 @@
 So you made up your mind and are now competing in the ICPC. 
 What does that entail?
 
-## Cheat Sheet
+## Cheat sheet
 
 Everything starts with good preparation.
 At most contests, you are allowed to bring a cheat sheet with your favorite algorithms.
 Make sure your cheat sheet contains all algorithms that you think will likely appear on these problems.
 It makes your life a whole lot easier if you can just take a fast algorithm for maximum flow from your cheat sheet instead of trying to remember how you did it last time.
 
-## Team Composition
+## Team composition
 
 Get an overview of the skills of your team.
 Oftentimes there are some things that one of the team members is good at that you can use.
@@ -18,13 +18,13 @@ For example, if you know that a problem needs C++, let it be implemented by the 
 Also, it may prove useful to have dedicated experts for certain types of problems.
 Have, for example, one specialist for algorithms on graphs that can focus on solving all problems using graphs in a set. In this way you can focus on different areas when you train to solve problems.
 
-# During the Contest
+# During the contest
 
 You and your team arrived at the contest site, sat down at their single assigned computer, and got handed a problem set.
 The clock starts and you are now in direct competition with every other team in the room to see who is able to solve the most problems.
 Here we have compiled some tips our participants have accumulated over the years to make sure you are well prepared for that situation.
 
-## Reading the Problem Set
+## Reading the problem set
 
 Right at the beginning of the contest, everybody is shooting for the low-hanging fruit.
 Almost always there are one or two very simple problems that can be solved in a few lines of code.
@@ -46,7 +46,7 @@ Also, have a look at the public scoreboard.
 Oftentimes, there is a problem that many other people have already solved.
 Especially if teams with a lower rank than your team have already solved a problem, there is a high chance that you are also able to solve it.
 
-## Solving the Problems
+## Solving the problems
 
 At most competitions, you will only have access to a single computer and you have to carefully choose who gets to use it at any given time.  
 So before you start to implement anything, make up a clear plan of what you are trying to implement.
@@ -61,7 +61,7 @@ If you still cannot find it, try to explain your code to someone. This can be ei
 (Of course a teammate is even better - time has shown that teammates find more bugs, on average, than walls.)
 This has proven a massive help when there is a logical flaw in your algorithm.
 
-## The last hour
+## Last hour
 
 Shortly before the end, you will probably end up with some problems that did not work.
 From our experience it is better to try to get these working instead of beginning a totally new problem and ending up with a half-finished implementation when the contest ends.
