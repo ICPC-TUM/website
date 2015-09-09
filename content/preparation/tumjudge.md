@@ -19,7 +19,7 @@ Each column stands for one problem.
 - A *green* field means that he or she solved the problem
 - A *dark green* field means that he or she solved the problem **first**.
 - A *red* field means that he or she tried the problem, but could not solve it (yet).
-- A white field means that he or she did not try to solve the problem (yet).
+- A *white* field means that he or she did not try to solve the problem (yet).
 
 ## Problem Statements
 Every problem that you will find here follows an overall structure. It will contain:
