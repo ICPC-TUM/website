@@ -1,11 +1,7 @@
-# During the Contest
+# Preparation
 
 So you made up your mind and are now competing in the ICPC. 
 What does that entail?
-
-You and your team arrived at the contest site, sat down at their single assigned computer, and got handed a problem set.
-The clock starts and you are now in direct competition with every other team in the room to see who is able to solve the most problems.
-Here we have compiled some tips our participants have accumulated over the years to make sure you are well prepared for that situation.
 
 ## Cheat Sheet
 
@@ -13,6 +9,20 @@ Everything starts with good preparation.
 At most contests, you are allowed to bring a cheat sheet with your favorite algorithms.
 Make sure your cheat sheet contains all algorithms that you think will likely appear on these problems.
 It makes your life a whole lot easier if you can just take a fast algorithm for maximum flow from your cheat sheet instead of trying to remember how you did it last time.
+
+## Team Composition
+
+Get an overview of the skills of your team.
+Oftentimes there are some things that one of the team members is good at that you can use.
+For example, if you know that a problem needs C++, let it be implemented by the one who can use C++ best.
+Also, it may prove useful to have dedicated experts for certain types of problems.
+Have, for example, one specialist for algorithms on graphs that can focus on solving all problems using graphs in a set. In this way you can focus on different areas when you train to solve problems.
+
+# During the Contest
+
+You and your team arrived at the contest site, sat down at their single assigned computer, and got handed a problem set.
+The clock starts and you are now in direct competition with every other team in the room to see who is able to solve the most problems.
+Here we have compiled some tips our participants have accumulated over the years to make sure you are well prepared for that situation.
 
 ## Reading the Problem Set
 
@@ -56,14 +66,6 @@ This has proven a massive help when there is a logical flaw in your algorithm.
 Shortly before the end, you will probably end up with some problems that did not work.
 From our experience it is better to try to get these working instead of beginning a totally new problem and ending up with a half-finished implementation when the contest ends.
 In the end, just try to submit different versions that you believe could work.
-
-## Team Composition
-
-Before the contest, get an overview of the skills of your team.
-Oftentimes there are some things that one of the team members is good at that you can use.
-For example, if you know that a problem needs C++, let it be implemented by the one who can use C++ best.
-Also, it may prove useful to have dedicated experts for certain types of problems.
-Have, for example, one specialist for algorithms on graphs that can focus on solving all problems using graphs in a set. In this way you can focus on different areas when you train to solve problems.
 
 ## Mindset
 
