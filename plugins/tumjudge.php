@@ -3,10 +3,10 @@
 class Tumjudge {
   function after_parse_content(&$content) {
     $instances = array(
-      array('path' => 'ConPra', 'name' => 'Algorithms for Programming Contests', 'color' => '#00cc00'),
-      array('path' => 'Contest', 'name' => 'Preparation for the ACM ICPC', 'color' => '#0000cc'),
-      array('path' => 'GAD', 'name' => 'Foundations: Algorithms and Data Structures', 'color' => '#00cccc'),
-      array('path' => 'Isabelle', 'name' => 'Proving Contests', 'color' => '#cc00cc'),
+      array('path' => 'ConPra', 'name' => 'Algorithms for Programming Contests', 'color' => '#00f090'),
+      array('path' => 'Contest', 'name' => 'Preparation for the ACM ICPC', 'color' => '#0090f0'),
+      array('path' => 'GAD', 'name' => 'Foundations: Algorithms and Data Structures', 'color' => '#9000f0'),
+      array('path' => 'Isabelle', 'name' => 'Proving Contests', 'color' => '#f00090'),
     );
     $tumjudge_contests = '
       <table>
