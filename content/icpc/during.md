@@ -20,7 +20,7 @@ Have, for example, one specialist for algorithms on graphs that can focus on sol
 
 # During the contest
 
-You and your team arrived at the contest site, sat down at their single assigned computer, and got handed a problem set.
+You and your team arrived at the contest site, sat down at your single assigned computer, and got handed a problem set.
 The clock starts and you are now in direct competition with every other team in the room to see who is able to solve the most problems.
 Here we have compiled some tips our participants have accumulated over the years to make sure you are well prepared for that situation.
 
