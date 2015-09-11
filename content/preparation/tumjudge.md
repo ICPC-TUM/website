@@ -14,8 +14,7 @@ This also means that we are not responsible for your password. If you lose it, p
 
 ## Which TUMjudge do I use and what are they for?
 
-There are many reasons why people would use TUMjudge.
-So we split the TUMjudge into several smaller instances. Currently we have:
+There are many reasons why people would use TUMjudge, so we split the TUMjudge into several smaller instances, dedicated to different fields. Currently we have:
 
 - **Info** The page containing general information and the registration form (You are here.)
 - **Contest** The TUMjudge instance dedicated to our preparation contests and training. Here you can polish your skills to compete in the ICPC and other contests.
