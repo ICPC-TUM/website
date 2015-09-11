@@ -17,10 +17,10 @@ This also means that we are not responsible for your password. If you lose it, p
 There are many reasons why people would use TUMjudge, so we split the TUMjudge into several smaller instances, dedicated to different fields. Currently we have:
 
 - **Info** The page containing general information and the registration form (You are here.)
-- **Contest** The <font color="blue">blue</font> TUMjudge instance dedicated to our preparation contests and training. Here you can polish your skills to compete in the ICPC and other contests.
-- **Conpra** The <font color="green">green</font> TUMjudge instance dedicated to the practical course "Algorithms for Programming Contests"
-- **GAD** The <font color="#00cccc">teal</font> TUMjudge instance dedicated to the lecture "Fundamentals of Algorithms and Data Structures"
-- **Isabelle** The <font color="#cc00cc">purple</font> TUMjudge instance dedicated to proving contests in Isabelle. 
+- **Contest** The <font color="#0000cc">blue</font> TUMjudge dedicated to our preparation contests and training. Here you can polish your skills to compete in the ICPC and other contests.
+- **Conpra** The <font color="#00cc00">green</font> TUMjudge dedicated to the practical course "Algorithms for Programming Contests"
+- **GAD** The <font color="#00cccc">teal</font> TUMjudge dedicated to the lecture "Fundamentals of Algorithms and Data Structures"
+- **Isabelle** The <font color="#cc00cc">purple</font> TUMjudge dedicated to proving contests in Isabelle. 
 
 Just choose the instance you want in the upper left corner.
 
