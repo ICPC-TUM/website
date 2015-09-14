@@ -9,7 +9,7 @@ We use the TUMjudge to host all sorts of programming contests, for example Prepa
 
 First, you need to [register](https://judge.in.tum.de/main/).
 We use LDAP to handle all the accounts so there is no need to come up with a new password.
-Your account name is identical to the account in the "Rechnerhalle" at TUM (*name* in your email adress *name*@in.tum.de)
+Your account name is identical to the account in the "Rechnerhalle" at TUM (*name* in your email adress `*name*@in.tum.de`)
 This also means that we are not responsible for your password. If you lose it, please contact the [RBG](http://www.in.tum.de/rbg.html), not us.
 
 ## Which TUMjudge do I use and what are they for?
