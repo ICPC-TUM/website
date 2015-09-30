@@ -12,7 +12,7 @@ At the end of June / early July the [German Collegiate Programming Contest (GCPC
 
 In every round (GCPC, NWERC, World Finals) the teams usually receive 8 - 10 problems. They then have 5 hours to solve as many problems as possible. The exercises contain a mix of algorithmic as well as mathematical problems of different difficulties. Deciding which problems to work on is therefore of great importance!
 
-<div style="width: 100%; text-align: center padding: 1.5em 0;">
+<div style="width: 100%; text-align: center; padding: 1.5em 0;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s0Qh-gy7ktA" frameborder="0" allowfullscreen></iframe>
 </div>
 
