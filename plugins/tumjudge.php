@@ -9,7 +9,17 @@ class Tumjudge {
       array('path' => 'Isabelle', 'name' => 'Proving Contests', 'color' => '#f00090'),
     );
     $tumjudge_contests = '
-      <table>
+      <script>
+      function formatDate(date) {
+        var d = date.getDate();
+        var m = date.getMonth() + 1;
+        var y = date.getFullYear();
+        var h = date.getHours();
+        var mi = date.getMinutes();
+        return (d <= 9 ? \'0\' + d : d) + \'.\' + (m <= 9 ? \'0\' + m : m) + \'.\' + y + \' \' + (h <= 9 ? \'0\' + h : h) + \':\' + (mi <= 9 ? \'0\' + mi : mi);
+      }
+      </script>
+      <table style=\'width: 100%;\'>
         <tr>
           <th>TUMjudge Instance</th>
           <th>Current Contests</th>
@@ -19,9 +29,9 @@ class Tumjudge {
     ';
     foreach($instances AS $instance) {
       $tumjudge_contests .= '
-        <tr class=\''.strtolower($instance['path']).'\'>
+        <tr class=\''.strtolower($instance['path']).'\' style=\'border-bottom: 1px solid #002143;\'>
           <td style=\'vertical-align: top;\'><div style=\'font-weight: bold; border-left: 10px solid '.$instance['color'].'; padding-left: 20px;\'>
-            <a href=\'/'.strtolower($instance['path']).'/\'>TUMjudge '.$instance['path'].'</a></div>'.$instance['name'].'<div class=\'stats\' style=\'color: #c0c0c0\'>Loading statistics...</div></td>
+            <a href=\'/'.strtolower($instance['path']).'/\'>TUMjudge '.$instance['path'].'</a></div>'.$instance['name'].'<div class=\'stats\' style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>Loading statistics...</div></td>
           <td class=\'current\' style=\'vertical-align: top;\'>Loading...</td>
           <td class=\'future\' style=\'vertical-align: top;\'>Loading...</td>
           <td class=\'past\' style=\'vertical-align: top;\'>Loading...</td>
@@ -39,19 +49,19 @@ class Tumjudge {
               if(contest.start < new Date().getTime()/1000 && contest.end > new Date().getTime()/1000) {
                 '.strtolower($instance['path']).'current++;
                 if('.strtolower($instance['path']).'current <= 3) {
-                  $(".'.strtolower($instance['path']).' .current").append(contest.name + "<br />");
+                  $(".'.strtolower($instance['path']).' .current").append("<div>" + contest.name + "</div><div style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>end: " + formatDate(new Date(contest.end*1000)) + "</div>");
                 }
               }
               else if(contest.start >= new Date().getTime()/1000) {
                 '.strtolower($instance['path']).'future++;
                 if('.strtolower($instance['path']).'future <= 3) {
-                  $(".'.strtolower($instance['path']).' .future").append(contest.name + "<br />");
+                  $(".'.strtolower($instance['path']).' .future").append("<div>" + contest.name + "</div><div style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>start: " + formatDate(new Date(contest.start*1000)) + "</div>");
                 }
               }
               else if(contest.end <= new Date().getTime()/1000) {
                 '.strtolower($instance['path']).'past++;
                 if('.strtolower($instance['path']).'past <= 3) {
-                  $(".'.strtolower($instance['path']).' .past").append(contest.name + "<br />");
+                  $(".'.strtolower($instance['path']).' .past").append("<div>" + contest.name + "</div><div style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>end: " + formatDate(new Date(contest.end*1000)) + "</div>");
                 }
               }
             });
