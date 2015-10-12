@@ -1,4 +1,4 @@
-##NWERC14
+#NWERC14
 
 <div style="width: 100%; text-align: center; padding: 1.5em 0;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CP5yArELpKY" frameborder="0" allowfullscreen></iframe>
@@ -31,7 +31,8 @@ And finally, we discovered a table tennis plate in our hostel. As a result, our 
 
 Authors: Gregor Matl, Thomas Engel (Participants)
 
-The results:
+## Results
+
 <table id="standings" class="table table-kattis kattis-table-contest-standings">
 <tr>
 <th>Rk</th>

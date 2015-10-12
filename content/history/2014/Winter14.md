@@ -1,7 +1,7 @@
-##Wintercontest 2014
+#Wintercontest 2014
 
 
-###Viel Gequatsche, Echte Probleme - Was mache ich hier eigentlich an der Uni?
+##Viel Gequatsche, Echte Probleme - Was mache ich hier eigentlich an der Uni?
 
 Ich als Student, und das höre ich auch von vielen meiner Kommilitonen, habe oft das Problem, mir die Abstrakten Themen, mit welchen wir uns in den verschiedensten Fächern beschäftigen, in einem konkreten Beispiel vorzustellen. Der Grad der Unanschaulichkeit mancher Problematiken, mit denen wir konfrontiert werden, ist besonders im Mathematischen Vorlesungen besonders groß. 
 

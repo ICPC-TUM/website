@@ -1,4 +1,4 @@
-##Wintercontest 2013
+#Wintercontest 2013
 
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>

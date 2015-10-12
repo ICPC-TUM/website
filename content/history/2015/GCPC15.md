@@ -1,4 +1,4 @@
-##GCPC 2015
+#GCPC 2015
 
 This day was not like any other day. It was a day of shouts of happiness and frustration. It was a day of half eaten pizza and tons of candies disappearing. It was a day of records and alterations. So what was this very day about?  
 The story begins at Saturday the 06/20/2015 at about 10:30. The campus Garching-Forschungszentrum was almost empty, except for a few students aiming for the mathematics and informatics building. Inside, everyone was going straight into the computer room where we were instantly welcomed by music from Two Steps From Hell. What music would fit better for the tasks that we were going to solve? 
@@ -11,6 +11,8 @@ One last notice, all 100 students together did not manage to eat all the pizza! 
 
 Sebastian Weiß, from team El chamán 
 (also known under the names “les chamans”, “the shamans” or “die Schamanen” in former contests)
+
+##Results
 
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>

@@ -1,6 +1,6 @@
-##Wintercontest 2015
+#Wintercontest 2015
 
-###Full house at the Winter Contest!
+##Full house at the Winter Contest!
 
 Being locked into a computer room together with a bunch of equally insane students, wildly plunking on a keyboard for five hours ­ on a Saturday right before the exam period. That's the teasing offer the department for efficient algorithms at the TUM made for this year's Winter Contest. Apparently more than 50 students weren't able to refuse and came to compete.
 
@@ -22,6 +22,7 @@ We received certificates as well, and after catching up with some more programme
 
 Author: Gregor Matl (Team #define true false)
 
+##Results
 
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
