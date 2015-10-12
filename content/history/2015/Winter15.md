@@ -1,14 +1,14 @@
 #Wintercontest 2015
 
-##Full house at the Winter Contest!
+##Full house at the Wintercontest!
 
-Being locked into a computer room together with a bunch of equally insane students, wildly plunking on a keyboard for five hours ­ on a Saturday right before the exam period. That's the teasing offer the department for efficient algorithms at the TUM made for this year's Winter Contest. Apparently more than 50 students weren't able to refuse and came to compete.
+Being locked into a computer room together with a bunch of equally insane students, wildly plunking on a keyboard for five hours ­ on a Saturday right before the exam period. That's the teasing offer the department for efficient algorithms at the TUM made for this year's Wintercontest. Apparently more than 50 students weren't able to refuse and came to compete.
 
 I was one of these crazy­minded students and I want to give a personal account of the event and explain why on earth it was, nevertheless, a good idea to come.
 
-The day of the contest was a nice winter day with the sun lurking through the clouds and a cover of snow on the streets, pretty much as one would expect it for a Winter Contest. The organizers apparently did a good job there.
+The day of the contest was a nice winter day with the sun lurking through the clouds and a cover of snow on the streets, pretty much as one would expect it for a Wintercontest. The organizers apparently did a good job there.
 
-I came to the university by subway, which was almost empty except for other programmers. However, there were a few students at the university preparing for their upcoming exams. “These must be truly crazy people to come to the university on a Saturday”, I thought. At the contest site, I met my teammates, two fellow students I know from similar competitions. The Winter Contest is a team contest, you may participate as a team of up to three persons. To make it more interesting, every team may only use a single computer, which can be quite a challenging constraint for three programmers.
+I came to the university by subway, which was almost empty except for other programmers. However, there were a few students at the university preparing for their upcoming exams. “These must be truly crazy people to come to the university on a Saturday”, I thought. At the contest site, I met my teammates, two fellow students I know from similar competitions. The Wintercontest is a team contest, you may participate as a team of up to three persons. To make it more interesting, every team may only use a single computer, which can be quite a challenging constraint for three programmers.
 
 Except for such peculiarities, the contest actually is quite straightforward: a set of about ten programming problems is handed to each team and they have to design and code algorithms capable of solving those efficiently. Whether an algorithm is deemed correct or not is decided by a judging tool that will thoroughly test it for all kinds of input. If an algorithm is accepted, this will become visible on the public scoreboard and a balloon will be attached to the team's computer.
 
@@ -18,7 +18,7 @@ While we focused on the problems, time went by in a flash. After four hours, wit
 
 However, the contest finally came to an end. And based on the balloon count, we were quite successful. The organizers immediately started to prepare a presentation on the results, which they gave a few minutes later. They briefly outlined a solution for each of the problems and finally began to simulate the action on the scoreboard that had occurred within the last hour. Teams went up on the scoreboard as their solutions were judged correct and certificates were handed out as soon as final ranks were determined.
 
-We received certificates as well, and after catching up with some more programmers and arguing about specific solutions, we proceeded to cars and subway station and finally dispersed on our way back into the city. But this was not the end, far from it: the Winter Contest is mainly a training contest aiming to prepare for the very similar German Collegiate Programming Contest (GCPC), which is taking place in early summer. And the GPCP is just training and qualification for the North West European Regional Contest (NWERC) next winter in Linköping, Sweden. And the NWERC is the qualification for the world finals of the International Collegiate Programming Contest (ICPC), which will take place at even more exotic places. We don't know how far we will succeed in this series. But now we are all geared up for it and we are certain: there are a lot more balloons waiting for us!
+We received certificates as well, and after catching up with some more programmers and arguing about specific solutions, we proceeded to cars and subway station and finally dispersed on our way back into the city. But this was not the end, far from it: the Wintercontest is mainly a training contest aiming to prepare for the very similar German Collegiate Programming Contest (GCPC), which is taking place in early summer. And the GPCP is just training and qualification for the North West European Regional Contest (NWERC) next winter in Linköping, Sweden. And the NWERC is the qualification for the world finals of the International Collegiate Programming Contest (ICPC), which will take place at even more exotic places. We don't know how far we will succeed in this series. But now we are all geared up for it and we are certain: there are a lot more balloons waiting for us!
 
 Author: Gregor Matl (Team #define true false)
 
