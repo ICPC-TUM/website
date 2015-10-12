@@ -5,4 +5,4 @@ Date: 2015/10/08
 Template: news
 */
 
-Text Text Text
+Text Text Text Text

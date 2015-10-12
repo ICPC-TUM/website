@@ -1,0 +1,71 @@
+{% include 'header.html' %}
+{% set numPages = 5 %}
+<div id="carousel" class="carousel slide" data-ride="carousel" style="height: 300px; margin-bottom: 60px;">
+  <ol class="carousel-indicators">
+    {% set i = 0 %}
+    {% for page in pages %}
+      {% if page.date and i < numPages %}
+        <li data-target="#carousel" data-slide-to="{{ i }}"{% if i == 0 %} class="active"{% endif %}></li>
+        {% set i = i + 1 %}
+      {% endif %}
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner" role="listbox">
+    {% set i = 0 %}
+    {% for page in pages %}
+      {% if page.date and i < numPages %}
+        <div class="item{% if i == 0 %} active{% endif %} img-rounded" style="height: 300px;
+        width: 100%; background-color: #002143;
+        background-image: url(/files/news_images/{{ page.url|split('/')|slice(-1,1)[0] }}.png);
+        background-position: center;">
+          <div class="container">
+            <div class="carousel-caption" style="z-index: 10;">
+              <h1 style="margin-bottom: 30px;">{{ page.title }}</h1>
+              <p style="margin-bottom: 20px;">{{ page.description }}</p>
+              <p><a class="btn btn-default" href="{{ page.url }}" role="button">Read more &raquo;</a></p>
+            </div>
+          </div>
+        </div>
+        {% set i = i + 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <a class="left carousel-control img-rounded" href="#carousel" role="button" data-slide="prev" style="color: #ffffff;">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control img-rounded" href="#carousel" role="button" data-slide="next" style="color: #ffffff;">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<div class="row">
+  <div class="col-lg-4">
+    <div style="text-align: center; font-size: 100px; margin: -30px 0;"><span class="glyphicon glyphicon-globe"></span>    
+    </div>
+    <h2>Learn</h2>
+    <p>Learn about programming contests in general and particularly the ACM-ICPC, the contests that we host
+    at TUM and what we can offer to you.</p>
+    <p><a class="btn btn-default" href="/icpc/general" role="button">View details &raquo;</a></p>
+  </div>
+  <div class="col-lg-4">
+    <div style="text-align: center; font-size: 100px; margin: -30px 0;"><span class="glyphicon glyphicon-education"></span>
+    </div>
+    <h2>Prepare</h2>
+    <p>Prepare for programming contests by visiting our courses and
+    lectures, solving the numerous excercise problems we provide.</p>
+    <p><a class="btn btn-default" href="/preparation/material" role="button">View details &raquo;</a></p>
+  </div>
+  <div class="col-lg-4">
+    <div style="text-align: center; font-size: 100px; margin: -30px 0;"><span class="glyphicon glyphicon-flag"></span>
+    </div>
+    <h2>Compete</h2>
+    <p>Compete in the contests we hold at TUM, for example the GCPC, the
+    Winter Contest, our preparation contests and more.</p>
+    <p><a class="btn btn-default" href="/contests" role="button">View details &raquo;</a></p>
+  </div>
+</div>
+
+{{ content }}
+{% include 'footer.html' %}

@@ -1,3 +1,3 @@
-# ICPC@TUM
-
-Welcome!
+/*
+Template: frontpage
+*/
