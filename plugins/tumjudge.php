@@ -1,7 +1,7 @@
 <?php
 
 class Tumjudge {
-  function after_parse_content(&$content) {
+  public function after_parse_content(&$content) {
     $instances = array(
       array('path' => 'ConPra', 'name' => 'Algorithms for Programming Contests', 'color' => '#00f090'),
       array('path' => 'Contest', 'name' => 'Preparation for the ACM ICPC', 'color' => '#0090f0'),
