@@ -4,7 +4,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CP5yArELpKY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-To Sweden with joy, chess and plenty of baggage
+##To Sweden with joy, chess and plenty of baggage
 
 It was about time! After years of preparations, innumerable training contests and estimated hundreds of pages of conceived cheat sheet, the final moment has arrived. The North West European Programming Contest, also known as NWERC, has begun.
 
