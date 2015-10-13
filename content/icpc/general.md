@@ -18,4 +18,4 @@ In every round (GCPC, NWERC, World Finals) the teams usually receive 8 - 10 prob
 
 ## Preparation
 
-We are regularly holding preparation contests which you can find under [preparation contests](/contests). Furthermore, there exist several collections of problem the most prominent of which is the [UVA Online Judge](https://uva.onlinejudge.org). It offers old problem sets from a variety of contests including the regional contests and the World Finals. More information regarding the preparation can be found under [links](/preparation/links) or [courses](/preparation/courses).
+For more information about how to prepare for programming contests, see [this site](/preparation/material).
