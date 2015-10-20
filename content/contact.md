@@ -12,12 +12,10 @@ Please contact us always via our email address [icpc@in.tum.de](mailto:icpc@in.t
 
 ## Our Postal Address
 
+```
 Institut für Informatik
-
 TU München
-
 Boltzmannstr. 3
-
 85748 Garching
-
 Germany
+```
