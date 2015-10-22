@@ -9,7 +9,7 @@ NWERC 2015 is approaching and we selected our teams at the training camp in Sept
 
 ##Preparation Contests 2015: 07
 
-*Thursday, 29.10.2015, 6.00 p.m. - 9.30 p.m. (3 hours contest), online at https://judge.in.tum.de/contest/*
+*Tuesday, 27.10.2015, 6.00 p.m. - 9.30 p.m. (3 hours contest), online at https://judge.in.tum.de/contest/*
 
 We prepared a contest using a mixture of problems for past year's ICPC contests around the world. Everybody is invited to join. Use your account at TUMjudge as usual to participate in this contest. The problem statements will be published when the contest begins at TUMjudge. If you want to participate in teams or don't have a TUMjudge account please write a message to icpc@in.tum.de. We will present solution ideas and answer questions using our Mumble server at judge.in.tum.de. There will be a training contest containing the same problem set for six more months to work on the problems later on.
 
@@ -19,7 +19,7 @@ We prepared a contest using a mixture of problems for past year's ICPC contests 
 
 Registration: to be announced in further news articles
 
-To be announced
+We will have a contest together with the Universidad Nacional de Ingenieria (UNI, Peru), the Universidad Nacional San Agustin, Arequipa (UNSA, Peru), and the University of Applied Sciences Landshut (HAW).
 
 ##Preparation Contests 2015: 08
 
