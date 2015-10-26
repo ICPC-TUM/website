@@ -1,7 +1,7 @@
 /*
 Title: Preparation Contests for NWERC 2015
 Description: We will host several open preparation contests for the NWERC 2015 at TUMjudge. Also, we will participate in several contests hosted by other universities.
-Date: 2015/11/20
+Date: 2015/10/20
 Template: news
 */
 
