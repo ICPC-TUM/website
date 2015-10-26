@@ -27,7 +27,7 @@ And most of all, our cooking and climbing skills certainly have improved, althou
 
 ##Scoreboards
 
-#Session 1
+###Session 1
 
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
@@ -56,7 +56,7 @@ And most of all, our cooking and climbing skills certainly have improved, althou
 </tbody>
 </table>
 
-#Session 2
+###Session 2
 
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
@@ -74,7 +74,7 @@ And most of all, our cooking and climbing skills certainly have improved, althou
 </tbody>
 </table>
 
-#Session 3
+###Session 3
 
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
