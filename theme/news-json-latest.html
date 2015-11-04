@@ -2,4 +2,4 @@
 {% for page in pages %}
     {% set t = max(t,date(page.date).timestamp) %}
 {% endfor %}
-{% t|json_encode() %}
+{{ t|json_encode() }}
