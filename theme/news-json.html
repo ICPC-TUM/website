@@ -1,0 +1,17 @@
+[
+{% set i = 0 %}
+{% for page in pages %}
+  {% if i < 5%}
+    {% if i > 0%}
+    ,
+    {% endif %}
+    {
+    "title": "{{ page.title }}",
+    "description": "{{ page.description}}",
+    "content": "{{ page.content}}",
+    "timestamp": {% date(page.date) %}
+    }
+  {% endif %}
+  {% set i = i + 1 %}
+{% endfor %}
+]

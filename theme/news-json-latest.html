@@ -1,0 +1,11 @@
+{% set t = 0 %}
+{% for page in pages %}
+  
+    {% if date(page.date) > t %}
+    {% set t = date(page.date) %}
+    {% endif %}
+    
+  {% endif %}
+  {% set i = i + 1 %}
+{% endfor %}
+[{% t %}]
