@@ -1,11 +1,5 @@
 {% set t = 0 %}
 {% for page in pages %}
-  
-    {% if date(page.date) > t %}
-    {% set t = date(page.date).timestamp %}
-    {% endif %}
-    
-  {% endif %}
-  {% set i = i + 1 %}
+    {% set t = max(t,date(page.date).timestamp) %}
 {% endfor %}
-[{% t %}]
+{% t|json_encode() %}

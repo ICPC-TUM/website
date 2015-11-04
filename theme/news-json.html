@@ -1,4 +1,5 @@
-{% for page in pages[0:4] %}
+{% set numPages = 5 %}
+{% for page in pages[0:numPages-1] %}
     {% set page.date = date(page.date).timestamp %}
 {% endfor %}
-{% pages[0:4]|json_encode() %}
+{% pages[0:numPages-1]|json_encode() %}
