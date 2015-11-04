@@ -9,7 +9,7 @@
     "title": "{{ page.title }}",
     "description": "{{ page.description}}",
     "content": "{{ page.content}}",
-    "timestamp": {% date(page.date) %}
+    "timestamp": {% date(page.date).timestamp %}
     }
   {% endif %}
   {% set i = i + 1 %}

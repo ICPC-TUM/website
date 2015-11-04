@@ -2,7 +2,7 @@
 {% for page in pages %}
   
     {% if date(page.date) > t %}
-    {% set t = date(page.date) %}
+    {% set t = date(page.date).timestamp %}
     {% endif %}
     
   {% endif %}
