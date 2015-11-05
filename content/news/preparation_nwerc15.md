@@ -25,6 +25,12 @@ We will have a contest together with the Universidad Nacional de Ingenieria (UNI
 
 We prepared a contest using a mixture of problems for past year's ICPC contests around the world. Everybody is invited to join. Use your account at TUMjudge as usual to participate in this contest. The problem statements will be published when the contest begins at TUMjudge. If you want to participate in teams or don't have a TUMjudge account please write a message to icpc@in.tum.de. We will present solution ideas and answer questions using our Mumble server at judge.in.tum.de. There will be a training contest containing the same problem set for six more months to work on the problems later on.
 
+##The 2015 ACM-ICPC South America-North Finals 
+
+*Saturday, 14.11.2015, 7.00 p.m. - 12.00 a.m. (5 hours contest), online at http://registro.redprogramacioncompetitiva.com/*
+
+We are invited to participate in the South America-North Finals. Register your teams at the website given above and participate in a real ICPC regional contest to prepare for NWERC!
+
 ##Amirkabir Contest 2015
 
 *Friday, 20.11.2015, 11.30 a.m. - 6.00 p.m. (5 hours contest), Computer Lab (Rechnerhalle), Garching*
