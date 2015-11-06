@@ -1,3 +1,0 @@
-/*
-Template: news-json-latest
-*/
