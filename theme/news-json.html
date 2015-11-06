@@ -2,9 +2,9 @@
 {% set result = {} %}
 {% set i = 0 %}
 {% for page in pages %}
-  {% if page.date %}
+  {% if page.date and i < numPages %}
       {%set a = page.content|replace({'"':"'"})|e('html')%}
-      {% set result = result|merge({(loop.index0) : {'title': page.title,'content':a,'timestamp':date(page.date).timestamp}}) %}
+      {% set result = result|merge({(loop.index0) : {'title': page.title,'description':page.description,'content':a,'timestamp':date(page.date).timestamp}}) %}
       {% set i = i+1 %}
   {% endif %}
 {% endfor %}
