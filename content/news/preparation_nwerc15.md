@@ -1,7 +1,7 @@
 /*
 Title: Preparation Contests for NWERC 2015
 Description: We will host several open preparation contests for the NWERC 2015 at TUMjudge. Also, we will participate in several contests hosted by other universities.
-Date: 2015/11/20
+Date: 2015/10/20
 Template: news
 */
 
@@ -13,19 +13,23 @@ NWERC 2015 is approaching and we selected our teams at the training camp in Sept
 
 We prepared a contest using a mixture of problems for past year's ICPC contests around the world. Everybody is invited to join. Use your account at TUMjudge as usual to participate in this contest. The problem statements will be published when the contest begins at TUMjudge. If you want to participate in teams or don't have a TUMjudge account please write a message to icpc@in.tum.de. We will present solution ideas and answer questions using our Mumble server at judge.in.tum.de. There will be a training contest containing the same problem set for six more months to work on the problems later on.
 
-##Contest with universities from Peru
+##Contest with universities from Peru *(postponed)*
 
-*Saturday, 07.11.2015, 2.30 p.m. - ?? p.m. (?? hours contest), online*
-
-Registration: to be announced in further news articles
+**postponed**
 
 We will have a contest together with the Universidad Nacional de Ingenieria (UNI, Peru), the Universidad Nacional San Agustin, Arequipa (UNSA, Peru), and the University of Applied Sciences Landshut (HAW).
 
 ##Preparation Contests 2015: 08
 
-*Thursday, 12.11.2015, 6.00 p.m. - 9.30 p.m. (3 hours contest), online at https://judge.in.tum.de/contest/*
+*Thursday, 12.11.2015, 5.00 p.m. - 8.30 p.m. (3 hours contest), online at https://judge.in.tum.de/contest/* **(time changed)**
 
 We prepared a contest using a mixture of problems for past year's ICPC contests around the world. Everybody is invited to join. Use your account at TUMjudge as usual to participate in this contest. The problem statements will be published when the contest begins at TUMjudge. If you want to participate in teams or don't have a TUMjudge account please write a message to icpc@in.tum.de. We will present solution ideas and answer questions using our Mumble server at judge.in.tum.de. There will be a training contest containing the same problem set for six more months to work on the problems later on.
+
+##The 2015 ACM-ICPC South America-North Finals 
+
+*Saturday, 14.11.2015, 7.00 p.m. - 12.00 a.m. (5 hours contest), online at http://registro.redprogramacioncompetitiva.com/*
+
+We are invited to participate in the South America-North Finals. Register your teams at the website given above and participate in a real ICPC regional contest to prepare for NWERC!
 
 ##Amirkabir Contest 2015
 
