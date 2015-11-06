@@ -1,5 +1,11 @@
 {% set numPages = 5 %}
-{% for page in pages[0:numPages-1] %}
-    {% set page.date = date(page.date).timestamp %}
+{% set result = {} %}
+{% set i = 0 %}
+{% for page in pages %}
+  {% if page.date %}
+      {%set a = page.content|replace({'"':"'"})|e('html')%}
+      {% set result = result|merge({(loop.index0) : {'title': page.title,'content':a,'timestamp':date(page.date).timestamp}}) %}
+      {% set i = i+1 %}
+  {% endif %}
 {% endfor %}
-{{ pages[0:numPages-1]|json_encode() }}
+{{ result|json_encode() }}
