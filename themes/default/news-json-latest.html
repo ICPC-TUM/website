@@ -4,4 +4,4 @@
       {% set t = max(t,date(page.date).timestamp) %}
   {% endif %}
 {% endfor %}
-{{ t|json_encode() }}
+{{ {'timestamp' : t}|json_encode() }}	
