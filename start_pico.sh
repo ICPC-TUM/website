@@ -4,4 +4,4 @@ then
 	curl -sS https://getcomposer.org/installer | php
 	php composer.phar install
 fi
-sudo php -S 0.0.0.0:8080 index.php &
+sudo php -S 0.0.0.0:8080 -t ./ &
