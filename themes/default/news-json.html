@@ -4,7 +4,7 @@
 {% for page in pages %}
   {% if page.date and i < numPages %}
       {% set content = page.content|replace({'"':"'"}) %}
-      {% set image_url = "/news/%s.png"|format(page.url|split("/")|last) %}
+      {% set image_url = "/content/news/%s.png"|format(page.url|split("/")|last) %}
       {% set result = result|merge({(loop.index0) : {'title': page.title,'description':page.description,'content':content,'image_url': image_url,'timestamp':date(page.date).timestamp}}) %}
       {% set i = i+1 %}
   {% endif %}

@@ -14,10 +14,7 @@
     {% set i = 0 %}
     {% for page in pages %}
       {% if page.date and i < numPages %}
-        <div class="item{% if i == 0 %} active{% endif %} img-rounded" style="height: 300px;
-        width: 100%; background-color: #002143;
-        background-image: url(/files/news_images/{{ page.url|split('/')|slice(-1,1)[0] }}.png);
-        background-position: center;">
+        <div class="item{% if i == 0 %} active{% endif %} img-rounded" style="height: 300px; width: 100%; background-color: #002143; background-image: url({{ "/content/news/%s.png"|format(page.url|split("/")|last) }}); background-position: center;">
           <div class="container">
             <div class="carousel-caption" style="z-index: 10;">
               <h1 style="margin-bottom: 30px; text-shadow: 0 0 4px black;">{{ page.title }}</h1>
