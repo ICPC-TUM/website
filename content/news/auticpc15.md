@@ -1,6 +1,6 @@
 /*
 Title: Amirkabir 2015
-Description: This friday we will host a joint contest with universities from Iran call Amirkabir.
+Description: We will host a joint contest with universities from Iran called Amirkabir.
 Date: 2015/11/17
 Template: news
 */
