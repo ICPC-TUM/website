@@ -1,13 +1,13 @@
 /*
-Title: Amirkabir 2015
-Description: We will host a joint contest with universities from Iran called Amirkabir.
+Title: Amirkabir ICPC 2015
+Description: We will host a joint contest with universities from Iran called Amirkabir International Collegiate Programming Contest.
 Date: 2015/11/17
 Template: news
 */
 
 This contest is held annually at Amirkabir UT in Teheran, Iran. We will host an additional contest site at TUM and create a shared scoreboard. Several teams (usually more than 50 teams) from various universities attend Amirkabir contest each year, including Iranian ICPC World Finalists.
 
-Amirkabir 2015 is the perfect preparation for NWERC 2015 and also a good chance to try competitive programming for newcomers.
+Amirkabir ICPC 2015 is the perfect preparation for NWERC 2015 and also a good chance to try competitive programming for newcomers.
 
 ## When & Where
 Friday, 20.11.2015, 12:00 - 5:00 p.m. in room [MI 02.07.038](https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=121&roomid=02.07.038@5607).
