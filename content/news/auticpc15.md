@@ -9,6 +9,8 @@ This contest is held annually at Amirkabir UT in Teheran, Iran. We will host an 
 
 Amirkabir ICPC 2015 is the perfect preparation for NWERC 2015 and also a good chance to try competitive programming for newcomers.
 
+You are allowed to bring printed and/or handwritten material you might want to use during the contest.
+
 ## When & Where
 Friday, 20.11.2015, 12:00 - 5:00 p.m. in room [MI 02.07.038](https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=121&roomid=02.07.038@5607).
 
