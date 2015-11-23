@@ -21,3 +21,6 @@ Please register your team at http://icpc.aut.ac.ir/ as soon as possible.
 Write a message to icpc@in.tum.de if you encounter any problems.
 
 We will provide small snacks and some drinks during the contest. We are looking forward to meeting you at the contest!
+
+## Update
+The contest was successfully held, a short review can be found [here](../content/history/2015/Amirkabir2015)
