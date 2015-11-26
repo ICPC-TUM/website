@@ -1,6 +1,6 @@
 /*
 Title: Results of the Amirkabir ICPC 2015
-Description: We will host a joint contest with universities from Iran called Amirkabir International Collegiate Programming Contest.
+Description: We hosted a contest site of the Amirkabir ICPC 2015. One team from TUM scored the second rank.
 Date: 2015/11/20
 Template: news
 */
