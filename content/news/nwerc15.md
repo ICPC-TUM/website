@@ -1,6 +1,6 @@
 /*
 Title: NWERC 2015
-Description: TUM goes to Sweden to participate in the Northwestern European Regional Contest of the ICPC.
+Description: TUM goes to Sweden to participate in the Northwestern Europe Regional Contest of the ICPC.
 Date: 2015/11/26
 Template: news
 */
