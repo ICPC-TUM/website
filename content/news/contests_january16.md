@@ -41,7 +41,7 @@ We mentioned that many students are eager to solve more programming problems and
 
 Good luck and lots of fun to all participants of all contests mentioned here.
 
-/*
+<!--
 Sources:
 https://judge.in.tum.de/contests
 https://www.hackerrank.com/contests
@@ -50,4 +50,4 @@ http://codeforces.com/contests
 https://www.topcoder.com/community/events/
 https://www.facebook.com/hackercup/
 https://code.google.com/codejam
-*/
+-->
