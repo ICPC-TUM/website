@@ -5,7 +5,7 @@ Date: 2016/01/15
 Template: news
 */
 
-This summer we will host another practical course with the title "Algorithms for Programming Contests". You will get to know a mixture of algorithms during this course. The main focus will be to implement all this algorithms. This is the official course description:
+This summer we will host another practical course with the title "Algorithms for Programming Contests". You will get to know a mixture of algorithms during this course. The main focus will be the implementation of these algorithms. This is the official course description:
 
 > Programming contests are competitions for solving problems with the help of computer programs. By taking part in these contests one may improve skills in using algorithms and data structures as well as in problem solving, software development and teamwork through fun and games. Important topics in computer science are combined with the fun in programming.
 > 
@@ -25,4 +25,4 @@ This summer we will host another practical course with the title "Algorithms for
 
 This course will once again be taught by Moritz Fuchs, Philipp Hoffmann, Christian Müller, Chris Pinkau, and Stefan Toman. You can find all information about the course at http://wwwalbers.in.tum.de/lehre/2016SS/conpra/index.html.en.
 
-The preliminary discussion will take place on *Thursday, January 21 at 1:00 p.m. in room [MI 03.13.010](https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=140&roomid=03.13.010@5613)*. Please visit this event if you are interested in the course. The lecture will be Wednesdays from 2:00 p.m. to 4:00 p.m. in room [MI 00.13.0009A](https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=92&roomid=00.13.009A@5613). Applications will be accepted until February 3 via the [matching system](https://matching.in.tum.de).
+The preliminary discussion will take place on *Thursday, January 21 at 1:00 p.m. in room [MI 03.13.010](https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=140&roomid=03.13.010@5613)*. Please visit this event if you are interested in the course. The lecture will be held Wednesdays from 2:00 p.m. to 4:00 p.m. in room [MI 00.13.0009A](https://portal.mytum.de/campus/roomfinder/roomfinder_viewmap?mapid=92&roomid=00.13.009A@5613). Applications will be accepted until February 3 via the [matching system](https://matching.in.tum.de).
