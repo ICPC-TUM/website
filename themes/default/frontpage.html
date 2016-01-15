@@ -28,7 +28,7 @@
     <a class="btn btn-default" href="/contests" role="button">View details &raquo;</a>
   </div>
 </div>
-{# needs to be odd (Archive entry!)#}
+
 {% set numPages = 10 %}
 {% set archiveEntries = 8%}
 
@@ -39,9 +39,9 @@
       <div class="row">
     {% endif %}    
     <div class="col-md-6" style="height:300px; padding:20px 20px 20px 20px;">
-      <div class="img-rounded" style="height:100%; width:100%; background-color: #002143; background-image: url({{ "/content/news/%s.png"|format(page.url|split("/")|last) }}); background-position: center;">
-	    <h1 style="padding:20px 20px 10px 20px; color: rgb(255, 255, 255);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; text-shadow: 0 0 4px black;">{{ page.title }}</h1>
-	    <p style="padding:0px 20px 0px 20px; color: rgb(255, 255, 255);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; margin-bottom: 20px; text-shadow: 0 0 2px black;">{{ page.description }}</p>
+      <div class="img-rounded" style="height:100%; width:100%; background-color: #002143; background-image: url({{ "/content/news/%s.png"|format(page.url|split("/")|last) }}); background-position: center;color: rgb(255, 255, 255);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">
+	    <h1 style="padding:20px 20px 10px 20px;text-shadow: 0 0 4px black;">{{ page.title }}</h1>
+	    <p style="padding:0px 20px 0px 20px;text-shadow: 0 0 4px black;">{{ page.description }}</p>
 	    <p style="position:absolute;top:250px; left:35px;"><a class="btn btn-default" href="{{ page.url }}" role="button">Read more &raquo;</a></p>
       </div>
     </div>
@@ -52,7 +52,7 @@
 {% endfor %}
 
 {# Close row if not already done #}
-{% if pages|length%2 == 0 %}
+{% if pages|length%2 == 1 %}
 </div>
 {% endif %}
 
