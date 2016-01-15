@@ -1,6 +1,6 @@
 /*
 Title: Wintercontest 2016
-Description: We will host a site of the annually ICPC-style FAU Wintercontest.
+Description: We will host a site of the annual ICPC-style FAU Wintercontest.
 Date: 2016/01/15
 Template: news
 */
