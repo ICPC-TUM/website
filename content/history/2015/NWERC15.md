@@ -47,12 +47,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="FIN" data-placement="top" title="Finland" src="images/flags/705.png" />
+            <img class="flag" data-toggle="tooltip" alt="FIN" data-placement="top" title="Finland" src="http://www.nwerc.eu/scoreboard/images/flags/705.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Helsinki" data-placement="top" title="University of Helsinki" src="images/logos/331.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Helsinki" data-placement="top" title="University of Helsinki" src="http://www.nwerc.eu/scoreboard/images/logos/331.png" />
             </td>
             
             <td class='total'>10</td>
@@ -201,12 +201,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Imperial College London" data-placement="top" title="Imperial College London" src="images/logos/446.png" />
+            <img class="flag" data-toggle="tooltip" alt="Imperial College London" data-placement="top" title="Imperial College London" src="http://www.nwerc.eu/scoreboard/images/logos/446.png" />
             </td>
             
             <td class='total'>9</td>
@@ -342,12 +342,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Utrecht University" data-placement="top" title="Utrecht University" src="images/logos/906.png" />
+            <img class="flag" data-toggle="tooltip" alt="Utrecht University" data-placement="top" title="Utrecht University" src="http://www.nwerc.eu/scoreboard/images/logos/906.png" />
             </td>
             
             <td class='total'>9</td>
@@ -482,12 +482,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Nijmegen University" data-placement="top" title="Nijmegen University" src="images/logos/185.png" />
+            <img class="flag" data-toggle="tooltip" alt="Nijmegen University" data-placement="top" title="Nijmegen University" src="http://www.nwerc.eu/scoreboard/images/logos/185.png" />
             </td>
             
             <td class='total'>9</td>
@@ -621,12 +621,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Karlsruhe Institute of Technology (KIT)" data-placement="top" title="Karlsruhe Institute of Technology (KIT)" src="images/logos/937.png" />
+            <img class="flag" data-toggle="tooltip" alt="Karlsruhe Institute of Technology (KIT)" data-placement="top" title="Karlsruhe Institute of Technology (KIT)" src="http://www.nwerc.eu/scoreboard/images/logos/937.png" />
             </td>
             
             <td class='total'>8</td>
@@ -753,12 +753,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="ISL" data-placement="top" title="Iceland" src="images/flags/735.png" />
+            <img class="flag" data-toggle="tooltip" alt="ISL" data-placement="top" title="Iceland" src="http://www.nwerc.eu/scoreboard/images/flags/735.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Reykjavik University" data-placement="top" title="Reykjavik University" src="images/logos/746.png" />
+            <img class="flag" data-toggle="tooltip" alt="Reykjavik University" data-placement="top" title="Reykjavik University" src="http://www.nwerc.eu/scoreboard/images/logos/746.png" />
             </td>
             
             <td class='total'>8</td>
@@ -892,12 +892,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Cambridge" data-placement="top" title="University of Cambridge" src="images/logos/205.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Cambridge" data-placement="top" title="University of Cambridge" src="http://www.nwerc.eu/scoreboard/images/logos/205.png" />
             </td>
             
             <td class='total'>8</td>
@@ -1024,12 +1024,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University College London" data-placement="top" title="University College London" src="images/logos/669.png" />
+            <img class="flag" data-toggle="tooltip" alt="University College London" data-placement="top" title="University College London" src="http://www.nwerc.eu/scoreboard/images/logos/669.png" />
             </td>
             
             <td class='total'>8</td>
@@ -1156,12 +1156,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="images/flags/659.png" />
+            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="http://www.nwerc.eu/scoreboard/images/flags/659.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Université catholique de Louvain" data-placement="top" title="Université catholique de Louvain" src="images/logos/79.png" />
+            <img class="flag" data-toggle="tooltip" alt="Université catholique de Louvain" data-placement="top" title="Université catholique de Louvain" src="http://www.nwerc.eu/scoreboard/images/logos/79.png" />
             </td>
             
             <td class='total'>7</td>
@@ -1290,12 +1290,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Friedrich-Alexander-University Erlangen-Nuremberg" data-placement="top" title="Friedrich-Alexander-University Erlangen-Nuremberg" src="images/logos/47.png" />
+            <img class="flag" data-toggle="tooltip" alt="Friedrich-Alexander-University Erlangen-Nuremberg" data-placement="top" title="Friedrich-Alexander-University Erlangen-Nuremberg" src="http://www.nwerc.eu/scoreboard/images/logos/47.png" />
             </td>
             
             <td class='total'>7</td>
@@ -1427,12 +1427,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Warwick" data-placement="top" title="University of Warwick" src="images/logos/469.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Warwick" data-placement="top" title="University of Warwick" src="http://www.nwerc.eu/scoreboard/images/logos/469.png" />
             </td>
             
             <td class='total'>7</td>
@@ -1552,12 +1552,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Cambridge" data-placement="top" title="University of Cambridge" src="images/logos/205.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Cambridge" data-placement="top" title="University of Cambridge" src="http://www.nwerc.eu/scoreboard/images/logos/205.png" />
             </td>
             
             <td class='total'>7</td>
@@ -1690,12 +1690,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Lund University" data-placement="top" title="Lund University" src="images/logos/84.png" />
+            <img class="flag" data-toggle="tooltip" alt="Lund University" data-placement="top" title="Lund University" src="http://www.nwerc.eu/scoreboard/images/logos/84.png" />
             </td>
             
             <td class='total'>7</td>
@@ -1821,12 +1821,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universitaet des Saarlandes" data-placement="top" title="Universitaet des Saarlandes" src="images/logos/889.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universitaet des Saarlandes" data-placement="top" title="Universitaet des Saarlandes" src="http://www.nwerc.eu/scoreboard/images/logos/889.png" />
             </td>
             
             <td class='total'>7</td>
@@ -1946,12 +1946,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Friedrich-Alexander-University Erlangen-Nuremberg" data-placement="top" title="Friedrich-Alexander-University Erlangen-Nuremberg" src="images/logos/47.png" />
+            <img class="flag" data-toggle="tooltip" alt="Friedrich-Alexander-University Erlangen-Nuremberg" data-placement="top" title="Friedrich-Alexander-University Erlangen-Nuremberg" src="http://www.nwerc.eu/scoreboard/images/logos/47.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2071,12 +2071,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="KTH - Royal Institute of Technology" data-placement="top" title="KTH - Royal Institute of Technology" src="images/logos/560.png" />
+            <img class="flag" data-toggle="tooltip" alt="KTH - Royal Institute of Technology" data-placement="top" title="KTH - Royal Institute of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/560.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2208,12 +2208,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Southampton" data-placement="top" title="University of Southampton" src="images/logos/165.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Southampton" data-placement="top" title="University of Southampton" src="http://www.nwerc.eu/scoreboard/images/logos/165.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2339,12 +2339,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="images/flags/659.png" />
+            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="http://www.nwerc.eu/scoreboard/images/flags/659.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Katholieke Universiteit Leuven" data-placement="top" title="Katholieke Universiteit Leuven" src="images/logos/922.png" />
+            <img class="flag" data-toggle="tooltip" alt="Katholieke Universiteit Leuven" data-placement="top" title="Katholieke Universiteit Leuven" src="http://www.nwerc.eu/scoreboard/images/logos/922.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2470,12 +2470,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Technische Universitaet Muenchen" data-placement="top" title="Technische Universitaet Muenchen" src="images/logos/852.png" />
+            <img class="flag" data-toggle="tooltip" alt="Technische Universitaet Muenchen" data-placement="top" title="Technische Universitaet Muenchen" src="http://www.nwerc.eu/scoreboard/images/logos/852.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2601,12 +2601,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Oxford" data-placement="top" title="University of Oxford" src="images/logos/155.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Oxford" data-placement="top" title="University of Oxford" src="http://www.nwerc.eu/scoreboard/images/logos/155.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2726,12 +2726,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="KTH - Royal Institute of Technology" data-placement="top" title="KTH - Royal Institute of Technology" src="images/logos/560.png" />
+            <img class="flag" data-toggle="tooltip" alt="KTH - Royal Institute of Technology" data-placement="top" title="KTH - Royal Institute of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/560.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2851,12 +2851,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="images/flags/786.png" />
+            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="http://www.nwerc.eu/scoreboard/images/flags/786.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Norwegian University of Science and Technology" data-placement="top" title="Norwegian University of Science and Technology" src="images/logos/87.png" />
+            <img class="flag" data-toggle="tooltip" alt="Norwegian University of Science and Technology" data-placement="top" title="Norwegian University of Science and Technology" src="http://www.nwerc.eu/scoreboard/images/logos/87.png" />
             </td>
             
             <td class='total'>7</td>
@@ -2976,12 +2976,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Delft University of Technology" data-placement="top" title="Delft University of Technology" src="images/logos/207.png" />
+            <img class="flag" data-toggle="tooltip" alt="Delft University of Technology" data-placement="top" title="Delft University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/207.png" />
             </td>
             
             <td class='total'>7</td>
@@ -3107,12 +3107,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="images/flags/695.png" />
+            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="http://www.nwerc.eu/scoreboard/images/flags/695.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Copenhagen" data-placement="top" title="University of Copenhagen" src="images/logos/176.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Copenhagen" data-placement="top" title="University of Copenhagen" src="http://www.nwerc.eu/scoreboard/images/logos/176.png" />
             </td>
             
             <td class='total'>7</td>
@@ -3238,12 +3238,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Friedrich-Alexander-University Erlangen-Nuremberg" data-placement="top" title="Friedrich-Alexander-University Erlangen-Nuremberg" src="images/logos/47.png" />
+            <img class="flag" data-toggle="tooltip" alt="Friedrich-Alexander-University Erlangen-Nuremberg" data-placement="top" title="Friedrich-Alexander-University Erlangen-Nuremberg" src="http://www.nwerc.eu/scoreboard/images/logos/47.png" />
             </td>
             
             <td class='total'>6</td>
@@ -3362,12 +3362,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Oxford" data-placement="top" title="University of Oxford" src="images/logos/155.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Oxford" data-placement="top" title="University of Oxford" src="http://www.nwerc.eu/scoreboard/images/logos/155.png" />
             </td>
             
             <td class='total'>6</td>
@@ -3486,12 +3486,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Ludwig-Maximilians Universität München" data-placement="top" title="Ludwig-Maximilians Universität München" src="images/logos/791.png" />
+            <img class="flag" data-toggle="tooltip" alt="Ludwig-Maximilians Universität München" data-placement="top" title="Ludwig-Maximilians Universität München" src="http://www.nwerc.eu/scoreboard/images/logos/791.png" />
             </td>
             
             <td class='total'>6</td>
@@ -3610,12 +3610,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Karlsruhe Institute of Technology (KIT)" data-placement="top" title="Karlsruhe Institute of Technology (KIT)" src="images/logos/937.png" />
+            <img class="flag" data-toggle="tooltip" alt="Karlsruhe Institute of Technology (KIT)" data-placement="top" title="Karlsruhe Institute of Technology (KIT)" src="http://www.nwerc.eu/scoreboard/images/logos/937.png" />
             </td>
             
             <td class='total'>6</td>
@@ -3734,12 +3734,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Edinburgh" data-placement="top" title="University of Edinburgh" src="images/logos/409.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Edinburgh" data-placement="top" title="University of Edinburgh" src="http://www.nwerc.eu/scoreboard/images/logos/409.png" />
             </td>
             
             <td class='total'>6</td>
@@ -3858,12 +3858,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Technische Universitaet Muenchen" data-placement="top" title="Technische Universitaet Muenchen" src="images/logos/852.png" />
+            <img class="flag" data-toggle="tooltip" alt="Technische Universitaet Muenchen" data-placement="top" title="Technische Universitaet Muenchen" src="http://www.nwerc.eu/scoreboard/images/logos/852.png" />
             </td>
             
             <td class='total'>6</td>
@@ -3976,12 +3976,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Utrecht University" data-placement="top" title="Utrecht University" src="images/logos/906.png" />
+            <img class="flag" data-toggle="tooltip" alt="Utrecht University" data-placement="top" title="Utrecht University" src="http://www.nwerc.eu/scoreboard/images/logos/906.png" />
             </td>
             
             <td class='total'>6</td>
@@ -4100,12 +4100,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Georg-August Universität Göttingen" data-placement="top" title="Georg-August Universität Göttingen" src="images/logos/37.png" />
+            <img class="flag" data-toggle="tooltip" alt="Georg-August Universität Göttingen" data-placement="top" title="Georg-August Universität Göttingen" src="http://www.nwerc.eu/scoreboard/images/logos/37.png" />
             </td>
             
             <td class='total'>6</td>
@@ -4224,12 +4224,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Cambridge" data-placement="top" title="University of Cambridge" src="images/logos/205.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Cambridge" data-placement="top" title="University of Cambridge" src="http://www.nwerc.eu/scoreboard/images/logos/205.png" />
             </td>
             
             <td class='total'>6</td>
@@ -4348,12 +4348,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Imperial College London" data-placement="top" title="Imperial College London" src="images/logos/446.png" />
+            <img class="flag" data-toggle="tooltip" alt="Imperial College London" data-placement="top" title="Imperial College London" src="http://www.nwerc.eu/scoreboard/images/logos/446.png" />
             </td>
             
             <td class='total'>5</td>
@@ -4471,12 +4471,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universiteit van Amsterdam" data-placement="top" title="Universiteit van Amsterdam" src="images/logos/854.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universiteit van Amsterdam" data-placement="top" title="Universiteit van Amsterdam" src="http://www.nwerc.eu/scoreboard/images/logos/854.png" />
             </td>
             
             <td class='total'>5</td>
@@ -4594,12 +4594,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Delft University of Technology" data-placement="top" title="Delft University of Technology" src="images/logos/207.png" />
+            <img class="flag" data-toggle="tooltip" alt="Delft University of Technology" data-placement="top" title="Delft University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/207.png" />
             </td>
             
             <td class='total'>5</td>
@@ -4717,12 +4717,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="images/flags/695.png" />
+            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="http://www.nwerc.eu/scoreboard/images/flags/695.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Aarhus University" data-placement="top" title="Aarhus University" src="images/logos/842.png" />
+            <img class="flag" data-toggle="tooltip" alt="Aarhus University" data-placement="top" title="Aarhus University" src="http://www.nwerc.eu/scoreboard/images/logos/842.png" />
             </td>
             
             <td class='total'>5</td>
@@ -4834,12 +4834,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Uppsala University" data-placement="top" title="Uppsala University" src="images/logos/64.png" />
+            <img class="flag" data-toggle="tooltip" alt="Uppsala University" data-placement="top" title="Uppsala University" src="http://www.nwerc.eu/scoreboard/images/logos/64.png" />
             </td>
             
             <td class='total'>5</td>
@@ -4957,12 +4957,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="images/logos/449.png" />
+            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/449.png" />
             </td>
             
             <td class='total'>5</td>
@@ -5074,12 +5074,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="images/flags/659.png" />
+            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="http://www.nwerc.eu/scoreboard/images/flags/659.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Université catholique de Louvain" data-placement="top" title="Université catholique de Louvain" src="images/logos/79.png" />
+            <img class="flag" data-toggle="tooltip" alt="Université catholique de Louvain" data-placement="top" title="Université catholique de Louvain" src="http://www.nwerc.eu/scoreboard/images/logos/79.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5196,12 +5196,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Eindhoven University of Technology" data-placement="top" title="Eindhoven University of Technology" src="images/logos/86.png" />
+            <img class="flag" data-toggle="tooltip" alt="Eindhoven University of Technology" data-placement="top" title="Eindhoven University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/86.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5318,12 +5318,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Twente" data-placement="top" title="University of Twente" src="images/logos/949.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Twente" data-placement="top" title="University of Twente" src="http://www.nwerc.eu/scoreboard/images/logos/949.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5434,12 +5434,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Johannes Gutenberg Universität Mainz" data-placement="top" title="Johannes Gutenberg Universität Mainz" src="images/logos/462.png" />
+            <img class="flag" data-toggle="tooltip" alt="Johannes Gutenberg Universität Mainz" data-placement="top" title="Johannes Gutenberg Universität Mainz" src="http://www.nwerc.eu/scoreboard/images/logos/462.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5556,12 +5556,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Technische Universitaet Muenchen" data-placement="top" title="Technische Universitaet Muenchen" src="images/logos/852.png" />
+            <img class="flag" data-toggle="tooltip" alt="Technische Universitaet Muenchen" data-placement="top" title="Technische Universitaet Muenchen" src="http://www.nwerc.eu/scoreboard/images/logos/852.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5678,12 +5678,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="images/flags/786.png" />
+            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="http://www.nwerc.eu/scoreboard/images/flags/786.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Oslo" data-placement="top" title="University of Oslo" src="images/logos/345.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Oslo" data-placement="top" title="University of Oslo" src="http://www.nwerc.eu/scoreboard/images/logos/345.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5788,12 +5788,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="images/flags/695.png" />
+            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="http://www.nwerc.eu/scoreboard/images/flags/695.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Aarhus University" data-placement="top" title="Aarhus University" src="images/logos/842.png" />
+            <img class="flag" data-toggle="tooltip" alt="Aarhus University" data-placement="top" title="Aarhus University" src="http://www.nwerc.eu/scoreboard/images/logos/842.png" />
             </td>
             
             <td class='total'>4</td>
@@ -5904,12 +5904,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universität zu Lübeck" data-placement="top" title="Universität zu Lübeck" src="images/logos/705.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universität zu Lübeck" data-placement="top" title="Universität zu Lübeck" src="http://www.nwerc.eu/scoreboard/images/logos/705.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6014,12 +6014,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universitaet des Saarlandes" data-placement="top" title="Universitaet des Saarlandes" src="images/logos/889.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universitaet des Saarlandes" data-placement="top" title="Universitaet des Saarlandes" src="http://www.nwerc.eu/scoreboard/images/logos/889.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6130,12 +6130,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Eindhoven University of Technology" data-placement="top" title="Eindhoven University of Technology" src="images/logos/86.png" />
+            <img class="flag" data-toggle="tooltip" alt="Eindhoven University of Technology" data-placement="top" title="Eindhoven University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/86.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6252,12 +6252,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Edinburgh" data-placement="top" title="University of Edinburgh" src="images/logos/409.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Edinburgh" data-placement="top" title="University of Edinburgh" src="http://www.nwerc.eu/scoreboard/images/logos/409.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6362,12 +6362,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="images/flags/786.png" />
+            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="http://www.nwerc.eu/scoreboard/images/flags/786.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Oslo" data-placement="top" title="University of Oslo" src="images/logos/345.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Oslo" data-placement="top" title="University of Oslo" src="http://www.nwerc.eu/scoreboard/images/logos/345.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6466,12 +6466,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="images/logos/449.png" />
+            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/449.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6576,12 +6576,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="images/logos/449.png" />
+            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/449.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6686,12 +6686,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Eindhoven University of Technology" data-placement="top" title="Eindhoven University of Technology" src="images/logos/86.png" />
+            <img class="flag" data-toggle="tooltip" alt="Eindhoven University of Technology" data-placement="top" title="Eindhoven University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/86.png" />
             </td>
             
             <td class='total'>4</td>
@@ -6808,12 +6808,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="images/logos/449.png" />
+            <img class="flag" data-toggle="tooltip" alt="Linköping Institute of Technology" data-placement="top" title="Linköping Institute of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/449.png" />
             </td>
             
             <td class='total'>3</td>
@@ -6923,12 +6923,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Karlsruhe Institute of Technology (KIT)" data-placement="top" title="Karlsruhe Institute of Technology (KIT)" src="images/logos/937.png" />
+            <img class="flag" data-toggle="tooltip" alt="Karlsruhe Institute of Technology (KIT)" data-placement="top" title="Karlsruhe Institute of Technology (KIT)" src="http://www.nwerc.eu/scoreboard/images/logos/937.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7038,12 +7038,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Nijmegen University" data-placement="top" title="Nijmegen University" src="images/logos/185.png" />
+            <img class="flag" data-toggle="tooltip" alt="Nijmegen University" data-placement="top" title="Nijmegen University" src="http://www.nwerc.eu/scoreboard/images/logos/185.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7159,12 +7159,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Luleå University of Technology" data-placement="top" title="Luleå University of Technology" src="images/logos/767.png" />
+            <img class="flag" data-toggle="tooltip" alt="Luleå University of Technology" data-placement="top" title="Luleå University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/767.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7262,12 +7262,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="FIN" data-placement="top" title="Finland" src="images/flags/705.png" />
+            <img class="flag" data-toggle="tooltip" alt="FIN" data-placement="top" title="Finland" src="http://www.nwerc.eu/scoreboard/images/flags/705.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Aalto University" data-placement="top" title="Aalto University" src="images/logos/608.png" />
+            <img class="flag" data-toggle="tooltip" alt="Aalto University" data-placement="top" title="Aalto University" src="http://www.nwerc.eu/scoreboard/images/logos/608.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7383,12 +7383,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Umeå University" data-placement="top" title="Umeå University" src="images/logos/53.png" />
+            <img class="flag" data-toggle="tooltip" alt="Umeå University" data-placement="top" title="Umeå University" src="http://www.nwerc.eu/scoreboard/images/logos/53.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7486,12 +7486,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Jacobs University" data-placement="top" title="Jacobs University" src="images/logos/934.png" />
+            <img class="flag" data-toggle="tooltip" alt="Jacobs University" data-placement="top" title="Jacobs University" src="http://www.nwerc.eu/scoreboard/images/logos/934.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7601,12 +7601,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="images/flags/659.png" />
+            <img class="flag" data-toggle="tooltip" alt="BEL" data-placement="top" title="Belgium" src="http://www.nwerc.eu/scoreboard/images/flags/659.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Katholieke Universiteit Leuven" data-placement="top" title="Katholieke Universiteit Leuven" src="images/logos/922.png" />
+            <img class="flag" data-toggle="tooltip" alt="Katholieke Universiteit Leuven" data-placement="top" title="Katholieke Universiteit Leuven" src="http://www.nwerc.eu/scoreboard/images/logos/922.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7704,12 +7704,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Lund University" data-placement="top" title="Lund University" src="images/logos/84.png" />
+            <img class="flag" data-toggle="tooltip" alt="Lund University" data-placement="top" title="Lund University" src="http://www.nwerc.eu/scoreboard/images/logos/84.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7807,12 +7807,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universität zu Lübeck" data-placement="top" title="Universität zu Lübeck" src="images/logos/705.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universität zu Lübeck" data-placement="top" title="Universität zu Lübeck" src="http://www.nwerc.eu/scoreboard/images/logos/705.png" />
             </td>
             
             <td class='total'>3</td>
@@ -7922,12 +7922,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Leiden University" data-placement="top" title="Leiden University" src="images/logos/236.png" />
+            <img class="flag" data-toggle="tooltip" alt="Leiden University" data-placement="top" title="Leiden University" src="http://www.nwerc.eu/scoreboard/images/logos/236.png" />
             </td>
             
             <td class='total'>3</td>
@@ -8031,12 +8031,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="FIN" data-placement="top" title="Finland" src="images/flags/705.png" />
+            <img class="flag" data-toggle="tooltip" alt="FIN" data-placement="top" title="Finland" src="http://www.nwerc.eu/scoreboard/images/flags/705.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Lappeenranta University of Technology" data-placement="top" title="Lappeenranta University of Technology" src="images/logos/865.png" />
+            <img class="flag" data-toggle="tooltip" alt="Lappeenranta University of Technology" data-placement="top" title="Lappeenranta University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/865.png" />
             </td>
             
             <td class='total'>3</td>
@@ -8128,12 +8128,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Oxford" data-placement="top" title="University of Oxford" src="images/logos/155.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Oxford" data-placement="top" title="University of Oxford" src="http://www.nwerc.eu/scoreboard/images/logos/155.png" />
             </td>
             
             <td class='total'>3</td>
@@ -8243,12 +8243,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Warwick" data-placement="top" title="University of Warwick" src="images/logos/469.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Warwick" data-placement="top" title="University of Warwick" src="http://www.nwerc.eu/scoreboard/images/logos/469.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8351,12 +8351,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Manchester" data-placement="top" title="University of Manchester" src="images/logos/321.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Manchester" data-placement="top" title="University of Manchester" src="http://www.nwerc.eu/scoreboard/images/logos/321.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8453,12 +8453,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Nottingham" data-placement="top" title="University of Nottingham" src="images/logos/607.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Nottingham" data-placement="top" title="University of Nottingham" src="http://www.nwerc.eu/scoreboard/images/logos/607.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8555,12 +8555,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Delft University of Technology" data-placement="top" title="Delft University of Technology" src="images/logos/207.png" />
+            <img class="flag" data-toggle="tooltip" alt="Delft University of Technology" data-placement="top" title="Delft University of Technology" src="http://www.nwerc.eu/scoreboard/images/logos/207.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8663,12 +8663,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Vrije Universiteit" data-placement="top" title="Vrije Universiteit" src="images/logos/688.png" />
+            <img class="flag" data-toggle="tooltip" alt="Vrije Universiteit" data-placement="top" title="Vrije Universiteit" src="http://www.nwerc.eu/scoreboard/images/logos/688.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8765,12 +8765,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="images/flags/786.png" />
+            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="http://www.nwerc.eu/scoreboard/images/flags/786.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Norwegian University of Science and Technology" data-placement="top" title="Norwegian University of Science and Technology" src="images/logos/87.png" />
+            <img class="flag" data-toggle="tooltip" alt="Norwegian University of Science and Technology" data-placement="top" title="Norwegian University of Science and Technology" src="http://www.nwerc.eu/scoreboard/images/logos/87.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8861,12 +8861,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="IRL" data-placement="top" title="Ireland" src="images/flags/732.png" />
+            <img class="flag" data-toggle="tooltip" alt="IRL" data-placement="top" title="Ireland" src="http://www.nwerc.eu/scoreboard/images/flags/732.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Dublin City University" data-placement="top" title="Dublin City University" src="images/logos/881.png" />
+            <img class="flag" data-toggle="tooltip" alt="Dublin City University" data-placement="top" title="Dublin City University" src="http://www.nwerc.eu/scoreboard/images/logos/881.png" />
             </td>
             
             <td class='total'>2</td>
@@ -8969,12 +8969,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Warwick" data-placement="top" title="University of Warwick" src="images/logos/469.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Warwick" data-placement="top" title="University of Warwick" src="http://www.nwerc.eu/scoreboard/images/logos/469.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9065,12 +9065,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universität Rostock" data-placement="top" title="Universität Rostock" src="images/logos/313.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universität Rostock" data-placement="top" title="Universität Rostock" src="http://www.nwerc.eu/scoreboard/images/logos/313.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9173,12 +9173,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Frankfurt University of Applied Sciences" data-placement="top" title="Frankfurt University of Applied Sciences" src="images/logos/843.png" />
+            <img class="flag" data-toggle="tooltip" alt="Frankfurt University of Applied Sciences" data-placement="top" title="Frankfurt University of Applied Sciences" src="http://www.nwerc.eu/scoreboard/images/logos/843.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9269,12 +9269,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="images/flags/695.png" />
+            <img class="flag" data-toggle="tooltip" alt="DNK" data-placement="top" title="Denmark" src="http://www.nwerc.eu/scoreboard/images/flags/695.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Copenhagen" data-placement="top" title="University of Copenhagen" src="images/logos/176.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Copenhagen" data-placement="top" title="University of Copenhagen" src="http://www.nwerc.eu/scoreboard/images/logos/176.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9377,12 +9377,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Manchester" data-placement="top" title="University of Manchester" src="images/logos/321.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Manchester" data-placement="top" title="University of Manchester" src="http://www.nwerc.eu/scoreboard/images/logos/321.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9473,12 +9473,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Universität Ulm" data-placement="top" title="Universität Ulm" src="images/logos/919.png" />
+            <img class="flag" data-toggle="tooltip" alt="Universität Ulm" data-placement="top" title="Universität Ulm" src="http://www.nwerc.eu/scoreboard/images/logos/919.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9581,12 +9581,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Johannes Gutenberg Universität Mainz" data-placement="top" title="Johannes Gutenberg Universität Mainz" src="images/logos/462.png" />
+            <img class="flag" data-toggle="tooltip" alt="Johannes Gutenberg Universität Mainz" data-placement="top" title="Johannes Gutenberg Universität Mainz" src="http://www.nwerc.eu/scoreboard/images/logos/462.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9689,12 +9689,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Bath" data-placement="top" title="University of Bath" src="images/logos/953.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Bath" data-placement="top" title="University of Bath" src="http://www.nwerc.eu/scoreboard/images/logos/953.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9791,12 +9791,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Vrije Universiteit" data-placement="top" title="Vrije Universiteit" src="images/logos/688.png" />
+            <img class="flag" data-toggle="tooltip" alt="Vrije Universiteit" data-placement="top" title="Vrije Universiteit" src="http://www.nwerc.eu/scoreboard/images/logos/688.png" />
             </td>
             
             <td class='total'>2</td>
@@ -9893,12 +9893,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="images/flags/821.png" />
+            <img class="flag" data-toggle="tooltip" alt="SWE" data-placement="top" title="Sweden" src="http://www.nwerc.eu/scoreboard/images/flags/821.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Lund University" data-placement="top" title="Lund University" src="images/logos/84.png" />
+            <img class="flag" data-toggle="tooltip" alt="Lund University" data-placement="top" title="Lund University" src="http://www.nwerc.eu/scoreboard/images/logos/84.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10001,12 +10001,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Jacobs University" data-placement="top" title="Jacobs University" src="images/logos/934.png" />
+            <img class="flag" data-toggle="tooltip" alt="Jacobs University" data-placement="top" title="Jacobs University" src="http://www.nwerc.eu/scoreboard/images/logos/934.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10103,12 +10103,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University College London" data-placement="top" title="University College London" src="images/logos/669.png" />
+            <img class="flag" data-toggle="tooltip" alt="University College London" data-placement="top" title="University College London" src="http://www.nwerc.eu/scoreboard/images/logos/669.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10211,12 +10211,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Avans Hogeschool &#039;s-Hertogenbosch" data-placement="top" title="Avans Hogeschool &#039;s-Hertogenbosch" src="images/logos/198.png" />
+            <img class="flag" data-toggle="tooltip" alt="Avans Hogeschool &#039;s-Hertogenbosch" data-placement="top" title="Avans Hogeschool &#039;s-Hertogenbosch" src="http://www.nwerc.eu/scoreboard/images/logos/198.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10319,12 +10319,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Applied Sciences Landshut" data-placement="top" title="University of Applied Sciences Landshut" src="images/logos/153.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Applied Sciences Landshut" data-placement="top" title="University of Applied Sciences Landshut" src="http://www.nwerc.eu/scoreboard/images/logos/153.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10415,12 +10415,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Avans Hogeschool &#039;s-Hertogenbosch" data-placement="top" title="Avans Hogeschool &#039;s-Hertogenbosch" src="images/logos/198.png" />
+            <img class="flag" data-toggle="tooltip" alt="Avans Hogeschool &#039;s-Hertogenbosch" data-placement="top" title="Avans Hogeschool &#039;s-Hertogenbosch" src="http://www.nwerc.eu/scoreboard/images/logos/198.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10523,12 +10523,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Frankfurt University of Applied Sciences" data-placement="top" title="Frankfurt University of Applied Sciences" src="images/logos/843.png" />
+            <img class="flag" data-toggle="tooltip" alt="Frankfurt University of Applied Sciences" data-placement="top" title="Frankfurt University of Applied Sciences" src="http://www.nwerc.eu/scoreboard/images/logos/843.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10613,12 +10613,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Liverpool" data-placement="top" title="University of Liverpool" src="images/logos/805.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Liverpool" data-placement="top" title="University of Liverpool" src="http://www.nwerc.eu/scoreboard/images/logos/805.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10709,12 +10709,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Frankfurt University of Applied Sciences" data-placement="top" title="Frankfurt University of Applied Sciences" src="images/logos/843.png" />
+            <img class="flag" data-toggle="tooltip" alt="Frankfurt University of Applied Sciences" data-placement="top" title="Frankfurt University of Applied Sciences" src="http://www.nwerc.eu/scoreboard/images/logos/843.png" />
             </td>
             
             <td class='total'>2</td>
@@ -10799,12 +10799,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Bath" data-placement="top" title="University of Bath" src="images/logos/953.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Bath" data-placement="top" title="University of Bath" src="http://www.nwerc.eu/scoreboard/images/logos/953.png" />
             </td>
             
             <td class='total'>1</td>
@@ -10900,12 +10900,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="images/flags/692.png" />
+            <img class="flag" data-toggle="tooltip" alt="DEU" data-placement="top" title="Germany" src="http://www.nwerc.eu/scoreboard/images/flags/692.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of Applied Sciences Landshut" data-placement="top" title="University of Applied Sciences Landshut" src="images/logos/153.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of Applied Sciences Landshut" data-placement="top" title="University of Applied Sciences Landshut" src="http://www.nwerc.eu/scoreboard/images/logos/153.png" />
             </td>
             
             <td class='total'>1</td>
@@ -11001,12 +11001,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of St Andrews" data-placement="top" title="University of St Andrews" src="images/logos/651.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of St Andrews" data-placement="top" title="University of St Andrews" src="http://www.nwerc.eu/scoreboard/images/logos/651.png" />
             </td>
             
             <td class='total'>0</td>
@@ -11077,12 +11077,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of St Andrews" data-placement="top" title="University of St Andrews" src="images/logos/651.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of St Andrews" data-placement="top" title="University of St Andrews" src="http://www.nwerc.eu/scoreboard/images/logos/651.png" />
             </td>
             
             <td class='total'>0</td>
@@ -11153,12 +11153,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="images/flags/711.png" />
+            <img class="flag" data-toggle="tooltip" alt="GBR" data-placement="top" title="United Kingdom" src="http://www.nwerc.eu/scoreboard/images/flags/711.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="University of St Andrews" data-placement="top" title="University of St Andrews" src="images/logos/651.png" />
+            <img class="flag" data-toggle="tooltip" alt="University of St Andrews" data-placement="top" title="University of St Andrews" src="http://www.nwerc.eu/scoreboard/images/logos/651.png" />
             </td>
             
             <td class='total'>0</td>
@@ -11229,12 +11229,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="images/flags/785.png" />
+            <img class="flag" data-toggle="tooltip" alt="NLD" data-placement="top" title="Netherlands" src="http://www.nwerc.eu/scoreboard/images/flags/785.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Leiden University" data-placement="top" title="Leiden University" src="images/logos/236.png" />
+            <img class="flag" data-toggle="tooltip" alt="Leiden University" data-placement="top" title="Leiden University" src="http://www.nwerc.eu/scoreboard/images/logos/236.png" />
             </td>
             
             <td class='total'>0</td>
@@ -11305,12 +11305,12 @@ Chris Pinkau
     
                         
                         <td class="country-flag">
-            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="images/flags/786.png" />
+            <img class="flag" data-toggle="tooltip" alt="NOR" data-placement="top" title="Norway" src="http://www.nwerc.eu/scoreboard/images/flags/786.png" />
             </td>
             
                         
                         <td class="university-logo">
-            <img class="flag" data-toggle="tooltip" alt="Gjøvik University College" data-placement="top" title="Gjøvik University College" src="images/logos/3.png" />
+            <img class="flag" data-toggle="tooltip" alt="Gjøvik University College" data-placement="top" title="Gjøvik University College" src="http://www.nwerc.eu/scoreboard/images/logos/3.png" />
             </td>
             
             <td class='total'>0</td>
