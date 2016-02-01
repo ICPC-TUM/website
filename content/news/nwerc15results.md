@@ -1,7 +1,7 @@
 /*
 Title: NWERC 2015: The Fellowship of the TUM
 Description: Experiences from the NWERC 2015 in Linköping.
-Date: 2016/01/07
+Date: 2016/02/01
 Template: news
 */
 
