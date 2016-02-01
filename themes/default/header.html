@@ -2,12 +2,23 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+{% if meta.title %}	
+	<title>{{ meta.title }} | {{ site_title }}</title>
+	<meta property="og:title" content="{{ meta.title }}"> 
+{% else %}	
+	<title>{{ site_title }}</title>
+{% endif %}
 {% if meta.description %}
 	<meta name="description" content="{{ meta.description }}"> 
-{% endif %}{% if meta.robots %}
+	<meta property="og:description" content="{{ meta.description }}"> 
+{% endif %}
+{% if meta.robots %}
 	<meta name="robots" content="{{ meta.robots }}">
 {% endif %}
+{% if meta.template == "news" %}
+	<meta property="og:image" content="{{ "https://icpc.tum.de/news/%s.png"|format(current_page.url|split("/")|last) }}"> 
+{% endif %}
+	<meta property="og:site_name" content="{{ site_title }}"> 
 	<link rel="stylesheet" href="/main/style.css" type="text/css" />
 	<link rel="stylesheet" href="/main/css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="/main/css/tumjudge.css" type="text/css" />
