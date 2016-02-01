@@ -1,8 +1,8 @@
 #Wintercontest 2016
 
-As every year, the Wintercontest 2016 was once again organized by the team from FAU, which prepared a total of 12 problems this year. As a special treat, almost all problems on this years problem set were Star Wars themed and covered important topics such as how long R2-D2 will sing, how to sabotage battledroid productions efficiently and how to rescue people from inside a giant worm. 
+As every year, the Wintercontest 2016 was once again organized by the team from FAU, which prepared a total of 12 problems this year. As a special treat, almost all problems on this year's problem set were Star Wars themed and covered important topics such as how long R2-D2 will sing, how to sabotage battledroid productions efficiently and how to rescue people from inside a giant worm. 
 
-Although the weather was very lovely with 13 °C and almost no clouds in the sky, almost 60 students from TUM showed up to spend their saturday afternoon competing and eating unhealthy (yet delicious) pizza and snacks. In total 60 teams from all over Germany, 19 of which were from TUM, as well as one team from Iceland took part in the competition. After 5 hours of heavy coding and thinking the scoreboard was unveiled and the winner was team "viRUs" from Iceland with 11 solved problems. The best TUM team "↓below us are bots↓" took 6th place with a total of 8 solved problems.
+Although the weather was very lovely with 13 °C and almost no clouds in the sky, almost 60 students from TUM showed up to spend their saturday afternoon competing and eating unhealthy (yet delicious) pizza and snacks. In total, 60 teams from all over Germany, 19 of which were from TUM, as well as one team from Iceland took part in the competition. After 5 hours of heavy coding and thinking the scoreboard was unveiled and the winner was team "viRUs" from Iceland with 11 solved problems. The best TUM team "↓below us are bots↓" took 6th place with a total of 8 solved problems.
 
 ##Results
 
