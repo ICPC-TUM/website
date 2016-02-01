@@ -12,6 +12,8 @@ Then, Sunday came. And with it, also the confirmation that breakfast up here in 
 
 Arriving at the hotel in Stockholm, it was quickly established that opening hours for bars and restaurants in Sweden are quite different from the familiar ones. In particular, this meant that a local supermarket had to serve as a substitute and provide the urgently needed food and beverages. For the same reasons again, these had to be consumed in one of the hotel rooms. But nobody seemed to care, as apparently, all were having a great and stress-free time. Another comforting night and another nutrient breakfast later, there were only so many hours to spend getting to know the city of Stockholm. Again, the fellowship parted for individual experiences -- some in museums, some in churches, some just walking around -- only to be reunited again to catch the plane back home, practicing for the next contests to come...
 
+Chris Pinkau
+
 ##Scoreboard
 
 <table id="standings" class="table table-kattis kattis-table-contest-standings">
