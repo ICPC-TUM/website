@@ -1,15 +1,15 @@
 /*
-Title: Wintercontest 2016
+Title: Results of the Wintercontest 2016
 Description: The annual FAU Wintercontest took place on the 30.01.2016.
 Date: 2016/02/01
 Template: news
 */
 
-#FAU Wintercontest 2016
-
 As every year, the Wintercontest 2016 was once again organized by the team from FAU, which prepared a total of 12 problems this year. As a special treat, almost all problems on this year's problem set were Star Wars themed and covered important topics such as how long R2-D2 will sing, how to sabotage battledroid productions efficiently and how to rescue people from inside a giant worm. 
 
 Although the weather was very lovely with 13 °C and almost no clouds in the sky, almost 60 students from TUM showed up to spend their saturday afternoon competing and eating unhealthy (yet delicious) pizza and snacks. In total, 60 teams from all over Germany, 19 of which were from TUM, as well as one team from Iceland took part in the competition. After 5 hours of heavy coding and thinking the scoreboard was unveiled and the winner was team "viRUs" from Iceland with 11 solved problems. The best TUM team "↓below us are bots↓" took 6th place with a total of 8 solved problems.
+
+Author: Moritz Fuchs
 
 ##Results
 
@@ -88,17 +88,3 @@ Although the weather was very lovely with 13 °C and almost no clouds in the sky
 <tbody><tr id="scoresummary" title="#submitted / #correct"><td title="total teams">61</td><td class="scoreaffil" title="#affiliations / #countries">6 / 2</td><td title=" ">Summary</td><td title="total solved" class="scorenc">258</td><td title=" "></td><td>8/2</td><td>32/6</td><td>78/10</td><td>6/1</td><td>70/33</td><td>77/51</td><td>25/5</td><td>148/22</td><td>84/10</td><td>124/60</td><td>20/5</td><td>127/53</td></tr>
 </tbody>
 </table>
-
-<p><br /><br /></p>
-<table id="cell_legend" class="scoreboard scorelegend">
-<thead><tr><th scope="col">Cell colours</th></tr></thead>
-<tbody>
-<tr class="score_first"><td>Solved first</td></tr>
-<tr class="score_correct"><td>Solved</td></tr>
-<tr class="score_incorrect"><td>Tried, incorrect</td></tr>
-<tr class="score_pending"><td>Tried, pending</td></tr>
-<tr class="score_neutral"><td>Untried</td></tr>
-</tbody>
-</table>
-
-

@@ -2,6 +2,9 @@
 
 This page contains past contests where TUM participated.
 
+##2016
+* [Wintercontest 2016](/history/2016/Winter16)
+
 ##2015
 * NWERC 2015 coming soon  
 * [Amirkabir 2015](/history/2015/Amirkabir2015)  
