@@ -2,7 +2,12 @@
 Title: NWERC 2015: The Fellowship of the TUM
 Description: Experiences from the NWERC 2015 in Linköping.
 Date: 2016/01/07
+Template: news
 */
+
+#NWERC15
+
+##The Fellowship of the TUM
 
 Nine students took off on an early Friday morning on their journey to Linköping in the distant land of Sweden. Grouping themselves into three teams, and with no less than five coaches travelling alongside them, they formed the fellowship of the TUM to compete for fame and glory in the Northwestern European Regional Contest 2015.
 
