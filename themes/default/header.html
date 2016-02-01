@@ -3,22 +3,22 @@
 <head>
 	<meta charset="utf-8" />
 {% if meta.title %}	
-	<title>{{ meta.title }} | {{ site_title }}</title>
-	<meta property="og:title" content="{{ meta.title }}"> 
+	<title>{{ meta.title|escape('html') }} | {{ site_title|escape('html') }}</title>
+	<meta property="og:title" content="{{ meta.title|escape('html_attr') }}"> 
 {% else %}	
-	<title>{{ site_title }}</title>
+	<title>{{ site_title|escape('html') }}</title>
 {% endif %}
 {% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
-	<meta property="og:description" content="{{ meta.description }}"> 
+	<meta name="description" content="{{ meta.description|escape('html_attr') }}"> 
+	<meta property="og:description" content="{{ meta.description|escape('html_attr') }}"> 
 {% endif %}
 {% if meta.robots %}
-	<meta name="robots" content="{{ meta.robots }}">
+	<meta name="robots" content="{{ meta.robots|escape('html_attr') }}">
 {% endif %}
 {% if meta.template == "news" %}
 	<meta property="og:image" content="{{ "https://judge.in.tum.de/content/news/%s.png"|format(current_page.url|split("/")|last) }}"> 
 {% endif %}
-	<meta property="og:site_name" content="{{ site_title }}"> 
+	<meta property="og:site_name" content="{{ site_title|escape('html_attr') }}"> 
 	<link rel="stylesheet" href="/main/style.css" type="text/css" />
 	<link rel="stylesheet" href="/main/css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="/main/css/tumjudge.css" type="text/css" />
