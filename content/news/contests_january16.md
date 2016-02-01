@@ -37,6 +37,7 @@ We mentioned that many students are eager to solve more programming problems and
 * 28.01.2016: SRM 680 at [TopCoder](https://www.topcoder.com)
 * 29.01.2016: World CodeSprint at [Hackerrank](https://www.hackerrank.com)
 * 29.01.2016 - 30.01.2016: NextHacker Competition at [Codechef](https://www.codechef.com)
+* 30.01.2016: FAU Wintercontest at [TUM](/news/wintercontest16)
 * 30.01.2016: Facebook Hacker Cup Round 3 at [Facebook](https://www.facebook.com/hackercup)
 
 Good luck and lots of fun to all participants of all contests mentioned here.
