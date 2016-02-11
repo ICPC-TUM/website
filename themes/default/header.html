@@ -2,12 +2,23 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
-{% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
-{% endif %}{% if meta.robots %}
-	<meta name="robots" content="{{ meta.robots }}">
+{% if meta.title %}	
+	<title>{{ meta.title|escape('html') }} | {{ site_title|escape('html') }}</title>
+	<meta property="og:title" content="{{ meta.title|escape('html_attr') }}" /> 
+{% else %}	
+	<title>{{ site_title|escape('html') }}</title>
 {% endif %}
+{% if meta.description %}
+	<meta name="description" content="{{ meta.description|escape('html_attr') }}" /> 
+	<meta property="og:description" content="{{ meta.description|escape('html_attr') }}" /> 
+{% endif %}
+{% if meta.robots %}
+	<meta name="robots" content="{{ meta.robots|escape('html_attr') }}" />
+{% endif %}
+{% if meta.template == "news" %}
+	<meta property="og:image" content="{{ "https://icpc.tum.de/content/news/%s.png"|format(current_page.url|split("/")|last) }}"> 
+{% endif %}
+	<meta property="og:site_name" content="{{ site_title|escape('html_attr') }}" /> 
 	<link rel="stylesheet" href="https://judge.in.tum.de/main/style.css" type="text/css" />
 	<link rel="stylesheet" href="https://judge.in.tum.de/main/css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="https://judge.in.tum.de/main/css/tumjudge.css" type="text/css" />
