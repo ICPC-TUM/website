@@ -16,7 +16,7 @@
 	<meta name="robots" content="{{ meta.robots|escape('html_attr') }}" />
 {% endif %}
 {% if meta.template == "news" %}
-	<meta property="og:image" content="{{ "https://judge.in.tum.de/content/news/%s.png"|format(current_page.url|split("/")|last) }}"> 
+	<meta property="og:image" content="{{ "https://icpc.tum.de/content/news/%s.png"|format(current_page.url|split("/")|last) }}"> 
 {% endif %}
 	<meta property="og:site_name" content="{{ site_title|escape('html_attr') }}" /> 
 	<link rel="stylesheet" href="/main/style.css" type="text/css" />
