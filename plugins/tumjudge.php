@@ -35,7 +35,7 @@ class Tumjudge {
       $tumjudge_contests .= '
         <tr class=\''.$instance['path'].'\' style=\'border-bottom: 1px solid #002143;\'>
           <td style=\'vertical-align: top;\'><div style=\'font-weight: bold; border-left: 10px solid '.$instance['color'].'; padding-left: 20px;\'>
-            <a href=\'/'.$instance['path'].'/\'>TUMjudge '.$instance['name'].'</a></div>'.$instance['description'].'<div class=\'stats\' style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>Loading statistics...</div></td>
+            <a href=\'https://judge.in.tum.de/'.$instance['path'].'/\'>TUMjudge '.$instance['name'].'</a></div>'.$instance['description'].'<div class=\'stats\' style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>Loading statistics...</div></td>
           <td class=\'current\' style=\'vertical-align: top;\'>Loading...</td>
           <td class=\'future\' style=\'vertical-align: top;\'>Loading...</td>
           <td class=\'past\' style=\'vertical-align: top;\'>Loading...</td>
@@ -46,7 +46,7 @@ class Tumjudge {
     foreach($instances AS $instance) {
       $tumjudge_contests .= '
         <script>
-          $.ajax({url: "/'.$instance['path'].'/api/contests"}).done(function(data) {
+          $.ajax({url: "https://judge.in.tum.de/'.$instance['path'].'/api/contests"}).done(function(data) {
             $(".'.$instance['path'].' .current, .'.$instance['path'].' .future, .'.$instance['path'].' .past").html("");
             var '.$instance['path'].'current = 0, '.$instance['path'].'future = 0, '.$instance['path'].'past = 0;
             $.each(data, function(id, contest) {
@@ -88,7 +88,7 @@ class Tumjudge {
               $(".'.$instance['path'].' .past").append("...and " + ('.$instance['path'].'past - 3) + " more");
             }
           });
-          $.ajax({url: "/'.$instance['path'].'/api/statistics"}).done(function(data) {
+          $.ajax({url: "https://judge.in.tum.de/'.$instance['path'].'/api/statistics"}).done(function(data) {
             $(".'.$instance['path'].' .stats").html(data.submissions + " submissions in " + data.contests + " contests by " + data.teams + " teams");
           });
         </script>      
