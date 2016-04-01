@@ -1,7 +1,7 @@
 /*
 Title: The Future of TUMjudge
 Description: We have some exctiting news to share with you. Read more about what you can unlock at TUMjudge starting this summer term.
-aDate: 2016/04/01
+Date: 2016/04/01
 Template: news
 */
 
