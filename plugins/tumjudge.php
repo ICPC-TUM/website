@@ -11,6 +11,7 @@ class Tumjudge {
       array('name' => 'IOI Germany', 'path' => 'ioide', 'description' => 'Preparation for the IOI', 'color' => '#ce0c82'),
       array('name' => 'IOI Austria', 'path' => 'ioiat', 'description' => 'Preparation for the IOI', 'color' => '#ff0000'),
       array('name' => 'Challenge', 'path' => 'challenge', 'description' => 'Yet Another Programming Contest', 'color' => '#ff6000'),
+      array('name' => 'MLR', 'path' => 'mlr', 'description' => 'Lecture &ldquo;Machine Learning in Robotics&rdquo;', 'color' => '#ff9a00'),
     );
     $tumjudge_contests = '
       <script>
