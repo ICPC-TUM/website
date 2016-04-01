@@ -5,6 +5,10 @@ Date: 2016/04/01
 Template: news
 */
 
+** You probably mentioned it already: We decided to publish some news on April
+Fool's Day.  There won't be paid membership levels at TUMjudge in the
+foreseeable future. **
+
 Today we are happy to announce the next big step for TUMjudge. We chose
 today, April 1st, to announce these news since the summer term oficially
 starts today.  As we enlarged our server capacities and spent the last year
