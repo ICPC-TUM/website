@@ -147,7 +147,9 @@ fascinating possibilities.
 
 We promise that the TUMjudge basic level will be free forever! An option to
 purchase the new membership levels will appear on your team overview when
-the summer term starts on April 10th. 
+the summer term starts on April 10th.  Note that the membership fees apply
+per team member to make up for the disadvantages of small teams during
+contests.
 
 ## Testimonials
 
