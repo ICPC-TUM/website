@@ -149,6 +149,18 @@ We promise that the TUMjudge basic level will be free forever! An option to
 purchase the new membership levels will appear on your team overview when
 the summer term starts on April 10th. 
 
+## Testimonials
+
+Philipp Schlieker:
+> Haha nice work guys 😉 looking forward to the handwritten thank you note 😂
+
+Gregor Matl:
+> 😀👍👍👍👍👍😀
+> 
+> "We tell you what is wrong with your code and give specific line numbers" is worth way more than 5€ ;-)
+
+## Contact us
+
 Thank you all for your ongoing support. Without you, we would not have the
 chance to offer these great opprtunities.  We are looking forward to hearing
 your opinion about these exciting changes on our Facebook page.
