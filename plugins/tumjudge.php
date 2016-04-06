@@ -2,6 +2,8 @@
 
 class Tumjudge {
   public function after_parse_content(&$content) {
+  
+    // {{ tumjudge contests }}
     $instances = array(
       array('name' => 'ConPra', 'path' => 'conpra', 'description' => 'Lecture &ldquo;Algorithms for Programming Contests&rdquo;', 'color' => '#2ece0c'),
       array('name' => 'Contest', 'path' => 'contest', 'description' => 'Preparation for the ACM ICPC', 'color' => '#0c99ce'),
@@ -96,5 +98,20 @@ class Tumjudge {
       ';
     }
     $content = preg_replace('/\{\{ tumjudge contests \}\}/', $tumjudge_contests, $content);
+    
+    // {{ comments }}
+    $comments = '
+      <div id="discourse-comments"></div>
+      <script type="text/javascript">
+        DiscourseEmbed = { discourseUrl: "https://judge.in.tum.de/discuss/",
+                           discourseEmbedUrl: "https://icpc.tum.de'.$_SERVER[REQUEST_URI].'" };
+        (function() {
+          var d = document.createElement("script"); d.type = "text/javascript"; d.async = true;
+          d.src = DiscourseEmbed.discourseUrl + "javascripts/embed.js";
+          (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(d);
+        })();
+      </script>
+    ';
+    $content = preg_replace('/\{\{ comments \}\}/', $comments, $content);
   }
 }
