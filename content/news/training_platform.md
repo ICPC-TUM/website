@@ -33,12 +33,12 @@ Discuss](https://judge.in.tum.de/discuss/).  You can login there using your
 regular TUMjudge account.  This discussion platform is for
 
 * help with problems from the problem collection,
-* lists of possible training session with the problems at TUMjudge,
+* lists of possible training sessions with the problems at TUMjudge,
 * articles explaining algorithms and solutions to contest problems,
-* discussion of news from our [website](https://icpc.tum.de),
-* discussion of contests that we host,
+* discussion about news from our [website](https://icpc.tum.de),
+* discussion about contests that we host,
 * team creation for our contests, and 
-* discussions about course related information.
+* discussion about course related information.
 
 Please use this platform frequently to develop a vivid community. Remember
 that we do not want to share information about the course problems.  We are

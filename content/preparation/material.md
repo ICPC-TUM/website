@@ -4,7 +4,7 @@
 We host two big contests at the university every year. These are the Winter Contest at the end of January / beginning of February, and the GCPC at the end of June / beginning of July.
 
 ## Preparation Contests
-Apart from these, we are regularly holding preparation contests which you can find under [preparation contests](https://judge.in.tum.de/contests/). These are completely done online, and you can participate in them without an official registration (you only need an account on the TUMjudge), alone or in a team. Usually, these contests consists of between five and eight old problems from regional rounds of the ICPC, such as the NWERC or the SWERC, or old problems from our practical course. After the contests are over, the problems remain open for submissions in a training contest.
+Apart from these, we are regularly holding preparation contests which you can find under [preparation contests](https://judge.in.tum.de/contests/). These are completely done online, and you can participate in them without an official registration (you only need an account on the TUMjudge), alone or in a team. Usually, these contests consist of between five and eight old problems from regional rounds of the ICPC, such as the NWERC or the SWERC, or old problems from our practical course. After the contests are over, the problems remain open for submissions in a training contest.
 
 ## TUMjudge
 We want to give students who want to  prepare for ACM ICPC or other
@@ -36,18 +36,17 @@ Discuss](https://judge.in.tum.de/discuss/).  You can login there using your
 regular TUMjudge account.  This discussion platform is for
 
 * help with problems from the problem collection,
-* lists of possible training session with the problems at TUMjudge,
+* lists of possible training sessions with the problems at TUMjudge,
 * articles explaining algorithms and solutions to contest problems,
-* discussion of news from our [website](https://icpc.tum.de),
-* discussion of contests that we host,
+* discussion about news from our [website](https://icpc.tum.de),
+* discussion about contests that we host,
 * team creation for our contests, and
-* discussions about course related information.
+* discussion about course related information.
 
 Please use this platform frequently to develop a vivid community. Remember
 that we do not want to share information about the course problems.  We are
 looking forward to meeting you on our discussion platform and hope that you
 find our problem collection useful.
-
 
 ## Online Problem Collections
 Furthermore, there exist several collections of problems, the most prominent of which is the [UVA Online Judge](https://uva.onlinejudge.org/). It offers old problem sets from a variety of contests including the regional contests and the World Finals. More information regarding the preparation can be found under [links](/preparation/links) or [courses](/preparation/courses).
