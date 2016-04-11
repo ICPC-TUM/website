@@ -5,7 +5,7 @@ Date: 2016/04/02
 Template: news
 */
 
-We mentioned that many students are eager to solve more programming problems and want to help you participate in programming contests. Therefore, we will post a monthly list of programming contests here. If you feel that something is missing here, please [contact](/contact) us.
+We mentioned that many students are eager to solve more programming problems and want to help you participate in programming contests. Therefore, we will post a monthly list of programming contests here. If you feel that something is missing here, please [contact](https://icpc.tum.de/contact) us.
 
 There are many interesting challenges starting this month, in particular TCO16 and Google Code Jam 2016. Don't miss them!
 
@@ -43,6 +43,8 @@ There are many interesting challenges starting this month, in particular TCO16 a
 * 30.04.2016: Online Round 1: Sub-Round B at [Google Code Jam](https://code.google.com/codejam)
 
 Good luck and lots of fun to all participants of all contests mentioned here.
+
+{{ comments }}
 
 <!--
 Sources:
