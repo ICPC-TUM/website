@@ -44,3 +44,5 @@ Please use this platform frequently to develop a vivid community. Remember
 that we do not want to share information about the course problems.  We are
 looking forward to meeting you on our discussion platform and hope that you
 find our problem collection useful.
+
+{{ comments }}
