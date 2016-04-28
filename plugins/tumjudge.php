@@ -4,7 +4,7 @@ class Tumjudge {
   public function after_parse_content(&$content) {
   
     // {{ tumjudge contests }}
-    if(strpos($content, '{{ tumjudge_contests }}') !== false) {
+    if(strpos($content, '{{ tumjudge contests }}') !== false) {
     $instances = array(
       array('name' => 'ConPra', 'path' => 'conpra', 'description' => 'Lecture &ldquo;Algorithms for Programming Contests&rdquo;', 'color' => '#2ece0c'),
       array('name' => 'Contest', 'path' => 'contest', 'description' => 'Preparation for the ACM ICPC', 'color' => '#0c99ce'),
