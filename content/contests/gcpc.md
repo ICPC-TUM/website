@@ -111,6 +111,8 @@ The registration page is located at [https://icpc.baylor.edu/regionals/finder/ge
 
 **You need to complete registration until Friday, June 3rd. To participate in the parctice session you need to register until Tuesday, May 31st.**
 
+If you need further team members try asking at our discussion board at [https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1](https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1) or our Facebook event at [https://www.facebook.com/events/217584575254291/](https://www.facebook.com/events/217584575254291/).
+
 ## Programming Languages
 
 The following languages will be available for your submissions:
@@ -154,9 +156,9 @@ Depending on your contest site you may or may not be able to access the machines
 
 For the full set of rules of the regional contest refer to [https://icpc.baylor.edu/regionals/rules](https://icpc.baylor.edu/regionals/rules).
 
-Teams consist of up to three participating students from the same university. During the contest you may not use any electronic devices other than the computer given to your team. In particular the usage of cell phones, USB sticks and other storage devices is forbidden during the contest. You may bring any amount of written, non-electronic material to the contest site and use it during the contest, including books, articles and lecture notes. In contrast to the regional contests there is no limitation on the number of pages of these materials.
+Teams consist of up to three participating students from the same university. During the contest you may not use any electronic devices other than the computer given to your team or a non-programmable keyboard you may bring on your own. In particular the usage of cell phones, calculators, USB sticks and other storage devices as well as communication with other teams is forbidden during the contest. You may bring any amount of written, non-electronic material to the contest site and use it during the contest, including books, articles and lecture notes. In contrast to the regional contests there is no limitation on the number of pages of these materials.
 
-Tampering with the system or the rules in any way will be penalized! Do not try to fool the system! Do not open  files, input is always in standard in. Do not open network connections. Furthermore, please keep the number of submissions at an acceptable level as to not unnecessarily slow judging for all participants.
+Tampering with the system or the rules in any way will be penalized! Do not try to fool the system! Do not open  files, input is always in standard in. Do not open network connections or additional threads. Furthermore, please keep the number of submissions at an acceptable level as to not unnecessarily slow judging for all participants.
 
 ## Social Media
 
