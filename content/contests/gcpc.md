@@ -95,11 +95,11 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <img src="/content/images/uulm.png" style="width: 30%; float: right; padding: 20px;" alt="UULM" />
+      <img src="/content/images/uulm.jpg" style="width: 30%; float: right; padding: 20px;" alt="UULM" />
       <h2 style="padding: 20px;">Ulm</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Ulm</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
+      <div style="padding: 0 20px 10px 20px;">S&uuml;dpool, Raum O27/133, James-Franck-Ring, 89069 Ulm</div>
+      <div style="padding: 0 20px;">Contact: <a href="http://www.uni-ulm.de/in/acm-icpc" style="color: #ffffff;">http://www.uni-ulm.de/in/acm-icpc</a>, <a href="mailto:gregor.behnke@uni-ulm.de" style="color: #ffffff;">gregor.behnke@uni-ulm.de</a></div>
     </div>
   </div>
 
