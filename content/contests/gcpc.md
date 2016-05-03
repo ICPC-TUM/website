@@ -4,6 +4,8 @@ The ACM International Collegiate Programming Contest (ICPC) is a multi-tiered, w
 
 The German Collegiate Programming Contest (GCPC) is the subregional contest for Germany. Teams from Germany are invited to participate in the GCPC to prepare for the North Western European Regional Contest (NWERC).
 
+GCPC 2016 will take place on **Saturday, June 4th, 12:00 p.m. - 05:00 p.m.** Please be at your contest site at least 30 minutes before the contest starts, i.e. 11:30 a.m.
+
 ## Contest Sites
 
 The GCPC will have several contest sites to compete. Choose the one that is closest to you to participate. Please contact the organizers of the contest sites for further details.
@@ -105,7 +107,9 @@ If there is no contest site at your local university, please [contact us](/conta
 
 ## Registration
 
-The registration page is located at [https://icpc.baylor.edu/regionals/finder/german-2016](https://icpc.baylor.edu/regionals/finder/german-2016). You need to complete registration until Friday, June 3rd. To participate in the parctice session you need to register until Tuesday, May 31st.
+The registration page is located at [https://icpc.baylor.edu/regionals/finder/german-2016](https://icpc.baylor.edu/regionals/finder/german-2016).
+
+**You need to complete registration until Friday, June 3rd. To participate in the parctice session you need to register until Tuesday, May 31st.**
 
 ## Programming Languages
 
@@ -148,15 +152,11 @@ Depending on your contest site you may or may not be able to access the machines
 
 ## Rules
 
-for the full set of rules of the regional contest refer to [https://icpc.baylor.edu/regionals/rules](https://icpc.baylor.edu/regionals/rules).
+For the full set of rules of the regional contest refer to [https://icpc.baylor.edu/regionals/rules](https://icpc.baylor.edu/regionals/rules).
 
-Teams consist of up to three participating students from the same university. During the contest you may not use any electronic devices other than the computer given to your team. In particular the usage of cell phones, USB sticks and other storage devices is forbidden during the contest.
+Teams consist of up to three participating students from the same university. During the contest you may not use any electronic devices other than the computer given to your team. In particular the usage of cell phones, USB sticks and other storage devices is forbidden during the contest. You may bring any amount of written, non-electronic material to the contest site and use it during the contest, including books, articles and lecture notes. In contrast to the regional contests there is no limitation on the number of pages of these materials.
 
-You may bring any amount of written, non-electronic material to the contest site and use it during the contest, including books, articles and lecture notes. In contrast to the regional contests there is no limitation on the number of pages of these materials.
-
-Tampering with the system or the rules in any way will be penalized! Do not try to fool the system!
-
-Do not open  files, input is always in standard in. Do not open network connections. Furthermore, please keep the number of submissions at an acceptable level as to not unnecessarily slow judging for all participants.
+Tampering with the system or the rules in any way will be penalized! Do not try to fool the system! Do not open  files, input is always in standard in. Do not open network connections. Furthermore, please keep the number of submissions at an acceptable level as to not unnecessarily slow judging for all participants.
 
 ## Social Media
 
