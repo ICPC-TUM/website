@@ -1,0 +1,167 @@
+# GCPC 2016
+
+The ACM International Collegiate Programming Contest (ICPC) is a multi-tiered, world-wide contest for students with local and regional events, and a world final. The contest is about programming skills, problem solving and teamwork. In short terms, teams of up to three students try to solve as many programming problems as possible from a given problem set, using only one computer.
+
+The German Collegiate Programming Contest (GCPC) is the subregional contest for Germany. Teams from Germany are invited to participate in the GCPC to prepare for the North Western European Regional Contest (NWERC).
+
+## Contest Sites
+
+The GCPC will have several contest sites to compete. Choose the one that is closest to you to participate. Please contact the organizers of the contest sites for further details.
+
+If there is no contest site at your local university, please [contact us](/contact) to set one up.
+
+<div class="row">
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px;" alt="FAU" />
+      <h2 style="padding: 20px;">Erlangen</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/gau.png" style="width: 30%; float: right; padding: 20px;" alt="GAU" />
+      <h2 style="padding: 20px;">G&ouml;ttingen</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Georg-August-Universit&auml;t G&ouml;ttingen</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/kit.png" style="width: 30%; float: right; padding: 20px;" alt="KIT" />
+      <h2 style="padding: 20px;">Karlsruhe</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Karlsruher Institut f&uuml;r Technologie</div>
+      <div style="padding: 0 20px 10px 20px;">ATIS-Poolr&auml;ume (-143 & -142), Geb. 50.34</div>
+      <div style="padding: 0 20px;">Contact: <a href="http://icpc.iti.kit.edu/" style="color: #ffffff;">http://icpc.iti.kit.edu/</a>, <a href="mailto:martin.tillmann@kit.edu" style="color: #ffffff;">martin.tillmann@kit.edu</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/haw.png" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
+      <h2 style="padding: 20px;">Landshut</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/lue.png" style="width: 30%; float: right; padding: 20px;" alt="LUE" />
+      <h2 style="padding: 20px;">L&uuml;beck</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t zu L&uuml;beck</div>
+      <div style="padding: 0 20px 10px 20px;">Seminarraum TCS 2021, Geb. 64, Ratzeburger Allee 160, 23568 L&uuml;beck</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:liskiewi@tcs.uni-luebeck.de" style="color: #ffffff;">liskiewi@tcs.uni-luebeck.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/jgu.png" style="width: 30%; float: right; padding: 20px;" alt="JGU" />
+      <h2 style="padding: 20px;">Mainz</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Johannes Gutenberg-Universit&auml;t Mainz</div>
+      <div style="padding: 0 20px 10px 20px;">Poolraum 03-322, Institut für Informatik, Staudingerweg 9, 55128 Mainz</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:contests@informatik.uni-mainz.de" style="color: #ffffff;">contests@informatik.uni-mainz.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px;" alt="UDS" />
+      <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/tum.png" style="width: 30%; float: right; padding: 20px;" alt="TUM" />
+      <h2 style="padding: 20px;">M&uuml;nchen</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t M&uuml;nchen</div>
+      <div style="padding: 0 20px 10px 20px;">Computer Lab 00.05.011 (&ldquo;Rechnerhalle&rdquo;), Department of Informatics, Boltzmannstr. 3, 85748 Garching</div>
+      <div style="padding: 0 20px;">Contact: <a href="https://icpc.tum.de" style="color: #ffffff;">https://icpc.tum.de</a>, <a href="mailto:icpc@in.tum.de" style="color: #ffffff;">icpc@in.tum.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <img src="/content/images/uulm.png" style="width: 30%; float: right; padding: 20px;" alt="UULM" />
+      <h2 style="padding: 20px;">Ulm</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Ulm</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+</div>
+
+## Registration
+
+The registration page is located at [https://icpc.baylor.edu/regionals/finder/german-2016](https://icpc.baylor.edu/regionals/finder/german-2016). You need to complete registration until Friday, June 3rd. To participate in the parctice session you need to register until Tuesday, May 31st.
+
+## Programming Languages
+
+The following languages will be available for your submissions:
+
+* C++
+* Java
+* Python
+
+We guarantee that all problems are solvable using Java and C++. Many problems will also be solvable using Python, but we do not guarantee this for any problem.
+
+Here are the exact versions we will be using on the judge machines.
+
+```
+~$ gcc --version
+gcc (Debian 4.9.2-10) 4.9.2
+Copyright (C) 2014 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+~$ java -version
+java version "1.8.0_91"
+Java(TM) SE Runtime Environment (build 1.8.0_91-b14)
+Java HotSpot(TM) 64-Bit Server VM (build 25.91-b14, mixed mode)
+
+~$ pypy --version
+Python 2.7.8 (2.4.0+dfsg-3, Dec 20 2014, 13:30:46)
+[PyPy 2.4.0 with GCC 4.9.2]
+```
+
+Note that depending on your contest site these may not be the versions installed on your local computers. Please contact the organizers of your contest site for further details.
+
+## Practice Session
+
+There will be a practice session before the GCPC. During this practice session you can solve some problems on the same judge system as you will during the contest. You can try all features of the judge system during this event with a small set of problems. Note that these problems will differ from the ones during the contest. We highly recommend attending the practice session for all participants.
+
+The practice session will take place from **Wednesday, June 1st, 12:00 p.m. to Friday, June 3rd, 12:00 p.m.**
+
+Depending on your contest site you may or may not be able to access the machines you will be working on. Please contact the organizers of your contest site for details. Either way you will be able to connect to the judge system with any machine including your private computer. The login credentials will be sent to the mail addresses you entered during the registration of your team.
+
+## Rules
+
+for the full set of rules of the regional contest refer to [https://icpc.baylor.edu/regionals/rules](https://icpc.baylor.edu/regionals/rules).
+
+Teams consist of up to three participating students from the same university. During the contest you may not use any electronic devices other than the computer given to your team. In particular the usage of cell phones, USB sticks and other storage devices is forbidden during the contest.
+
+You may bring any amount of written, non-electronic material to the contest site and use it during the contest, including books, articles and lecture notes. In contrast to the regional contests there is no limitation on the number of pages of these materials.
+
+Tampering with the system or the rules in any way will be penalized! Do not try to fool the system!
+
+Do not open  files, input is always in standard in. Do not open network connections. Furthermore, please keep the number of submissions at an acceptable level as to not unnecessarily slow judging for all participants.
+
+## Social Media
+
+You can join our event at Facebook for updates and photos. We would be happy to welcome you at [https://www.facebook.com/events/217584575254291/](https://www.facebook.com/events/217584575254291/).
+
+<div style="text-align: center; width: 100%;">
+<div class="fb-page" data-href="https://www.facebook.com/IcpcTum/" data-tabs="events" data-width="750" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/IcpcTum/"><a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a></blockquote></div></div>
+</div>
