@@ -75,7 +75,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <!--<img src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px;" alt="UDS" />-->
+      <img src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px;" alt="UDS" />
       <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
       <div style="padding: 0 20px 10px 20px;"></div>
