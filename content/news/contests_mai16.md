@@ -1,7 +1,7 @@
 /*
 Title: Contests Mai 2016
 Description: An overview of programming contests this month.
-aDate: 2016/04/02
+Date: 2016/05/01
 Template: news
 */
 
