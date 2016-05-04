@@ -4,6 +4,7 @@ class Tumjudge {
   public function after_parse_content(&$content) {
   
     // {{ tumjudge contests }}
+    if(strpos($content, '{{ tumjudge contests }}') !== false) {
     $instances = array(
       array('name' => 'ConPra', 'path' => 'conpra', 'description' => 'Lecture &ldquo;Algorithms for Programming Contests&rdquo;', 'color' => '#2ece0c'),
       array('name' => 'Contest', 'path' => 'contest', 'description' => 'Preparation for the ACM ICPC', 'color' => '#0c99ce'),
@@ -90,16 +91,24 @@ class Tumjudge {
             else if('.$instance['path'].'past > 3) {  
               $(".'.$instance['path'].' .past").append("...and " + ('.$instance['path'].'past - 3) + " more");
             }
+          }).fail(function() {
+            $(".'.$instance['path'].' .current").html("<div style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>server offline</div>");
+            $(".'.$instance['path'].' .future").html("<div style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>server offline</div>");
+            $(".'.$instance['path'].' .past").html("<div style=\'color: #c0c0c0; padding-bottom: 0.2em;\'>server offline</div>");
           });
           $.ajax({url: "https://judge.in.tum.de/'.$instance['path'].'/api/statistics"}).done(function(data) {
             $(".'.$instance['path'].' .stats").html(data.submissions + " submissions in " + data.contests + " contests by " + data.teams + " teams");
+          }).fail(function() {
+            $(".'.$instance['path'].' .stats").html("server offline");          
           });
         </script>      
       ';
     }
     $content = preg_replace('/\{\{ tumjudge contests \}\}/', $tumjudge_contests, $content);
+    }
     
     // {{ comments }}
+    if(strpos($content, '{{ comments }}') !== false) {
     $comments = '
       <div id="discourse-comments"></div>
       <script type="text/javascript">
@@ -113,5 +122,6 @@ class Tumjudge {
       </script>
     ';
     $content = preg_replace('/\{\{ comments \}\}/', $comments, $content);
+  }
   }
 }
