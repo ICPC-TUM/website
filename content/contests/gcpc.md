@@ -15,7 +15,7 @@ If there is no contest site at your local university, please [contact us](/conta
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <img src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px;" alt="FAU" />
+      <!--<img src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px;" alt="FAU" />-->
       <h2 style="padding: 20px;">Erlangen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
       <div style="padding: 0 20px 10px 20px;"></div>
@@ -25,7 +25,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <img src="/content/images/gau.png" style="width: 30%; float: right; padding: 20px;" alt="GAU" />
+      <!--<img src="/content/images/gau.png" style="width: 30%; float: right; padding: 20px;" alt="GAU" />-->
       <h2 style="padding: 20px;">G&ouml;ttingen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Georg-August-Universit&auml;t G&ouml;ttingen</div>
       <div style="padding: 0 20px 10px 20px;"></div>
@@ -35,7 +35,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <img src="/content/images/kit.png" style="width: 30%; float: right; padding: 20px;" alt="KIT" />
+      <img src="/content/images/kit.jpg" style="width: 30%; float: right; padding: 20px;" alt="KIT" />
       <h2 style="padding: 20px;">Karlsruhe</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Karlsruher Institut f&uuml;r Technologie</div>
       <div style="padding: 0 20px 10px 20px;">ATIS-Poolr&auml;ume (-143 & -142), Geb. 50.34</div>
@@ -45,7 +45,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <img src="/content/images/haw.png" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
+      <!--<img src="/content/images/haw.png" style="width: 30%; float: right; padding: 20px;" alt="HAW" />-->
       <h2 style="padding: 20px;">Landshut</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
       <div style="padding: 0 20px 10px 20px;"></div>
@@ -75,7 +75,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <img src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px;" alt="UDS" />
+      <!--<img src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px;" alt="UDS" />-->
       <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
       <div style="padding: 0 20px 10px 20px;"></div>
