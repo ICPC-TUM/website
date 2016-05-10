@@ -15,11 +15,11 @@ If there is no contest site at your local university, please [contact us](/conta
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <!--<img src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px;" alt="FAU" />-->
+      <img src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px;" alt="FAU" />
       <h2 style="padding: 20px;">Erlangen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
+      <div style="padding: 0 20px 10px 20px;">CIP2 (02.151) Blaues Hochhaus - Martensstraße 3, 91058 Erlangen</div>
+      <div style="padding: 0 20px;">Contact: <a href="http://icpc.cs.fau.de" style="color: #ffffff;">http://icpc.cs.fau.de</a>, <a href="mailto:icpc@cs.fau.de" style="color:#ffffff;">icpc@cs.fau.de</a></div>
     </div>
   </div>
 
@@ -40,16 +40,6 @@ If there is no contest site at your local university, please [contact us](/conta
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Karlsruher Institut f&uuml;r Technologie</div>
       <div style="padding: 0 20px 10px 20px;">ATIS-Poolr&auml;ume (-143 & -142), Geb. 50.34</div>
       <div style="padding: 0 20px;">Contact: <a href="http://icpc.iti.kit.edu/" style="color: #ffffff;">http://icpc.iti.kit.edu/</a>, <a href="mailto:martin.tillmann@kit.edu" style="color: #ffffff;">martin.tillmann@kit.edu</a></div>
-    </div>
-  </div>
-
-  <div class="col-md-6" style="height: 300px; padding: 20px;">
-    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
-      <!--<img src="/content/images/haw.png" style="width: 30%; float: right; padding: 20px;" alt="HAW" />-->
-      <h2 style="padding: 20px;">Landshut</h2>
-      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
     </div>
   </div>
 
@@ -102,7 +92,21 @@ If there is no contest site at your local university, please [contact us](/conta
       <div style="padding: 0 20px;">Contact: <a href="http://www.uni-ulm.de/in/acm-icpc" style="color: #ffffff;">http://www.uni-ulm.de/in/acm-icpc</a>, <a href="mailto:gregor.behnke@uni-ulm.de" style="color: #ffffff;">gregor.behnke@uni-ulm.de</a></div>
     </div>
   </div>
+</div>
 
+## Participating Institutions without Local Contest Sites
+
+It is also possible to participate in the GCPC without hosting a local contest site. These intitutions are also particpating:
+
+<div class="row">
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff;">
+      <!--<img src="/content/images/haw.png" style="width: 30%; float: right; padding: 20px;" alt="HAW" />-->
+      <h2 style="padding: 20px;">Landshut</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
+      <div style="padding: 0 20px 10px 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
+    </div>
+  </div>
 </div>
 
 ## Registration
