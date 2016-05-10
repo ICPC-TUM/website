@@ -107,11 +107,11 @@ If there is no contest site at your local university, please [contact us](/conta
 
 ## Registration
 
-The registration page is located at [https://icpc.baylor.edu/regionals/finder/german-2016](https://icpc.baylor.edu/regionals/finder/german-2016).
+The registration page is located at [https://icpc.baylor.edu/regionals/finder/german-2016](https://icpc.baylor.edu/regionals/finder/german-2016). **You need to complete registration until Friday, June 3rd. To participate in the practice session you need to register until Tuesday, May 31st.**
 
-**You need to complete registration until Friday, June 3rd. To participate in the parctice session you need to register until Tuesday, May 31st.**
+To register, *all* team members have to create accounts at [https://icpc.baylor.edu](https://icpc.baylor.edu) and enter their personal details. The coach (most times one of the three team members) has to create the team and add all three contestants to it. Once the team is created and all team members completed registration we will manually change your team's status to accepted. Please make sure that your team is accepted before the deadline.
 
-If you need further team members try asking at our discussion board at [https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1](https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1) or our Facebook event at [https://www.facebook.com/events/217584575254291/](https://www.facebook.com/events/217584575254291/).
+If you need further team members try asking at our discussion board at [https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1](https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1) or our Facebook event at [https://www.facebook.com/events/217584575254291/](https://www.facebook.com/events/217584575254291/). If you have trouble finding your affiliation at the registration page please note that TUM is registered as &ldquo;Technische Universitaet Muenchen&rdquo;.
 
 ## Programming Languages
 
