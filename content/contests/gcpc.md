@@ -15,11 +15,31 @@ If there is no contest site at your local university, please [contact us](/conta
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <!--<img class="img-rounded" src="/content/images/fwu.png" style="width: 30%; float: right; padding: 20px;" alt="FWU" />-->
+      <h2 style="padding: 20px;">Bonn</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Rheinische Friedrich-Wilhelms-Universit&auml;t Bonn</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <!--<img class="img-rounded" src="/content/images/tud.png" style="width: 30%; float: right; padding: 20px;" alt="TUD" />-->
+      <h2 style="padding: 20px;">Dortmund</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Dortmund</div>
+      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:tobias.brinkjost@tu-dortmund.de" style="color: #ffffff;">tobias.brinkjost@tu-dortmund.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FAU" />
       <h2 style="padding: 20px;">Erlangen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
       <div style="padding: 0 20px 10px 20px;">CIP2 (02.151) Blaues Hochhaus - Martensstraße 3, 91058 Erlangen</div>
-      <div style="padding: 0 20px;">Contact: <a href="http://icpc.cs.fau.de" style="color: #ffffff;">http://icpc.cs.fau.de</a>, <a href="mailto:icpc@cs.fau.de" style="color:#ffffff;">icpc@cs.fau.de</a></div>
+      <div style="padding: 0 20px;">Contact: <a href="http://icpc.cs.fau.de" style="color: #ffffff;">http://icpc.cs.fau.de</a>, <a href="mailto:icpc@i2.cs.fau.de" style="color:#ffffff;">icpc@i2.cs.fau.de</a></div>
     </div>
   </div>
 
@@ -90,6 +110,16 @@ If there is no contest site at your local university, please [contact us](/conta
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Ulm</div>
       <div style="padding: 0 20px 10px 20px;">S&uuml;dpool, Raum O27/133, James-Franck-Ring, 89069 Ulm</div>
       <div style="padding: 0 20px;">Contact: <a href="http://www.uni-ulm.de/in/acm-icpc" style="color: #ffffff;">http://www.uni-ulm.de/in/acm-icpc</a>, <a href="mailto:gregor.behnke@uni-ulm.de" style="color: #ffffff;">gregor.behnke@uni-ulm.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/jmu.jpg" style="width: 30%; float: right; padding: 20px;" alt="JMU" />
+      <h2 style="padding: 20px;">W&uuml;rzburg</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Julius-Maximilians-Universit&auml;t W&uuml;rzburg</div>
+      <div style="padding: 0 20px 10px 20px;">CIP-Pool A001, Institute of Computer Science (Building M2), Campus Süd, Am Hubland, 97074 W&uuml;rzburg</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:icpc@informatik.uni-wuerzburg.de" style="color: #ffffff;">icpc@informatik.uni-wuerzburg.de</a></div>
     </div>
   </div>
 </div>
