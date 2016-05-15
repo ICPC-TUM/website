@@ -19,7 +19,7 @@
  * BASIC
  */
 $config['site_title'] = 'ICPC@TUM';              // Site title
-$config['base_url'] = 'https://judge.in.tum.de';                    // Override base URL (e.g. http://example.com)
+$config['base_url'] = 'https://icpc.tum.de';                    // Override base URL (e.g. http://example.com)
 
 /*
  * THEME
