@@ -188,7 +188,7 @@ Depending on your contest site you may or may not be able to access the machines
 
 ## Rules
 
-For the full set of rules of the regional contest refer to [https://icpc.baylor.edu/regionals/rules](https://icpc.baylor.edu/regionals/rules).
+For the full set of rules of the regional contest refer to [https://icpc.baylor.edu/regionals/rules](https://icpc.baylor.edu/regionals/rules). Note that although GCPC is a preparation for NWERC we do not apply the age restrictions of the regional contests. Students of all ages are welcome to participate at GCPC.
 
 Teams consist of up to three participating students from the same university. During the contest you may not use any electronic devices other than the computer given to your team or a non-programmable keyboard you may bring on your own. In particular the usage of cell phones, calculators, USB sticks and other storage devices as well as communication with other teams is forbidden during the contest. You may bring any amount of written, non-electronic material to the contest site and use it during the contest, including books, articles and lecture notes. In contrast to the regional contests there is no limitation on the number of pages of these materials.
 
