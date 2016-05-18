@@ -15,11 +15,11 @@ If there is no contest site at your local university, please [contact us](/conta
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <!--<img class="img-rounded" src="/content/images/fwu.png" style="width: 30%; float: right; padding: 20px;" alt="FWU" />-->
+      <img class="img-rounded" src="/content/images/fwu.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FWU" />
       <h2 style="padding: 20px;">Bonn</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Rheinische Friedrich-Wilhelms-Universit&auml;t Bonn</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
+      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:roeglin@cs.uni-bonn.de" style="color: #ffffff;">roeglin@cs.uni-bonn.de</a></div>
     </div>
   </div>
 
