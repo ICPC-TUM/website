@@ -88,8 +88,8 @@ If there is no contest site at your local university, please [contact us](/conta
       <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
       <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
+      <div style="padding: 0 20px 10px 20px;">Room: tba, Geb&auml;ude E 1 3, Campus der Universit&auml;t des Saarlandes, 66123 Saarbr&uuml;cken</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:julianbaldus@gmail.com" style="color: #ffffff;">julianbaldus@gmail.com</a></div>
     </div>
   </div>
 
