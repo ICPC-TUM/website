@@ -25,10 +25,10 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <!--<img class="img-rounded" src="/content/images/tud.png" style="width: 30%; float: right; padding: 20px;" alt="TUD" />-->
+      <img class="img-rounded" src="/content/images/tud.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUD" />
       <h2 style="padding: 20px;">Dortmund</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Dortmund</div>
-      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
+      <div style="padding: 0 20px 10px 20px;">OH14 R204</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:tobias.brinkjost@tu-dortmund.de" style="color: #ffffff;">tobias.brinkjost@tu-dortmund.de</a></div>
     </div>
   </div>
