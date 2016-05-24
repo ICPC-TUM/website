@@ -85,10 +85,20 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <!--<img class="img-rounded" src="/content/images/uos.png" style="width: 30%; float: right; padding: 20px;" alt="UOS" />-->
+      <h2 style="padding: 20px;">Osnabr&uuml;ck</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Osnabr&uuml;ck</div>
+      <div style="padding: 0 20px 10px 20px;"></div>
+      <div style="padding: 0 20px;">Contact: tba</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
       <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
-      <div style="padding: 0 20px 10px 20px;">Room: tba, Geb&auml;ude E 1 3, Campus der Universit&auml;t des Saarlandes, 66123 Saarbr&uuml;cken</div>
+      <div style="padding: 0 20px 10px 20px;">Room: Raum 012, Geb&auml;ude E 1 3, Campus der Universit&auml;t des Saarlandes, 66123 Saarbr&uuml;cken</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:julianbaldus@gmail.com" style="color: #ffffff;">julianbaldus@gmail.com</a></div>
     </div>
   </div>
@@ -129,6 +139,15 @@ If there is no contest site at your local university, please [contact us](/conta
 It is also possible to participate in the GCPC without hosting a local contest site. These intitutions are also particpating:
 
 <div class="row">
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/fra.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FRA" />
+      <h2 style="padding: 20px;">Frankfurt</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Frankfurt University of Applied Sciences</div>
+      <div style="padding: 0 20px 10px 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
+    </div>
+  </div>
+
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/haw.jpg" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
