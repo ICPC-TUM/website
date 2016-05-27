@@ -85,11 +85,11 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <!--<img class="img-rounded" src="/content/images/uos.png" style="width: 30%; float: right; padding: 20px;" alt="UOS" />-->
+      <img class="img-rounded" src="/content/images/uos.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UOS" />
       <h2 style="padding: 20px;">Osnabr&uuml;ck</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Osnabr&uuml;ck</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
+      <div style="padding: 0 20px 10px 20px;">CIP-Pool AVZ, 31/E53, Institut f&uuml;r Informatik, Albrechtstr. 28, 49076 Osnabr&uuml;ck</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:jupaetzold@uos.de" style="color: #ffffff">jupaetzold@uos.de</a></div>
     </div>
   </div>
 
