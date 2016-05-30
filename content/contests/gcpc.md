@@ -48,7 +48,7 @@ If there is no contest site at your local university, please [contact us](/conta
       <img class="img-rounded" src="/content/images/gau.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="GAU" />
       <h2 style="padding: 20px;">G&ouml;ttingen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Georg-August-Universit&auml;t G&ouml;ttingen</div>
-      <div style="padding: 0 20px 10px 20px;">Raum Nr. -1.110, -1.111, Goldschmidtstrasse 7, 37075, G&ouml;ttingen</div>
+      <div style="padding: 0 20px 10px 20px;">CIP-Pool -1.110/-1.111, Institut f&uuml;r Informatik, Goldschmidtstrasse 7, 37075, G&ouml;ttingen</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:b.ashirmatov@stud.uni-goettingen.de" style="color: #ffffff;">b.ashirmatov@stud.uni-goettingen.de</a></div>
     </div>
   </div>
