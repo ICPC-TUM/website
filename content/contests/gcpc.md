@@ -45,11 +45,11 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <!--<img class="img-rounded" src="/content/images/gau.png" style="width: 30%; float: right; padding: 20px;" alt="GAU" />-->
+      <img class="img-rounded" src="/content/images/gau.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="GAU" />
       <h2 style="padding: 20px;">G&ouml;ttingen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Georg-August-Universit&auml;t G&ouml;ttingen</div>
-      <div style="padding: 0 20px 10px 20px;"></div>
-      <div style="padding: 0 20px;">Contact: tba</div>
+      <div style="padding: 0 20px 10px 20px;">Raum Nr. -1.110, -1.111, Goldschmidtstrasse 7, 37075, G&ouml;ttingen</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:b.ashirmatov@stud.uni-goettingen.de" style="color: #ffffff;">b.ashirmatov@stud.uni-goettingen.de</a></div>
     </div>
   </div>
 
