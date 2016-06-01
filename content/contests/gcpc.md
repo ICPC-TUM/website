@@ -6,6 +6,12 @@ The German Collegiate Programming Contest (GCPC) is the subregional contest for 
 
 GCPC 2016 will take place on **Saturday, June 4th, 12:00 p.m. - 05:00 p.m.** Please be at your contest site at least 30 minutes before the contest starts, i.e. 11:30 a.m.
 
+## Downloads
+
+All contest material will be made available here when released to the public.
+
+* [Problemset Practice Session](/content/contests/history/2016/gcpc/practicesession.pdf)
+
 ## Contest Sites
 
 The GCPC will have several contest sites to compete. Choose the one that is closest to you to participate. Please contact the organizers of the contest sites for further details.
