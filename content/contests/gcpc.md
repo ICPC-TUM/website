@@ -156,6 +156,15 @@ It is also possible to participate in the GCPC without hosting a local contest s
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/ukl.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UKL" />
+      <h2 style="padding: 20px;">Kaiserslautern</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Kaiserslautern</div>
+      <div style="padding: 0 20px 10px 20px;">Contest Site: Universit&auml;t des Saarlandes</div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/haw.jpg" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
       <h2 style="padding: 20px;">Landshut</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
