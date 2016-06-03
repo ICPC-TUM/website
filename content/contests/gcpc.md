@@ -91,6 +91,16 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/tum.png" style="width: 30%; float: right; padding: 20px;" alt="TUM" />
+      <h2 style="padding: 20px;">M&uuml;nchen</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t M&uuml;nchen</div>
+      <div style="padding: 0 20px 10px 20px;">Computer Lab 00.05.011 (&ldquo;Rechnerhalle&rdquo;), Department of Informatics, Boltzmannstr. 3, 85748 Garching</div>
+      <div style="padding: 0 20px;">Contact: <a href="https://icpc.tum.de" style="color: #ffffff;">https://icpc.tum.de</a>, <a href="mailto:icpc@in.tum.de" style="color: #ffffff;">icpc@in.tum.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/uos.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UOS" />
       <h2 style="padding: 20px;">Osnabr&uuml;ck</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Osnabr&uuml;ck</div>
@@ -101,21 +111,21 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
-      <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
-      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
-      <div style="padding: 0 20px 10px 20px;">Room: Raum 012, Geb&auml;ude E 1 3, Campus der Universit&auml;t des Saarlandes, 66123 Saarbr&uuml;cken</div>
-      <div style="padding: 0 20px;">Contact: <a href="mailto:julianbaldus@gmail.com" style="color: #ffffff;">julianbaldus@gmail.com</a></div>
+      <img class="img-rounded" src="/content/images/hpi.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="HPI" />
+      <h2 style="padding: 20px;">Potsdam</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hasso-Plattner-Institut Potsdam</div>
+      <div style="padding: 0 20px 10px 20px;">Raum A-1, Prof.-Dr.-Helmert-Str. 2-3, 14482 Potsdam</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:tobias.friedrich@hpi.de" style="color: #ffffff">tobias.friedrich@hpi.de</a></div>
     </div>
   </div>
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/tum.png" style="width: 30%; float: right; padding: 20px;" alt="TUM" />
-      <h2 style="padding: 20px;">M&uuml;nchen</h2>
-      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t M&uuml;nchen</div>
-      <div style="padding: 0 20px 10px 20px;">Computer Lab 00.05.011 (&ldquo;Rechnerhalle&rdquo;), Department of Informatics, Boltzmannstr. 3, 85748 Garching</div>
-      <div style="padding: 0 20px;">Contact: <a href="https://icpc.tum.de" style="color: #ffffff;">https://icpc.tum.de</a>, <a href="mailto:icpc@in.tum.de" style="color: #ffffff;">icpc@in.tum.de</a></div>
+      <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
+      <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
+      <div style="padding: 0 20px 10px 20px;">Room: Raum 012, Geb&auml;ude E 1 3, Campus der Universit&auml;t des Saarlandes, 66123 Saarbr&uuml;cken</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:julianbaldus@gmail.com" style="color: #ffffff;">julianbaldus@gmail.com</a></div>
     </div>
   </div>
 
