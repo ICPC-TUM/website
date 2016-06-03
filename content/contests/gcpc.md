@@ -235,3 +235,120 @@ You can join our event at Facebook for updates and photos. We would be happy to 
 <div style="text-align: center; width: 100%;">
 <div class="fb-page" data-href="https://www.facebook.com/IcpcTum/" data-tabs="events" data-width="750" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/IcpcTum/"><a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a></blockquote></div></div>
 </div>
+
+## Organizers
+
+An event of this size would not be possible without many people working together. These people were involved in the organization of the GCPC 2016.
+
+### Contest Director
+
+* Stefan Toman, Technische Universität München
+
+### Main Organization
+
+* Moritz Fuchs, Technische Universität München
+* Philipp Hoffmann, Technische Universität München
+* Christian Müller, Technische Universität München
+* Chris Pinkau, Technische Universität München
+
+### Jury
+
+* Markus Blumenstock, Johannes Gutenberg-Universität Mainz
+* Egor Dranischnikow, Johannes Gutenberg-Universität Mainz
+* Moritz Fuchs, Technische Universität München
+* Philipp Hoffmann, Technische Universität München
+* Christian Müller, Technische Universität München
+* Martin Schuster, Universität zu Lübeck
+* Ben Strasser, Karlsruher Institut für Technologie
+* Martin Tillmann, Karlsruher Institut für Technologie
+* Stefan Toman, Technische Universität München
+
+### Proofreaders and Testers
+
+* Michael Baer, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Miriam Polzer, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Tobias Werth, Google
+* Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Thorsten Wißmann, Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+### Contest Sites Organizers
+
+#### Bonn
+
+* Heiko Röglin, Rheinische Friedrich-Wilhelms-Universität Bonn
+
+#### Dortmund
+
+* Tobias Brinkjost, Technische Universität Dortmund
+
+#### Erlangen
+
+* Michael Baer, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Daniela Novac, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Dominik Paulus, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Miriam Polzer, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Tobias Polzer, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
+* Thorsten Wißmann, Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+#### Göttingen
+
+* Bakhodir Ashirmatov, Georg-August-Universität Göttingen
+
+#### Karlsruhe
+
+* Ben Strasser, Karlsruher Institut für Technologie
+* Martin Tillmann, Karlsruher Institut für Technologie
+
+#### Lübeck
+
+* Max Bannach, Universität zu Lübeck
+* Tim Kunold, Universität zu Lübeck
+* Maciej Liskiewicz, Universität zu Lübeck
+* Martin Schuster, Universität zu Lübeck
+
+#### Mainz
+
+* Markus Blumenstock, Johannes Gutenberg-Universität Mainz
+* Egor Dranischnikow, Johannes Gutenberg-Universität Mainz
+
+#### Osnabrück
+
+* Jochen Saalfeld, Universität Osnabrück
+* Julian Pätzold, Universität Osnabrück
+
+#### Potsdam
+
+* Tobias Friedrich, Hasso-Plattner-Institut Potsdam
+* Christoph Kessler, Hasso-Plattner-Institut Potsdam
+
+#### Saarbrücken
+
+* Christian Baldus, Universität des Saarlandes
+* Julian Baldus, Universität des Saarlandes
+
+#### München
+
+* Moritz Fuchs, Technische Universität München
+* Philipp Hoffmann, Technische Universität München
+* Christian Müller, Technische Universität München
+* Chris Pinkau, Technische Universität München
+* Stefan Toman, Technische Universität München
+
+#### Ulm
+
+* Gregor Behnke, Universität Ulm
+
+#### Würzburg
+
+* Marianus Ifland, Julius-Maximilians-Universität Würzburg
+
+### Helpers and Coaches
+
+* Nourhene Bziouech, Universität Passau
+* Doina Logofatu, Frankfurt University of Applied Sciences
+* Marinus Gottschau, Technische Universität München
+* Stefan Jaax, Technische Universität München
+* Markus Mock, Hochschule für angewandte Wissenschaften Landshut
+* Alexander van Renen, Technische Universität München
+* Melanie Strauss, Technische Universität München
