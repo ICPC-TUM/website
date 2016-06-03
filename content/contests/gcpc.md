@@ -11,6 +11,7 @@ GCPC 2016 will take place on **Saturday, June 4th, 12:00 p.m. - 05:00 p.m.** Ple
 All contest material will be made available here when released to the public.
 
 * [Problemset Practice Session](/content/contests/history/2016/gcpc/practicesession.pdf)
+* [Solutions Practice Session](/content/contests/history/2016/gcpc/practicesession_solutions.pdf)
 
 ## Contest Sites
 
@@ -263,8 +264,9 @@ An event of this size would not be possible without many people working together
 
 ### Jury
 
+* Gregor Behnke, Universität Ulm
 * Markus Blumenstock, Johannes Gutenberg-Universität Mainz
-* Egor Dranischnikow, Johannes Gutenberg-Universität Mainz
+* Egor Dranischnikow, CST AG
 * Moritz Fuchs, Technische Universität München
 * Philipp Hoffmann, Technische Universität München
 * Christian Müller, Technische Universität München
@@ -285,6 +287,7 @@ An event of this size would not be possible without many people working together
 
 #### Bonn
 
+* Michael Etscheid, Rheinische Friedrich-Wilhelms-Universität Bonn
 * Heiko Röglin, Rheinische Friedrich-Wilhelms-Universität Bonn
 
 #### Dortmund
@@ -320,7 +323,7 @@ An event of this size would not be possible without many people working together
 #### Mainz
 
 * Markus Blumenstock, Johannes Gutenberg-Universität Mainz
-* Egor Dranischnikow, Johannes Gutenberg-Universität Mainz
+* Domenico Mosca, Joohannes Gutenberg-Universität Mainz
 
 #### Osnabrück
 
