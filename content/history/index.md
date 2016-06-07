@@ -3,6 +3,7 @@
 This page contains past contests where TUM participated.
 
 ##2016
+* [GCPC 2016](/history/2016/GCPC16)  
 * [Wintercontest 2016](/history/2016/Winter16)
 
 ##2015
