@@ -1,7 +1,7 @@
 /*
-Title: Registration for GCPC 2016 is Open
-Description: Starting today you can register your team for GCPC 2016. There are currently nine confirmed contest sites around Germany.
-Date: 2016/05/04
+Title: Results of the GCPC 2016
+Description: GCPC 2016 has ended. Here are the results.
+Date: 2016/06/07
 Template: news
 */
 
