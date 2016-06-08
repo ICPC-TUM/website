@@ -20,6 +20,6 @@ The contest site at TU Munich hosted 35 teams with a total of about 90 students 
 <div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.800740703394744.1073741833.138869482915206&amp;type=3" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.800740703394744.1073741833.138869482915206&amp;type=3">Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.800740703394744.1073741833.138869482915206&amp;type=3">Montag, 22. Juni 2015</a></blockquote></div></div>
 </div>
 
-The results scoreboard can be found [here](content/history/2016/gcpc).
+The results scoreboard can be found [here](/history/2016/gcpc).
 
 {{ comments }}
