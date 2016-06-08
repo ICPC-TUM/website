@@ -10,11 +10,11 @@ GCPC 2016 will take place on **Saturday, June 4th, 12:00 p.m. - 05:00 p.m.** Ple
 
 All contest material will be made available here when released to the public.
 
-* [Problemset Practice Session](/content/contests/history/2016/gcpc/practicesession.pdf)
-* [Solutions Practice Session](/content/contests/history/2016/gcpc/practicesession_solutions.pdf)
-* [Problemset GCPC 2016](/content/contests/history/2016/gcpc/gcpc2016.pdf)
-* [Solutions GCPC](/content/contests/history/2016/gcpc/gcpc2016_solutions.pdf)
-* [Extended Solutions GCPC](/content/contests/history/2016/gcpc/gcpc2016_solutions_extended.pdf)
+* [Problemset Practice Session](/content/contests/history/2016/gcpc_files/practicesession.pdf)
+* [Solutions Practice Session](/content/contests/history/2016/gcpc_files/practicesession_solutions.pdf)
+* [Problemset GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016.pdf)
+* [Solutions GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016_solutions.pdf)
+* [Extended Solutions GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016_solutions_extended.pdf)
 
 ## Contest Sites
 
