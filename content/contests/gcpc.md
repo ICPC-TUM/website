@@ -15,6 +15,7 @@ All contest material will be made available here when released to the public.
 * [Problemset GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016.pdf)
 * [Solutions GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016_solutions.pdf)
 * [Extended Solutions GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016_solutions_extended.pdf)
+* [Report and Scoreboard](/contests/history/2016/gcpc)
 
 ## Contest Sites
 
