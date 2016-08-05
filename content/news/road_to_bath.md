@@ -21,11 +21,17 @@ Programming Contest (GCPC) 2016.
 Contests"](/preparation/courses) who collected the most points during the
 term.
 
-3. Winners of our training contests at [TUMjudge
-contest](https://judge.in.tum.de/contest/)
+3. Students that solved the most problems at [TUMjudge
+contest](https://judge.in.tum.de/contest/). There are more than 300 problems
+uploaded to our judge system. The three students with the most solved
+problems will be invited.
+
+4. The best participant of each of our training contests at [TUMjudge
+contest](https://judge.in.tum.de/contest/) that are not already qualified.
 
 New training contests will be announced later on this website. Check the
-news for their dates.
+news for their dates. There is a chance for everybody to get an invite here.
+So if you want to go solve some problems at the contest judge.
 
 ## 2. Participate in our Training Group
 
@@ -56,8 +62,8 @@ to do so.
 ## 4. Go to NWERC!
 
 After some more training we will take the best teams to Bath. Again, all
-costs but food are covered by us. The NWERC will be from 19th to 20th
-November, we will leave Munich on Friday, 18th November and will be back on
+costs but food are covered by TUM. The NWERC will be from 19th to 20th
+November. We will leave Munich on Friday, 18th November and will be back on
 Monday, 21st November.
 
 We are looking forward to you joining us on the way to Bath!
