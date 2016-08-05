@@ -10,7 +10,7 @@ article we will describe the stages of our team creation.
 
 ## 1. Qualify for our Training Camp
 
-First of all you need to get an invitation to our training camp. We hand
+First of all you need to get an invitation to our training camp. We hand out
 these invitations during several events here at TUM. The following students
 will receive an initation to this year's training camp:
 
@@ -30,8 +30,9 @@ problems will be invited.
 contest](https://judge.in.tum.de/contest/) that are not already qualified.
 
 New training contests will be announced later on this website. Check the
-news for their dates. There is a chance for everybody to get an invite here.
-So if you want to go solve some problems at the contest judge.
+news for their dates. There is a chance for everybody to get an invite here,
+so if you want participate in the training camp go solve some problems at
+the contest judge.
 
 ## 2. Participate in our Training Group
 
@@ -45,7 +46,7 @@ the training camp. Please [contact](/contact) us to get in touch.
 ## 3. Attend the Training Camp
 
 The training camp will take place from Monday, 3rd October until Saturday,
-8th Otcober. We rented a house at the Zillertal in Austria which is pictured
+8th October. We rented a house at the Zillertal in Austria which is pictured
 above for the full week. During this training camp we will have some talks,
 do contests together, discuss algorithms and strategies as well as go
 hiking, have fun and use the bar that is included in the house! To do so we
