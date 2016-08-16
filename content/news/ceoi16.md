@@ -6,10 +6,10 @@ Template: news
 */
 
 The Central European Olympiad in Informatics took place in Piatra Neam,
-Romania last month. The German Team – 4 high-school-students – competed
+Romania last month. The German Team – 4 high school students – competed
 there against 12 other nations. To prepare, they went through one year of
-seminars, selection- and practice-contests, a number of which were hosted on
-the TUMJudge. The results of the competition: a silver and a Bronze medal
-for the team!
+seminars, selection and practice contests, a number of which were hosted on
+TUMJudge. The results of the competition: a Silver and a Bronze medal for
+the team!
 
 Read the full report on [ioi-training.de](http://www.ioi-training.de).
