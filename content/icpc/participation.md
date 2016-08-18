@@ -1,6 +1,6 @@
 # Participation
 
-The current rules for the participation are set by the [ICPC rules website](http://icpc.baylor.edu/regionals/rules). To find out if you are eligible to participate please use the [eligibility decision tree](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2015.pdf) provided by the ICPC.
+The current rules for the participation are set by the [ICPC rules website](http://icpc.baylor.edu/regionals/rules). To find out if you are eligible to participate please use the [eligibility decision tree](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2016.pdf) provided by the ICPC.
 
 ## Brief summary of rules
 
