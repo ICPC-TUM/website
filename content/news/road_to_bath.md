@@ -1,6 +1,6 @@
 /*
 Title: Road to Bath
-Description: We are happy to announce that there will be a training camp again where we will chosse TUM's teams for this year's NWERC in Bath, UK.
+Description: We are happy to announce that there will be a training camp again where we will choose TUM's teams for this year's NWERC in Bath, UK.
 Date: 2016/08/05
 Template: news
 */
