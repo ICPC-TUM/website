@@ -21,10 +21,10 @@ Programming Contest (GCPC) 2016.
 Contests"](/preparation/courses) who collected the most points during the
 term.
 
-3. Students that solved the most problems at [TUMjudge
-contest](https://judge.in.tum.de/contest/). There are more than 300 problems
-uploaded to our judge system. The three students with the most solved
-problems will be invited.
+3. Up to three Students that solved at least 10 problems from the problem
+collection at [TUMjudge contest](https://judge.in.tum.de/contest/).  There
+are more than 300 problems uploaded to our judge system, 100 of them within
+the problem collection.
 
 4. The best participant of each of our training contests at [TUMjudge
 contest](https://judge.in.tum.de/contest/) that are not already qualified.
