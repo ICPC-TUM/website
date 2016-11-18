@@ -20,4 +20,4 @@ Moreover, the NWERC is also a great opportunity for all of you that have to stay
 
 So if you enjoy solving challenging problems, mark your calendars and join the fray. The online contest starts on Sunday, 20.11.2016 at 12:00 a.m. CET online at https://open.kattis.com/contests/nwerc16open and will last for 5 hours. You need to register a Kattis account to participate.
 
-[[ comments ]]
+{{ comments }}
