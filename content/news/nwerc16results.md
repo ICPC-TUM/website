@@ -5,7 +5,7 @@ Date: 2016/11/22
 Template: news
 */
 
-We are back from the NWERC 2016. It was a great contest as every year. Thanks to all organizers, jury members, teams, and coacheswho made that event possible.
+We are back from the NWERC 2016. It was a great contest as every year. Thanks to all organizers, jury members, teams, and coaches who made that event possible.
 
 <div style="text-align: center;"> <div class="fb-post"
 data-href="https://www.facebook.com/media/set/?set=a.896441637157983.1073741835.138869482915206&amp;type=3"
@@ -15,7 +15,7 @@ by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a
 href="https://www.facebook.com/media/set/?set=a.896441637157983.1073741835.138869482915206&amp;type=3">Montag,
 22. Juni 2015</a></blockquote></div></div> </div>
 
-After a trip that was much longer than expected due to some heavy traffic we participated in the practice session on Saturday. Later that day we had city tours or visited the Roman Baths and had a formidable competition dinner in the Assemlby Rooms in Bath. The competition itself was on Sunday and the TUM teams finished on rank 30 (6 problems solved), 32 (6 problems solved), and 43 (5 problems solved). You can find the full scoreboard here:
+After a trip that was much longer than expected due to some heavy traffic we participated in the practice session on Saturday. Later that day we had city tours or visited the Roman Baths and had a formidable competition dinner in the Assembly Rooms in Bath. The competition itself was on Sunday and the TUM teams finished on rank 30 (6 problems solved), 32 (6 problems solved), and 43 (5 problems solved). You can find the full scoreboard here:
  
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
