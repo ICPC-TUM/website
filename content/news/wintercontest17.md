@@ -27,5 +27,6 @@ In short:
 - Sample solution presentation & ceremony end at approx. 4pm.
 - FAU Wintercontest is a great preparation for the GCPC.
 - Free food and drinks for all participants!
+- Join Facebook event: https://www.facebook.com/events/239401946499676/
 
 {{ comments }}
