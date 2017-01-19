@@ -11,7 +11,7 @@ The contest starts at 10am and ends at 3pm. Please show up at least 30 minutes e
 
 Every team will work together on one computer and may use one of the following programming languages to solve the problems: C/C++, Java, and Python. Teams are allowed to bring as many books and written materiel as necessary. Electronic devices, however, are strictly prohibited.
 
-The problems of the FAU Wintercontest are usually a bit easier than the ones of the GCPC. Hence, this contest is an outstanding opportunity to find great teammates and get accustomed to the general setup and problem style of ICPC programming contests.
+The problems of the FAU Wintercontest are usually a bit easier than the ones of the GCPC. Hence, this contest is an outstanding opportunity to find great teammates and get accustomed to the general setup and problem style of ICPC programming contests. You can find last year's FAU Wintercontest problems at https://icpc.informatik.uni-erlangen.de/problemset_winter_2016.pdf .
 
 Please don’t hesitate to send us an email to icpc@in.tum.de in case you have any further questions or encounter any problems!
 
@@ -26,7 +26,8 @@ In short:
 - Show up at least 30min early.
 - Sample solution presentation & ceremony end at approx. 4pm.
 - FAU Wintercontest is a great preparation for the GCPC.
-- Free food and drinks for all participants!
+- FAU Wintercontest 2016 problems: https://icpc.informatik.uni-erlangen.de/problemset_winter_2016.pdf
 - Join Facebook event: https://www.facebook.com/events/239401946499676/
+- Free food and drinks for all participants!
 
 {{ comments }}
