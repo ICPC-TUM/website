@@ -1,7 +1,7 @@
 /*
 Title: Contest Week Winter Term 2016
 Description: The last week of our course "Algorithms for Programming Contests" is open for everybody. We created ten brand-new problems for you!
-Date: 2016/07/06
+Date: 2017/02/01
 Template: news
 */
 
