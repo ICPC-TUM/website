@@ -1,7 +1,7 @@
 /*
 Title: Practical Course during the Summer Term 2017
 Description: There will be another pratical course "Algorithms for Programming Contests" this sumer.
-Date: 2016/07/06
+Date: 2017/02/01
 Template: news
 */
 
