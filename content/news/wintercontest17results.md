@@ -5,7 +5,7 @@ Date: 2017/02/02
 Template: news
 */
 
-As every year, the annual Wintercontest was organized by the ICPC team from the Friedrich-Alexander-Universität Erlangen-Nürnberg. While last year's problem set dealt with various aspects of the Star Wars saga, the topic of this year's problem set were cats. As a result, the participants were cheered up with some funny cat memes while putting all their energy into solving some of the tough problems. Besides that, the contestants were introduced to the awesome cat game "Memory with Cat Memes", the brand new "OverCATch" first person ego shooter, and the question whether cats or dogs are going to be the "Pet of the Year".
+As every year, the annual Wintercontest was organized by the ICPC team from the Friedrich-Alexander-Universität Erlangen-Nürnberg. While last year's problem set dealt with various aspects of the Star Wars saga, the topic of this year's problems were cats. As a result, the participants were cheered up with some funny cat memes while putting all their energy into solving some of the tough problems. Along the way, the contestants were introduced to the awesome cat game "Memory with Cat Memes", the brand new "OverCATch" first person ego shooter, and the question whether cats or dogs are going to be the "Pet of the Year".
 
 In total 64 teams from 6 universities participated in the FAU Wintercontest, among them were 24 teams from the TUM. Together with 2 guest teams from the Frankfurt University of Applied Sciences, exactly 70 participants gathered at our local contest site in Garching. It is a great joy for us to announce that this year's Wintercontest winner is a team from TUM. Congratulations to team "TUMbling" on being the only team that managed to solve all 13 problems of the contest!
 
