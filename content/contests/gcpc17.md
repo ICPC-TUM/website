@@ -74,7 +74,6 @@ If there is no contest site at your local university but you would like to set o
     </div>
   </div>
 
-<!---
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
@@ -83,7 +82,6 @@ If there is no contest site at your local university but you would like to set o
       <div style="padding: 0 20px;">Contact: <a href="mailto:julianbaldus@gmail.com" style="color: #ffffff;">julianbaldus@gmail.com</a></div>
     </div>
   </div>
--->
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
@@ -245,6 +243,10 @@ An event of this size would not be possible without many people working together
 * Stefan Jaax, Technische Universität München
 * Christian Müller, Technische Universität München
 * Gregor Schwarz, Technische Universität München
+
+#### Saarbrücken
+
+* Julian Baldus, Universität des Saarlandes
 
 #### Ulm
 
