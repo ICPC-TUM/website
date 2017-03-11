@@ -28,6 +28,14 @@ If there is no contest site at your local university but you would like to set o
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <h2 style="padding: 20px;">Dresden</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Dresden</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:maksym.planeta@tu-dresden.de" style="color: #ffffff;">maksym.planeta@tu-dresden.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FAU" />
       <h2 style="padding: 20px;">Erlangen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
@@ -91,6 +99,15 @@ If there is no contest site at your local university but you would like to set o
       <div style="padding: 0 20px;">Contact: <a href="http://www.uni-ulm.de/in/acm-icpc" style="color: #ffffff;">http://www.uni-ulm.de/in/acm-icpc</a>, <a href="mailto:gregor.behnke@uni-ulm.de" style="color: #ffffff;">gregor.behnke@uni-ulm.de</a></div>
     </div>
   </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/jmu.jpg" style="width: 30%; float: right; padding: 20px;" alt="JMU" />
+      <h2 style="padding: 20px;">W&uuml;rzburg</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Julius-Maximilians-Universit&auml;t W&uuml;rzburg</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:icpc@informatik.uni-wuerzburg.de" style="color: #ffffff;">icpc@informatik.uni-wuerzburg.de</a></div>
+    </div>
+  </div>
 </div>
 
 ## Participating Institutions without Local Contest Sites
@@ -103,8 +120,8 @@ It is also possible to participate in the GCPC without hosting a local contest s
       <img class="img-rounded" src="/content/images/fra.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FRA" />
       <h2 style="padding: 20px;">Frankfurt</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Frankfurt University of Applied Sciences</div>
-      <div style="padding: 0 20px;">Contact: <a href="mailto:logofatu@fb2.fra-uas.de" style="color: #ffffff;">logofatu@fb2.fra-uas.de</a></div>
-      <div style="padding: 0 20px 10px 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
+      <div style="padding: 0 20px 10px 20px;">Contact: <a href="mailto:logofatu@fb2.fra-uas.de" style="color: #ffffff;">logofatu@fb2.fra-uas.de</a></div>
+      <div style="padding: 0 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
     </div>
   </div>
 
@@ -113,8 +130,8 @@ It is also possible to participate in the GCPC without hosting a local contest s
       <img class="img-rounded" src="/content/images/haw.jpg" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
       <h2 style="padding: 20px;">Landshut</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
-      <div style="padding: 0 20px;">Contact: <a href="mailto:markus.mock@haw-landshut.de" style="color: #ffffff;">markus.mock@haw-landshut.de</a></div>
-      <div style="padding: 0 20px 10px 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
+      <div style="padding: 0 20px 10px 20px;">Contact: <a href="mailto:markus.mock@haw-landshut.de" style="color: #ffffff;">markus.mock@haw-landshut.de</a></div>
+      <div style="padding: 0 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
     </div>
   </div>
 </div>
@@ -219,44 +236,44 @@ An event of this size would not be possible without many people working together
 
 ### Contest Sites Organizers
 
-#### Erlangen
+#### Dresden
+* Maksym Planeta, Technische Universität Dresden
 
+#### Erlangen
 * Michael Baer, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Daniela Novac, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Tobias Polzer, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 #### Karlsruhe
-
 * Martin Tillmann, Karlsruher Institut für Technologie
 
 #### Lübeck
-
-* Maciej Liskiewicz, Universität zu Lübeck
+* Prof. Dr. Maciej Liskiewicz, Universität zu Lübeck
 
 #### Mainz
-
 * Markus Blumenstock, Johannes Gutenberg-Universität Mainz
 
 #### München
-
 * Stefan Jaax, Technische Universität München
 * Christian Müller, Technische Universität München
 * Gregor Schwarz, Technische Universität München
 
 #### Saarbrücken
-
 * Julian Baldus, Universität des Saarlandes
 
 #### Ulm
-
 * Gregor Behnke, Universität Ulm
+
+#### Würzburg
+* Dr. Marianus Ifland, Julius-Maximilians-Universität Würzburg
+* Fabian Lipp, Julius-Maximilians-Universität Würzburg
 
 
 ### Helpers and Coaches
 
-* Doina Logofatu, Frankfurt University of Applied Sciences
+* Prof. Dr. Doina Logofatu, Frankfurt University of Applied Sciences
 * Philipp Meyer, Technische Universität München
-* Markus Mock, Hochschule für angewandte Wissenschaften Landshut
+* Prof. Dr. Markus Mock, Hochschule für angewandte Wissenschaften Landshut
 * Stefan Toman, Technische Universität München
 
