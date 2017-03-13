@@ -27,7 +27,9 @@ If there is no contest site at your local university but you would like to set o
 
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
-    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+
+  <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+    <img class="img-rounded" src="/content/images/tudre.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUDRE" />
       <h2 style="padding: 20px;">Dresden</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Dresden</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:maksym.planeta@tu-dresden.de" style="color: #ffffff;">maksym.planeta@tu-dresden.de</a></div>
