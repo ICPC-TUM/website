@@ -48,6 +48,16 @@ If there is no contest site at your local university but you would like to set o
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/tukl.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUKL" />
+      <h2 style="padding: 20px;">Kaiserslautern</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Kaiserslautern</div>
+      <div style="padding: 0 20px 10px 20px;">Terminalraum 48/211</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:bieniusa@cs.uni-kl.de" style="color:#ffffff;">bieniusa@cs.uni-kl.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
       <img class="img-rounded" src="/content/images/kit.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="KIT" />
       <h2 style="padding: 20px;">Karlsruhe</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Karlsruher Institut f&uuml;r Technologie</div>
@@ -246,6 +256,9 @@ An event of this size would not be possible without many people working together
 * Daniela Novac, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Tobias Polzer, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+#### Kaiserslautern
+* Dr. Annette Bieniusa
 
 #### Karlsruhe
 * Martin Tillmann, Karlsruher Institut für Technologie
