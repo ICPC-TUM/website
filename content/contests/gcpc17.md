@@ -256,6 +256,10 @@ An event of this size would not be possible without many people working together
 
 ### Contest Sites Organizers
 
+#### Berlin
+* Matthias Bentert, Technische Universität Berlin
+* Dr. André Nichterlein, Technische Universität Berlin
+
 #### Dresden
 * Maksym Planeta, Technische Universität Dresden
 
