@@ -31,7 +31,8 @@ If there is no contest site at your local university but you would like to set o
     <img class="img-rounded" src="/content/images/tuber.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUBER" />
       <h2 style="padding: 20px;">Berlin</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Berlin</div>
-      <div style="padding: 0 20px;">Contact: <a href="mailto:icpc@akt.tu-berlin.de" style="color: #ffffff;">icpc@akt.tu-berlin.de</a></div>
+      <div style="padding: 0 20px 10px 20px;">TEL 206 (2. Etage, Telefunken-Hochhaus), Ernst-Reuter-Platz 7 </div>
+      <div style="padding: 0 20px;">Contact: <a href="http://www.akt.tu-berlin.de/index.php?id=icpc" style="color: #ffffff;">http://www.akt.tu-berlin.de/index.php?id=icpc</a>, <a href="mailto:icpc@akt.tu-berlin.de" style="color: #ffffff;">icpc@akt.tu-berlin.de</a></div>
     </div>
   </div>
 
