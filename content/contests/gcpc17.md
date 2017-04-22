@@ -31,7 +31,7 @@ If there is no contest site at your local university but you would like to set o
     <img class="img-rounded" src="/content/images/tuber.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUBER" />
       <h2 style="padding: 20px;">Berlin</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Berlin</div>
-      <div style="padding: 0 20px 10px 20px;">TEL 206 (2. Etage, Telefunken-Hochhaus), Ernst-Reuter-Platz 7 </div>
+      <div style="padding: 0 20px 10px 20px;">TEL 206 (2. Etage, Telefunken-Hochhaus), <br> Ernst-Reuter-Platz 7, 10587 Berlin </div>
       <div style="padding: 0 20px;">Contact: <a href="http://www.akt.tu-berlin.de/index.php?id=icpc" style="color: #ffffff;">http://www.akt.tu-berlin.de/index.php?id=icpc</a>, <a href="mailto:icpc@akt.tu-berlin.de" style="color: #ffffff;">icpc@akt.tu-berlin.de</a></div>
     </div>
   </div>
@@ -89,6 +89,7 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/jgu.png" style="width: 30%; float: right; padding: 20px;" alt="JGU" />
       <h2 style="padding: 20px;">Mainz</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Johannes Gutenberg-Universit&auml;t Mainz</div>
+      <div style="padding: 0 20px 10px 20px;">Poolraum 03-322, Institut für Informatik, <br> Staudingerweg 9, 55128 Mainz</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:contests@informatik.uni-mainz.de" style="color: #ffffff;">contests@informatik.uni-mainz.de</a></div>
     </div>
   </div>
@@ -117,6 +118,7 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/uulm.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UULM" />
       <h2 style="padding: 20px;">Ulm</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Ulm</div>
+      <div style="padding: 0 20px 10px 20px;">Süd-Pool (O27/133)</div>
       <div style="padding: 0 20px;">Contact: <a href="http://www.uni-ulm.de/in/acm-icpc" style="color: #ffffff;">http://www.uni-ulm.de/in/acm-icpc</a>, <a href="mailto:gregor.behnke@uni-ulm.de" style="color: #ffffff;">gregor.behnke@uni-ulm.de</a></div>
     </div>
   </div>
