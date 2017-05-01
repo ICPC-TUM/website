@@ -161,15 +161,12 @@ It is also possible to participate in the GCPC without hosting a local contest s
 </div>
 
 ## Registration
+The registration for the GCPC 2017 has opened on May 1st. You can register your team through the official [<span style="color:darkblue">**ACM ICPC website**</span>](https://icpc.baylor.edu/regionals/finder/german-2017). The registration is opened until **Tuesday, June 27th**. Please make sure that your team is registered before the deadline!
 
-The registration has not opened yet.
-<!--
-The registration page is located at [https://icpc.baylor.edu/regionals/finder/german-2016](https://icpc.baylor.edu/regionals/finder/german-2016). **You need to complete registration until Friday, June 3rd. To participate in the practice session you need to register until Tuesday, May 31st.**
+To register a team, the coach (this can be a contestant, a tutor, or a professor) creates the team on the website and adds up to three contestants. If the contestants do not have an account on the official ACM ICPC website yet, the coach can enter their email addresses to send them an invitation through the system. Once all members of the team have registered successfully and entered the required personal information on the website, we will confirm the team manually and the team's status will change from pending to accepted. 
 
-To register, *all* team members have to create accounts at [https://icpc.baylor.edu](https://icpc.baylor.edu) and enter their personal details. The coach (most times one of the three team members) has to create the team and add all three contestants to it. Once the team is created and all team members completed registration we will manually change your team's status to accepted. Please make sure that your team is accepted before the deadline.
+If you need further team members, feel free to post something on the wall of our [<span style="color:darkblue">**Facebook event**</span>](https://www.facebook.com/events/1611417665554633). In case you have trouble finding your affiliation at the registration page please note that TUM is registered as &ldquo;Technische Universitaet Muenchen&rdquo;.
 
-If you need further team members try asking at our discussion board at [https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1](https://judge.in.tum.de/discuss/t/gcpc-2016-team-creation/29/1) or our Facebook event at [https://www.facebook.com/events/217584575254291/](https://www.facebook.com/events/217584575254291/). If you have trouble finding your affiliation at the registration page please note that TUM is registered as &ldquo;Technische Universitaet Muenchen&rdquo;.
--->
 
 ## Programming Languages
 
