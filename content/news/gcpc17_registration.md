@@ -1,6 +1,6 @@
 /*
 Title: GCPC 2017 Registration
-Description: Registration for GCPC has opened today!
+Description: The registration for the GCPC 2017 has opened today!
 Date: 2017/05/01
 Template: news
 */
