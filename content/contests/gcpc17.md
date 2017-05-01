@@ -271,7 +271,7 @@ An event of this size would not be possible without many people working together
 * Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 #### Kaiserslautern
-* Dr. Annette Bieniusa
+* Dr. Annette Bieniusa, Technische Universität Kaiserslautern
 
 #### Karlsruhe
 * Martin Tillmann, Karlsruher Institut für Technologie
