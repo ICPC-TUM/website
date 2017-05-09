@@ -10,7 +10,7 @@ class Tumjudge {
       array('name' => 'Contest', 'path' => 'contest', 'description' => 'Preparation for the ACM ICPC', 'color' => '#0c99ce'),
       array('name' => 'GAD', 'path' => 'gad', 'description' => 'Lecture &ldquo;Foundations: Algorithms and Data Structures&rdquo;', 'color' => '#0c5bce'),
       array('name' => 'Isabelle', 'path' => 'isabelle', 'description' => 'Proving Contests', 'color' => '#1f0cee'),
-      array('name' => 'GCPC', 'path' => 'gcpc', 'description' => 'German Collegiate Programming Contest', 'color' => '#800cce'),
+      array('name' => 'GCPC', 'path' => 'judge', 'description' => 'German Collegiate Programming Contest', 'color' => '#800cce'),
       array('name' => 'IOI Germany', 'path' => 'ioide', 'description' => 'Preparation for the IOI', 'color' => '#ce0c82'),
       array('name' => 'IOI Austria', 'path' => 'ioiat', 'description' => 'Preparation for the IOI', 'color' => '#ff0000'),
       array('name' => 'Challenge', 'path' => 'challenge', 'description' => 'Yet Another Programming Contest', 'color' => '#ff6000'),
