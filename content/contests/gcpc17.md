@@ -158,6 +158,16 @@ It is also possible to participate in the GCPC without hosting a local contest s
       <div style="padding: 0 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
     </div>
   </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/hpi.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="HPI" />
+      <h2 style="padding: 20px;">Potsdam</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hasso-Plattner-Institut Potsdam</div>
+      <div style="padding: 0 20px 10px 20px;">Contact: <a href="mailto:pascal.lenzner@hpi.de" style="color: #ffffff">pascal.lenzner@hpi.de</a></div>
+      <div style="padding: 0 20px;">Contest Site: Technische Universit&auml;t Berlin</div>
+    </div>
+  </div>
 </div>
 
 ## Registration
@@ -249,8 +259,17 @@ An event of this size would not be possible without many people working together
 
 * Christian Müller, Technische Universität München
 
-<!---
 ### Jury
+
+* Gregor Behnke, Universität Ulm
+* Markus Blumenstock, Johannes Gutenberg-Universität Mainz
+* Moritz Fuchs
+* Stefan Jaax, Technische Universität München
+* Gregor Schwarz, Technische Universität München
+* Martin Tillmann, Karlsruher Institut für Technologie
+* Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+<!---
 ### Proofreaders and Testers
 -->
 
@@ -301,6 +320,7 @@ An event of this size would not be possible without many people working together
 ### Helpers and Coaches
 
 * Prof. Dr. Doina Logofatu, Frankfurt University of Applied Sciences
+* Dr. Pascal Lenzner, Hasso-Plattner-Institut Potsdam
 * Philipp Meyer, Technische Universität München
 * Prof. Dr. Markus Mock, Hochschule für angewandte Wissenschaften Landshut
 * Stefan Toman, Technische Universität München
