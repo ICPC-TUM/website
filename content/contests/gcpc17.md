@@ -263,7 +263,7 @@ An event of this size would not be possible without many people working together
 
 * Gregor Behnke, Universität Ulm
 * Markus Blumenstock, Johannes Gutenberg-Universität Mainz
-* Moritz Fuchs
+* Moritz Fuchs, Freelancer
 * Stefan Jaax, Technische Universität München
 * Gregor Schwarz, Technische Universität München
 * Martin Tillmann, Karlsruher Institut für Technologie
@@ -319,6 +319,7 @@ An event of this size would not be possible without many people working together
 
 ### Helpers and Coaches
 
+* Moritz Fuchs, Freelancer
 * Prof. Dr. Doina Logofatu, Frankfurt University of Applied Sciences
 * Dr. Pascal Lenzner, Hasso-Plattner-Institut Potsdam
 * Philipp Meyer, Technische Universität München
