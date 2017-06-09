@@ -188,7 +188,6 @@ The following languages will be available for your submissions:
 
 We guarantee that all problems are solvable using Java and C++. Many problems will also be solvable using Python, but we do not guarantee this for any problem.
 
-<!--
 Here are the exact versions we will be using on the judge machines.
 
 ```
@@ -210,7 +209,6 @@ Python 2.7.8 (2.4.0+dfsg-3, Dec 20 2014, 13:30:46)
 
 Note that depending on your contest site these may not be the versions installed on your local computers. Please contact the organizers of your contest site for further details.
 
--->
 
 ## Practice Session
 
