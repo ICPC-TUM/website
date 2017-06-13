@@ -298,6 +298,7 @@ An event of this size would not be possible without many people working together
 
 #### Mainz
 * Markus Blumenstock, Johannes Gutenberg-Universität Mainz
+* Domenico Mosca, Johannes Gutenberg-Universität Mainz
 
 #### München
 * Stefan Jaax, Technische Universität München
