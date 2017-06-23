@@ -81,7 +81,8 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/lue.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="LUE" />
       <h2 style="padding: 20px;">L&uuml;beck</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t zu L&uuml;beck</div>
-      <div style="padding: 0 20px;">Contact: <a href="mailto:liskiewi@tcs.uni-luebeck.de" style="color: #ffffff;">liskiewi@tcs.uni-luebeck.de</a></div>
+      <div style="padding: 0 20px 10px 20px;">Haus 64, Raum ITCS2021</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:liskiewi@tcs.uni-luebeck.de" style="color: #ffffff;">kunold@tcs.uni-luebeck.de</a></div>
     </div>
   </div>
 
@@ -294,6 +295,7 @@ An event of this size would not be possible without many people working together
 * Martin Tillmann, Karlsruher Institut für Technologie
 
 #### Lübeck
+* Tim Kunold, Universität zu Lübeck
 * Prof. Dr. Maciej Liskiewicz, Universität zu Lübeck
 
 #### Mainz
@@ -314,6 +316,7 @@ An event of this size would not be possible without many people working together
 #### Würzburg
 * Dr. Marianus Ifland, Julius-Maximilians-Universität Würzburg
 * Fabian Lipp, Julius-Maximilians-Universität Würzburg
+* Thomas van Dijk, Julius-Maximilians-Universität Würzburg
 
 
 ### Helpers and Coaches
