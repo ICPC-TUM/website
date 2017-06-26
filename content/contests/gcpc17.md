@@ -111,6 +111,7 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
       <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
+      <div style="padding: 0 20px 10px 20px;">Raum 111, Gebäude E 1.3</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:julianbaldus@gmail.com" style="color: #ffffff;">julianbaldus@gmail.com</a></div>
     </div>
   </div>
@@ -156,6 +157,16 @@ It is also possible to participate in the GCPC without hosting a local contest s
       <h2 style="padding: 20px;">Landshut</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
       <div style="padding: 0 20px 10px 20px;">Contact: <a href="mailto:markus.mock@haw-landshut.de" style="color: #ffffff;">markus.mock@haw-landshut.de</a></div>
+      <div style="padding: 0 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
+    </div>
+  </div>
+
+	<div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/pas.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="PAS" />
+      <h2 style="padding: 20px;">Passau</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universität Passau</div>
+      <div style="padding: 0 20px 10px 20px;">Contact: <a href="mailto:pascal.lenzner@hpi.de" style="color: #ffffff">sattlerf@fim.uni-passau.de</a></div>
       <div style="padding: 0 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
     </div>
   </div>
@@ -326,5 +337,6 @@ An event of this size would not be possible without many people working together
 * Dr. Pascal Lenzner, Hasso-Plattner-Institut Potsdam
 * Philipp Meyer, Technische Universität München
 * Prof. Dr. Markus Mock, Hochschule für angewandte Wissenschaften Landshut
+* Florian Sattler, Universität Passau
 * Stefan Toman, Technische Universität München
 
