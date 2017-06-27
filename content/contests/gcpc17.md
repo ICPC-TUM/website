@@ -23,7 +23,7 @@ All contest material will be made available here when released to the public.
 
 The GCPC will have several contest sites to compete. Choose the one that is closest to you to participate. Please contact the organizers of the contest sites for further details.
 
-If there is no contest site at your local university but you would like to set one up, please [***contact us***](/contact) for further assistance.
+If there is no contest site at your local university but you would like to set one up, please [<span style="color:darkblue">**contact us**</span>](/contact) for further assistance.
 
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
@@ -33,6 +33,16 @@ If there is no contest site at your local university but you would like to set o
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Berlin</div>
       <div style="padding: 0 20px 10px 20px;">TEL 206 (2. Etage, Telefunken-Hochhaus), <br> Ernst-Reuter-Platz 7, 10587 Berlin </div>
       <div style="padding: 0 20px;">Contact: <a href="http://www.akt.tu-berlin.de/index.php?id=icpc" style="color: #ffffff;">Website</a>, <a href="mailto:icpc@akt.tu-berlin.de" style="color: #ffffff;">icpc@akt.tu-berlin.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/fwu.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FWU" />
+      <h2 style="padding: 20px;">Bonn</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Rheinische Friedrich-Wilhelms-Universit&auml;t Bonn</div>
+      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:etscheid@cs.uni-bonn.de" style="color: #ffffff;">etscheid@cs.uni-bonn.de</a></div>
     </div>
   </div>
 
@@ -53,6 +63,16 @@ If there is no contest site at your local university but you would like to set o
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
       <div style="padding: 0 20px 10px 20px;">CIP 2 (02.151-113), Martensstraße 3 (Blaues Hochhaus)</div>
       <div style="padding: 0 20px;">Contact: <a href="http://icpc.cs.fau.de" style="color: #ffffff;">http://icpc.cs.fau.de</a>, <a href="mailto:icpc@i2.cs.fau.de" style="color:#ffffff;">icpc@i2.cs.fau.de</a></div>
+    </div>
+  </div>
+
+  <div class="col-md-6" style="height: 300px; padding: 20px;">
+    <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
+      <img class="img-rounded" src="/content/images/gau.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="GAU" />
+      <h2 style="padding: 20px;">G&ouml;ttingen</h2>
+      <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Georg-August-Universit&auml;t G&ouml;ttingen</div>
+      <div style="padding: 0 20px 10px 20px;">Raum CIP-Pool -1.110/-1.111, Institut für Informatik, Goldschmidtstrasse 7, 37077, Göttingen</div>
+      <div style="padding: 0 20px;">Contact: <a href="mailto:j.paetzold@math.uni-goettingen.de" style="color: #ffffff;">j.paetzold@math.uni-goettingen.de</a></div>
     </div>
   </div>
 
@@ -131,13 +151,14 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/jmu.jpg" style="width: 30%; float: right; padding: 20px;" alt="JMU" />
       <h2 style="padding: 20px;">W&uuml;rzburg</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Julius-Maximilians-Universit&auml;t W&uuml;rzburg</div>
+      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:icpc@informatik.uni-wuerzburg.de" style="color: #ffffff;">icpc@informatik.uni-wuerzburg.de</a></div>
     </div>
   </div>
 </div>
 
-## Participating Institutions without Local Contest Sites
 
+## Participating Institutions without Local Contest Sites
 It is also possible to participate in the GCPC without hosting a local contest site. These intitutions are also particpating:
 
 <div class="row">
@@ -181,6 +202,16 @@ It is also possible to participate in the GCPC without hosting a local contest s
     </div>
   </div>
 </div>
+
+
+## Guest Teams
+At some institutions there are groups of motivated students who would like to participate in the GCPC but who cannot find an advisor. These teams can contact a contest site organizer at one of the participating institutions and ask if they can be hosted as a guest team. In the GCPC 2017 guest teams from the following institutions were registered:
+
+* Freie Universität Berlin, hosted at Technische Universität Berlin
+* Jacobs University Bremen, hosted at Universität zu Lübeck
+* Ludwig-Maximilians-Universität München, hosted at Technische Universität München
+
+
 
 ## Registration
 The registration for the GCPC 2017 has opened on May 1st. You can register your team through the official [<span style="color:darkblue">**ACM ICPC website**</span>](https://icpc.baylor.edu/regionals/finder/german-2017). The registration is opened until **Tuesday, June 27th**. Please make sure that your team is registered before the deadline!
@@ -255,22 +286,18 @@ You can join our event at Facebook for updates and photos. We would be happy to 
 An event of this size would not be possible without many people working together. These people are involved in the organization of the GCPC 2017.
 
 ### Contest Director
-
 * Gregor Schwarz, Technische Universität München
 
 ### Main Organization
-
 * Stefan Jaax, Technische Universität München
 * Christian Müller, Technische Universität München
 * Gregor Schwarz, Technische Universität München
 * Stefan Toman, Technische Universität München
 
 ### Head of Jury
-
 * Christian Müller, Technische Universität München
 
 ### Jury
-
 * Gregor Behnke, Universität Ulm
 * Markus Blumenstock, Johannes Gutenberg-Universität Mainz
 * Moritz Fuchs, Freelancer
@@ -290,6 +317,9 @@ An event of this size would not be possible without many people working together
 * Matthias Bentert, Technische Universität Berlin
 * Dr. André Nichterlein, Technische Universität Berlin
 
+#### Bonn
+* Michael Etscheid, Rheinische Friedrich-Wilhelms-Universität Bonn
+
 #### Dresden
 * Maksym Planeta, Technische Universität Dresden
 
@@ -298,6 +328,9 @@ An event of this size would not be possible without many people working together
 * Daniela Novac, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Tobias Polzer, Friedrich-Alexander-Universität Erlangen-Nürnberg
 * Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+#### Göttingen
+* Julius Pätzold, Georg-August-Universität Göttingen
 
 #### Kaiserslautern
 * Dr. Annette Bieniusa, Technische Universität Kaiserslautern
@@ -331,7 +364,6 @@ An event of this size would not be possible without many people working together
 
 
 ### Helpers and Coaches
-
 * Moritz Fuchs, Freelancer
 * Prof. Dr. Doina Logofatu, Frankfurt University of Applied Sciences
 * Dr. Pascal Lenzner, Hasso-Plattner-Institut Potsdam
