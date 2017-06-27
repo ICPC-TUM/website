@@ -151,7 +151,7 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/jmu.jpg" style="width: 30%; float: right; padding: 20px;" alt="JMU" />
       <h2 style="padding: 20px;">W&uuml;rzburg</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Julius-Maximilians-Universit&auml;t W&uuml;rzburg</div>
-      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
+      <div style="padding: 0 20px 10px 20px;">CIP-Pool, Department of Informatics</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:icpc@informatik.uni-wuerzburg.de" style="color: #ffffff;">icpc@informatik.uni-wuerzburg.de</a></div>
     </div>
   </div>
