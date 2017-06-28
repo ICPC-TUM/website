@@ -257,7 +257,7 @@ Note that depending on your contest site these may not be the versions installed
 
 There will be a practice session before the GCPC. During this practice session you can solve some problems on the same judge system as you will during the contest. You can try all features of the judge system during this event with a small set of problems. Note that these problems will differ from the ones during the contest. We highly recommend attending the practice session for all participants.
 
-The practice session will take place from **Wednesday, June 28th, 3:00pm to Thursday, June 29th, 10:00pm.**
+The practice session will take place from **Wednesday, June 28th, 4:00pm to Thursday, June 29th, 10:00pm.**
 
 <!--
 The practice session will take place from **Wednesday, June 1st, 12:00 p.m. to Friday, June 3rd, 12:00 p.m.**
