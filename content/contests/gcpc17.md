@@ -41,7 +41,7 @@ If there is no contest site at your local university but you would like to set o
       <img class="img-rounded" src="/content/images/fwu.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FWU" />
       <h2 style="padding: 20px;">Bonn</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Rheinische Friedrich-Wilhelms-Universit&auml;t Bonn</div>
-      <div style="padding: 0 20px 10px 20px;">Room: tba</div>
+      <div style="padding: 0 20px 10px 20px;">Computer-Pools C3 and C4, Römerstraße 164, 53117 Bonn</div>
       <div style="padding: 0 20px;">Contact: <a href="mailto:etscheid@cs.uni-bonn.de" style="color: #ffffff;">etscheid@cs.uni-bonn.de</a></div>
     </div>
   </div>
