@@ -361,6 +361,7 @@ An event of this size would not be possible without many people working together
 
 ### Helpers and Coaches
 * Moritz Fuchs, Freelancer
+* Philipp Hoffmann, Google
 * Prof. Dr. Doina Logofatu, Frankfurt University of Applied Sciences
 * Dr. Pascal Lenzner, Hasso-Plattner-Institut Potsdam
 * Philipp Meyer, Technische Universität München
