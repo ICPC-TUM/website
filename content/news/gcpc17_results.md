@@ -1,7 +1,7 @@
 /*
 Title: Results of the GCPC 2017
 Description: The GCPC 2017 took place on July 1st, here are the results.
-Date: 2016/07/03
+Date: 2017/07/03
 Template: news
 */
 
