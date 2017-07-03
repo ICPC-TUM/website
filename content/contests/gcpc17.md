@@ -330,6 +330,7 @@ An event of this size would not be possible without many people working together
 * Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 #### Göttingen
+* Bakhodir Ashirmatov, Georg-August-Universität Göttingen
 * Julius Pätzold, Georg-August-Universität Göttingen
 
 #### Kaiserslautern
