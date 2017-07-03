@@ -6,16 +6,14 @@ The German Collegiate Programming Contest (GCPC) is the subregional contest for 
 
 The GCPC 2017 will take place on **Saturday, July 1st, 11:00am - 04:00 pm**. Please be at your contest site at least 30 minutes before the contest starts, i.e. 10:30am.
 
-<!---
+
 ## Downloads
+* [<span style="color:darkblue">**Problemset Practice Session**</span>](/content/contests/history/2017/gcpc_files/gcpc2017_practicesession.pdf)
+* [<span style="color:darkblue">**Solutions Practice Session**</span>](/content/contests/history/2017/gcpc_files/gcpc2017_practicesession_solutions.pdf)
+* [<span style="color:darkblue">**Problemset GCPC 2017**</span>](/content/contests/history/2017/gcpc_files/gcpc2017.pdf)
+* [<span style="color:darkblue">**Solutions GCPC 2017**</span>](/content/contests/history/2017/gcpc_files/gcpc2017_solutions.pdf)
 
-All contest material will be made available here when released to the public.
-
-* [Problemset Practice Session](/content/contests/history/2016/gcpc_files/practicesession.pdf)
-* [Solutions Practice Session](/content/contests/history/2016/gcpc_files/practicesession_solutions.pdf)
-* [Problemset GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016.pdf)
-* [Solutions GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016_solutions.pdf)
-* [Extended Solutions GCPC 2016](/content/contests/history/2016/gcpc_files/gcpc2016_solutions_extended.pdf)
+<!--
 * [Report and Scoreboard](/contests/history/2016/gcpc)
 -->
 
@@ -330,6 +328,7 @@ An event of this size would not be possible without many people working together
 * Paul Wild, Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 #### Göttingen
+* Bakhodir Ashirmatov, Georg-August-Universität Göttingen
 * Julius Pätzold, Georg-August-Universität Göttingen
 
 #### Kaiserslautern
