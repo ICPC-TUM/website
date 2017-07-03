@@ -12,10 +12,7 @@ The GCPC 2017 will take place on **Saturday, July 1st, 11:00am - 04:00 pm**. Ple
 * [<span style="color:darkblue">**Solutions Practice Session**</span>](/content/contests/history/2017/gcpc_files/gcpc2017_practicesession_solutions.pdf)
 * [<span style="color:darkblue">**Problemset GCPC 2017**</span>](/content/contests/history/2017/gcpc_files/gcpc2017.pdf)
 * [<span style="color:darkblue">**Solutions GCPC 2017**</span>](/content/contests/history/2017/gcpc_files/gcpc2017_solutions.pdf)
-
-<!--
-* [Report and Scoreboard](/contests/history/2016/gcpc)
--->
+* [<span style="color:darkblue">**Report and Scoreboard**</span>](/contests/history/2017/gcpc)
 
 ## Contest Sites
 
