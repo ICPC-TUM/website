@@ -1,9 +1,4 @@
-/*
-Title: Wintercontest 2017 Results
-Description: The annual FAU Wintercontest took place on January 28th 2017.
-Date: 2017/02/02
-Template: news
-*/
+# Wintercontest 2017
 
 As every year, the annual Wintercontest was organized by the ICPC team from the Friedrich-Alexander-Universität Erlangen-Nürnberg. While last year's problem set dealt with various aspects of the Star Wars saga, the topic of this year's problems were cats. As a result, the participants were cheered up with some funny cat memes while putting all their energy into solving some of the tough problems. Along the way, the contestants were introduced to the awesome cat game "Memory with Cat Memes", the brand new "OverCATch" first person ego shooter, and the question whether cats or dogs are going to be the "Pet of the Year".
 

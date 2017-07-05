@@ -1,15 +1,9 @@
-/*
-Title: Results of the GCPC 2017
-Description: The GCPC 2017 took place on July 1st, here are the results.
-Date: 2016/07/03
-Template: news
-*/
-
+# GCPC 2017
 Last Saturday, July 1st, was contest day in Germany! Students from all over the country gathered at various contest sites to participate in the German Collegiate Programming Contest 2017. This year's GCPC was the largest GCPC of all times including 128 teams from 18 different universities competing at 12 contest sites throughout the country. As last year, the main organization of the event was done by the Technical University of Munich.
 
 The problem set of this year's GCPC contained 11 programming tasks. Among others, the contestants had to build a fact checker for a newspaper, design word clocks for various languages, and determine the number of distinct house designs in the colorful city of Colorville. Thereby, students were introduced to a wide range of mathematical topics including dynamic programming, Pick's theorem, and Burnside's lemma.
 
-The first prize was awarded to the team "Hello KITty 😼" from the Karlsruher Institute of Technology that managed to solve 10 out of the 11 problems. The second and third prize both went to teams from the Technical University of Munich; both teams "oachkatzlschwoaf" and "Lambda" were able to solve 8 problems.
+The first prize was awarded to the team "Hello KITty 😼" from the Karlsruhe Institute of Technology that managed to solve 10 out of the 11 problems. The second and third prize both went to teams from the Technical University of Munich; both teams "oachkatzlschwoaf" and "Lambda" were able to solve 8 problems.
 
 
 ##Photos
