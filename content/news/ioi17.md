@@ -7,7 +7,7 @@ Template: news
 
 Lukas Michel, one of the four members of the German team for the International Olympiad in Informatics (IOI), has won a gold medal in Tehran this week as the 9th best out of 310 contestants from 84 countries. Marian Dietz completed the German success with a silver medal, while Nicolas Faroß and Robert Hönig, the other two German contestants, closely missed bronze medals.
 
-The IOI is similar to ICPC, but meant for pupils. It usually lasts for one week and in addition to two 5-hour contests, it includes visits to local landmarks and opportunities for the diverse teams to get to know each other. Prior to the IOI, the German team already competed successfully in the Baltic Olympiad (BOI) in Bergen, Norway as well as in the Central European Olympiad (CEOI) in Ljubljana, Slowenia, where we took the top picture together with the Israelian team. Please visit <a href="https://www.ioi-training.de" target="_blank">www.ioi-training.de</a> for more details and impressions.
+The IOI is similar to ICPC, but meant for pupils. It usually lasts for one week and in addition to two 5-hour contests, it includes visits to local landmarks and opportunities for the diverse teams to get to know each other. Prior to the IOI, the German team already competed successfully in the Baltic Olympiad (BOI) in Bergen, Norway as well as in the Central European Olympiad (CEOI) in Ljubljana, Slowenia, where we took the top picture together with the Israeli team. Please visit <a href="https://www.ioi-training.de" target="_blank">www.ioi-training.de</a> for more details and impressions.
 
 <style>
 figure {
