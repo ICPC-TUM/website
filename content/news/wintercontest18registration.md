@@ -9,7 +9,7 @@ As every year, the ICPC team at TUM will organize a local contest site for the F
 
 The rules of the FAU Wintercontest are very similar to the ones of the German Collegiate Programming Contest (GCPC) which will take place later this year. Students are participating in teams of up to three students but have to share a single computer. The programming exercises can be solved with either C/C++, Java, or Python. You may also bring as many books and written material as you want. Electronic devices are strictly prohibited. 
 
-The problems of the FAU Wintercontest are usually a bit easier than the ones of the GCPC. Hence, this contest is an outstanding opportunity to find great teammates and get accustomed to the general setup and problem style of ICPC programming contests. The problemset of last year’s FAU Wintercontest can be found on [<span style="color:darkblue">**here**</span>](https://icpc.cs.fau.de/problemset_winter_2017.pdf). 
+The problems of the FAU Wintercontest are usually a bit easier than the ones of the GCPC. Hence, this contest is an outstanding opportunity to find great teammates and get accustomed to the general setup and problem style of ICPC programming contests. The problemset of last year’s FAU Wintercontest can be found [<span style="color:darkblue">**here**</span>](https://icpc.cs.fau.de/problemset_winter_2017.pdf). 
 
 We are looking forward to meeting all of you at the contest!
 
@@ -17,10 +17,10 @@ We are looking forward to meeting all of you at the contest!
 In short:
 - FAU Wintercontest takes place on January 27th, 11am-4pm, at Rechnerhalle.
 - Show up at least 30min early for organizational remarks.
-- [<span style="color:darkblue">**Registration**</span>](https://icpc.cs.fau.de/anmeldung_neu.php) until January 22nd.
+- [<span style="color:darkblue">**Register**</span>](https://icpc.cs.fau.de/anmeldung_neu.php) until January 22nd.
 - Teams of up to 3 students, one computer.
 - Code in C/C++, Java, or Python.
-- Sample solution presentation & ceremony end at approx. 5pm.
+- Sample solution presentation & award ceremony end at approx. 5pm.
 - FAU Wintercontest is a great preparation for the GCPC.
 - [<span style="color:darkblue">**FAU Wintercontest 2017 problemset**</span>](https://icpc.cs.fau.de/problemset_winter_2017.pdf)
 - Free food and drinks for all participants!
