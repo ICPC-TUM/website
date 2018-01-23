@@ -5,7 +5,7 @@ Date: 2018/01/12
 Template: news
 */
 
-As every year, the ICPC team at TUM will organize a local contest site for the FAU Wintercontest. The contest takes place on January 27th from 11am to 4pm. Please show up at least 30 minutes early at the computer lab (Rechnerhalle) of the Informatics Department, as we have to make some important organizational remarks before the contest starts. After the contest sample solutions will be presented, and prizes will be awarded to the best teams and to randomly selected participants. This will take approximately until 5pm. The registration for the FAU Wintercontest is opened until January 22nd via the official [<span style="color:darkblue">**FAU Wintercontest 2018 website**</span>](https://icpc.cs.fau.de/anmeldung_neu.php). Students from all departments and all semesters are cordially invited to participate. As every year, free food and drinks are provided to all contestants during the contest.
+As every year, the ICPC team at TUM will organize a local contest site for the FAU Wintercontest. The contest takes place on January 27th from 11am to 4pm. Please show up at least 30 minutes early at the computer lab (Rechnerhalle) of the Informatics Department, as we have to make some important organizational remarks before the contest starts. After the contest sample solutions will be presented, and prizes will be awarded to the best teams and to randomly selected participants. This will take approximately until 5pm. The registration for the FAU Wintercontest is opened until January 24th via the official [<span style="color:darkblue">**FAU Wintercontest 2018 website**</span>](https://icpc.cs.fau.de/anmeldung_neu.php). Students from all departments and all semesters are cordially invited to participate. As every year, free food and drinks are provided to all contestants during the contest.
 
 The rules of the FAU Wintercontest are very similar to the ones of the German Collegiate Programming Contest (GCPC) which will take place later this year. Students are participating in teams of up to three students but have to share a single computer. The programming exercises can be solved with either C++11, Java 8, Python 2 (pypy), Python 3 (cpython), or Haskell. You may also bring as many books and written material as you want. Electronic devices are strictly prohibited. 
 
@@ -17,7 +17,7 @@ We are looking forward to meeting all of you at the contest!
 In short:
 - FAU Wintercontest takes place on January 27th, 11am-4pm, at Rechnerhalle.
 - Show up at least 30min early for organizational remarks.
-- [<span style="color:darkblue">**Register**</span>](https://icpc.cs.fau.de/anmeldung_neu.php) until January 22nd.
+- [<span style="color:darkblue">**Register**</span>](https://icpc.cs.fau.de/anmeldung_neu.php) until January 24th.
 - Teams of up to 3 students, one computer.
 - Code in C++11, Java 8, Python 2 (pypy), Python 3 (cpython), Haskell
 - Sample solution presentation & award ceremony end at approx. 5pm.
