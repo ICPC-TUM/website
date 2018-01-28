@@ -12,7 +12,7 @@ In total 87 teams from 9 different institutions participated at 7 contest sites 
 
 It should also be mentioned that this year's Wintercontest was by far the largest of all times. The number of participating teams grew by more than 35%. If the general interest in programming contest increases in this manner, our computer lab in Garching will soon reach its capacity. We really hope tough that we can still manage to fit all interested teams in our computer lab for the German Collegiate Programming Contest which takes place later this year.
 
-Last but not least, we want to thank again our colleagues at FAU once again for the great contest organization!
+Last but not least, we want to thank once again our colleagues at FAU for the great contest organization!
 
 
 ##Photos
