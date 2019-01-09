@@ -19,7 +19,7 @@ In short:
 - Show up at least 30min early for organizational remarks.
 - [<span style="color:darkblue">**Register**</span>](https://icpc.cs.fau.de/anmeldung.php) until January 21.
 - Teams of up to 3 students, one computer.
-- Code in C++11, Java 8, Python 2 (pypy), Python 3 (cpython), Haskell
+- Code in C++, Java, Python or (probably) Haskell
 - Sample solution presentation & award ceremony end at approx. 5pm.
 - FAU Wintercontest is a great preparation for the GCPC.
 - [<span style="color:darkblue">**FAU Wintercontest 2018 problemset**</span>](https://icpc.cs.fau.de/problemset_winter_2018.pdf)
