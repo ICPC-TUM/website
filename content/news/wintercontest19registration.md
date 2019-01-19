@@ -13,7 +13,6 @@ The problems of the FAU Wintercontest are usually a bit easier than the ones of 
 
 We are looking forward to meeting all of you at the contest!
 
-
 In short:
 - FAU Wintercontest takes place on Saturday, January 26, 11am-4pm, at Rechnerhalle.
 - Show up at least 30min early for organizational remarks.
@@ -25,5 +24,6 @@ In short:
 - [<span style="color:darkblue">**FAU Wintercontest 2018 problemset**</span>](https://icpc.cs.fau.de/problemset_winter_2018.pdf)
 - Free food and drinks for all participants!
 
+** UPDATE:** There will be a practice session on Tuesday, January 22, from 11 am to 6 pm. All registered teams will receive login details via email.
 
 {{ comments }}
