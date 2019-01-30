@@ -1,0 +1,74 @@
+{% include 'header.html' %}
+
+<!--
+<a href="https://icpc.cs.fau.de/anmeldung.php">
+  <div class="img-rounded" style="height:62px; width:100%; background-color: #2ece0c; padding: 20px; text-align: center; color: #ffffff; font-weight: bold; margin-bottom: 20px;">
+    For more information about the GCPC 2018 click here!
+  </div>
+</a> 
+-->
+
+<div class="row">
+  <div class="col-sm-3" style="text-align: center;"> 
+    <div style="font-size: 100px; margin: 0 auto; padding-top: 20px; background-color: #002143; color: #ffffff; width: 150px; height: 150px;" class="img-circle">
+      <span class="glyphicon glyphicon-blackboard"></span>    
+    </div>
+    <h2><b>I</b>nform</h2>
+    <p style="text-align: center;">Inform yourself about programming contests in general and particularly the ACM-ICPC and the contests that we host.</p>
+    <a class="btn btn-default" href="/icpc/general" role="button">View details &raquo;</a>
+  </div>
+  <div class="col-sm-3" style="text-align: center;">
+    <div style="font-size: 100px; margin: 0 auto; padding-top: 20px; background-color: #002143; color: #ffffff; width: 150px; height: 150px;" class="img-circle">
+      <span class="glyphicon glyphicon-cloud-upload"></span>    
+    </div>
+    <h2><b>C</b>ompile</h2>
+    <p style="text-align: center;">Solve some introductory problems of the &ldquo;Hello World!&rdquo; contest.</p>
+    <a class="btn btn-default" href="https://judge.in.tum.de/contest/" role="button">View details &raquo;</a>
+  </div>
+  <div class="col-sm-3" style="text-align: center;">
+    <div style="font-size: 100px; margin: 0 auto; padding-top: 20px; background-color: #002143; color: #ffffff; width: 150px; height: 150px;" class="img-circle">
+      <span class="glyphicon glyphicon-education"></span>    
+    </div>
+    <h2><b>P</b>repare</h2>
+    <p style="text-align: center;">Prepare for programming contests by visiting our courses and lectures, solving the numerous exercise problems we provide.</p>
+    <a class="btn btn-default" href="/preparation/material" role="button">View details &raquo;</a>
+  </div>
+  <div class="col-sm-3" style="text-align: center;">
+    <div style="font-size: 100px; margin: 0 auto; padding-top: 20px; background-color: #002143; color: #ffffff; width: 150px; height: 150px;" class="img-circle">
+      <span class="glyphicon glyphicon-flag"></span>    
+    </div>
+    <h2><b>C</b>ompete</h2>
+    <p style="text-align: center;">Compete in the contests we hold at TUM, for example the GCPC, the Wintercontest, our preparation contests, and more.</p>
+    <a class="btn btn-default" href="/contests" role="button">View details &raquo;</a>
+  </div>
+</div>
+
+{% set numPages = 10 %}
+{% set archiveEntries = 8%}
+
+{% for page in pages %}
+  {% set i = 0 %}
+  {% if page.date and loop.index <= numPages%}
+    {% if loop.index0%2 == 0%}
+      <div class="row">
+    {% endif %}    
+    <div class="col-md-6" style="height:300px; padding:20px 20px 20px 20px;">
+      <div class="img-rounded" style="height:100%; width:100%; background-color: #002143; background-image: url({{ "/content/news/%s.png"|format(page.url|split("/")|last) }}); background-position: center;color: rgb(255, 255, 255);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">
+	    <h1 style="padding:20px 20px 10px 20px;text-shadow: 0 0 4px black;">{{ page.title }}</h1>
+	    <p style="padding:0px 20px 0px 20px;text-shadow: 0 0 4px black;">{{ page.description }}</p>
+	    <p style="position:absolute;top:250px; left:35px;"><a class="btn btn-default" href="{{ page.url }}" role="button">Read more &raquo;</a></p>
+      </div>
+    </div>
+    {% if loop.index0%2 == 1%}
+      </div>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{# Close row if not already done #}
+{% if pages|length%2 == 1 %}
+</div>
+{% endif %}
+
+{{ content }}
+{% include 'footer.html' %}

@@ -1,0 +1,29 @@
+{% include 'header.html' %}
+<h1>News Archive</h1>
+
+
+{% set year =  "" %}
+{% set month =  "" %}
+
+{% for page in pages %}
+  {% if page.date %}
+    {% if page.date|date("Y") != year or page.date|date("F") != month%}
+      {% set month = page.date|date("F") %}
+      {% if loop.index1 != 1%}
+      </ul>
+      {% endif %}
+      {% if page.date|date("Y") != year %}
+	{% set year = page.date|date("Y") %}
+	<h2>{{year}}</h2>
+      {% endif %}
+      <h3>{{month}}</h3>
+      <ul>
+    {% endif%}
+    {% if page.date %}
+      <li><a href="{{page.url}}">{{page.title}}</a></li>
+    {% endif %}
+   {% endif %}
+{% endfor %}
+</ul>
+{{ content }}
+{% include 'footer.html' %}
