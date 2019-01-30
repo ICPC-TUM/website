@@ -122,6 +122,6 @@ class Tumjudge {
       </script>
     ';
     $content = preg_replace('/\{\{ comments \}\}/', $comments, $content);
-  }
+    }
   }
 }

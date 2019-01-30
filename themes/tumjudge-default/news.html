@@ -10,6 +10,28 @@
 
 <div class="news-content">
   {{ content }}
+
+	{% if not (images is empty) %}
+	    <h2>Photos</h2>
+	{% endif %}
+	<div id="gallery">
+	{% for image in images if not (image.name starts with 'thumb.') %}
+		<a href="{{ image.url }}">
+	    <img src="{{ image.path }}/{{ image.meta.thumb }}" alt="{{ image.name }}"></img>
+	    </a>
+	{% endfor %}
+	</div>
+
 </div>
+
+
+<script type="text/javascript">
+lightGallery(document.getElementById('gallery'), {
+    thumbnail:true,
+    animateThumb: false
+}); 
+</script>
+
+
 
 {% include 'footer.html' %}
