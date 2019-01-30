@@ -1,13 +1,15 @@
+# Linux
 *~
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac OS X
+.DS_Store
+._*
 
 # Composer
-composer.lock
-composer.phar
-vendor
-
-# OS Generated
-.DS_Store*
-ehthumbs.db
-Icon?
-Thumbs.db
-*.swp
+/composer.phar
+/vendor
