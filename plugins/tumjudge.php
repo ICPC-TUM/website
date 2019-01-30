@@ -113,7 +113,7 @@ class Tumjudge {
       <div id="discourse-comments"></div>
       <script type="text/javascript">
         DiscourseEmbed = { discourseUrl: "https://judge.in.tum.de/discuss/",
-                           discourseEmbedUrl: "https://icpc.tum.de'.$_SERVER[REQUEST_URI].'" };
+                           discourseEmbedUrl: "https://icpc.tum.de'.parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH).'" };
         (function() {
           var d = document.createElement("script"); d.type = "text/javascript"; d.async = true;
           d.src = DiscourseEmbed.discourseUrl + "javascripts/embed.js";
