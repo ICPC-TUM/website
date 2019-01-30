@@ -26,7 +26,7 @@ If there is no contest site at your local university, please [contact us](/conta
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/fwu.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FWU" />
+      <img class="img-rounded" src="/assets/images/fwu.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FWU" />
       <h2 style="padding: 20px;">Bonn</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Rheinische Friedrich-Wilhelms-Universit&auml;t Bonn</div>
       <div style="padding: 0 20px 10px 20px;">Room: tba</div>
@@ -36,7 +36,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/tud.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUD" />
+      <img class="img-rounded" src="/assets/images/tud.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="TUD" />
       <h2 style="padding: 20px;">Dortmund</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Dortmund</div>
       <div style="padding: 0 20px 10px 20px;">OH14 R204</div>
@@ -46,7 +46,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/fau.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FAU" />
+      <img class="img-rounded" src="/assets/images/fau.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FAU" />
       <h2 style="padding: 20px;">Erlangen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg</div>
       <div style="padding: 0 20px 10px 20px;">CIP2 (02.151) Blaues Hochhaus - Martensstraße 3, 91058 Erlangen</div>
@@ -56,7 +56,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/gau.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="GAU" />
+      <img class="img-rounded" src="/assets/images/gau.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="GAU" />
       <h2 style="padding: 20px;">G&ouml;ttingen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Georg-August-Universit&auml;t G&ouml;ttingen</div>
       <div style="padding: 0 20px 10px 20px;">CIP-Pool -1.110/-1.111, Institut f&uuml;r Informatik, Goldschmidtstrasse 7, 37075, G&ouml;ttingen</div>
@@ -66,7 +66,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/kit.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="KIT" />
+      <img class="img-rounded" src="/assets/images/kit.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="KIT" />
       <h2 style="padding: 20px;">Karlsruhe</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Karlsruher Institut f&uuml;r Technologie</div>
       <div style="padding: 0 20px 10px 20px;">ATIS-Poolr&auml;ume (-143 & -142), Geb. 50.34</div>
@@ -76,7 +76,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/lue.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="LUE" />
+      <img class="img-rounded" src="/assets/images/lue.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="LUE" />
       <h2 style="padding: 20px;">L&uuml;beck</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t zu L&uuml;beck</div>
       <div style="padding: 0 20px 10px 20px;">Seminarraum TCS 2021, Geb. 64, Ratzeburger Allee 160, 23568 L&uuml;beck</div>
@@ -86,7 +86,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/jgu.png" style="width: 30%; float: right; padding: 20px;" alt="JGU" />
+      <img class="img-rounded" src="/assets/images/jgu.png" style="width: 30%; float: right; padding: 20px;" alt="JGU" />
       <h2 style="padding: 20px;">Mainz</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Johannes Gutenberg-Universit&auml;t Mainz</div>
       <div style="padding: 0 20px 10px 20px;">Poolraum 03-322, Institut für Informatik, Staudingerweg 9, 55128 Mainz</div>
@@ -96,7 +96,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/tum.png" style="width: 30%; float: right; padding: 20px;" alt="TUM" />
+      <img class="img-rounded" src="/assets/images/tum.png" style="width: 30%; float: right; padding: 20px;" alt="TUM" />
       <h2 style="padding: 20px;">M&uuml;nchen</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t M&uuml;nchen</div>
       <div style="padding: 0 20px 10px 20px;">Computer Lab 00.05.011 (&ldquo;Rechnerhalle&rdquo;), Department of Informatics, Boltzmannstr. 3, 85748 Garching</div>
@@ -106,7 +106,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/uos.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UOS" />
+      <img class="img-rounded" src="/assets/images/uos.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UOS" />
       <h2 style="padding: 20px;">Osnabr&uuml;ck</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Osnabr&uuml;ck</div>
       <div style="padding: 0 20px 10px 20px;">CIP-Pool AVZ, 31/E53, Institut f&uuml;r Informatik, Albrechtstr. 28, 49076 Osnabr&uuml;ck</div>
@@ -116,7 +116,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/hpi.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="HPI" />
+      <img class="img-rounded" src="/assets/images/hpi.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="HPI" />
       <h2 style="padding: 20px;">Potsdam</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hasso-Plattner-Institut Potsdam</div>
       <div style="padding: 0 20px 10px 20px;">Raum A-1, Prof.-Dr.-Helmert-Str. 2-3, 14482 Potsdam</div>
@@ -126,7 +126,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
+      <img class="img-rounded" src="/assets/images/uds.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UDS" />
       <h2 style="padding: 20px;">Saarbr&uuml;cken</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t des Saarlandes</div>
       <div style="padding: 0 20px 10px 20px;">Room: Raum 012, Geb&auml;ude E 1 3, Campus der Universit&auml;t des Saarlandes, 66123 Saarbr&uuml;cken</div>
@@ -136,7 +136,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/uulm.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UULM" />
+      <img class="img-rounded" src="/assets/images/uulm.jpg" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UULM" />
       <h2 style="padding: 20px;">Ulm</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Universit&auml;t Ulm</div>
       <div style="padding: 0 20px 10px 20px;">S&uuml;dpool, Raum O27/133, James-Franck-Ring, 89069 Ulm</div>
@@ -146,7 +146,7 @@ If there is no contest site at your local university, please [contact us](/conta
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/jmu.jpg" style="width: 30%; float: right; padding: 20px;" alt="JMU" />
+      <img class="img-rounded" src="/assets/images/jmu.jpg" style="width: 30%; float: right; padding: 20px;" alt="JMU" />
       <h2 style="padding: 20px;">W&uuml;rzburg</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Julius-Maximilians-Universit&auml;t W&uuml;rzburg</div>
       <div style="padding: 0 20px 10px 20px;">CIP-Pool A001, Institute of Computer Science (Building M2), Campus Süd, Am Hubland, 97074 W&uuml;rzburg</div>
@@ -162,7 +162,7 @@ It is also possible to participate in the GCPC without hosting a local contest s
 <div class="row">
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/fra.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FRA" />
+      <img class="img-rounded" src="/assets/images/fra.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="FRA" />
       <h2 style="padding: 20px;">Frankfurt</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Frankfurt University of Applied Sciences</div>
       <div style="padding: 0 20px 10px 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
@@ -171,7 +171,7 @@ It is also possible to participate in the GCPC without hosting a local contest s
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/ukl.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UKL" />
+      <img class="img-rounded" src="/assets/images/ukl.png" style="width: 30%; float: right; padding: 20px; background-color: #ffffff;" alt="UKL" />
       <h2 style="padding: 20px;">Kaiserslautern</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Technische Universit&auml;t Kaiserslautern</div>
       <div style="padding: 0 20px 10px 20px;">Contest Site: Universit&auml;t des Saarlandes</div>
@@ -180,7 +180,7 @@ It is also possible to participate in the GCPC without hosting a local contest s
 
   <div class="col-md-6" style="height: 300px; padding: 20px;">
     <div class="img-rounded" style="height: 100%; width: 100%; background-color: #002143; color: #ffffff; border: 1px solid #002143;">
-      <img class="img-rounded" src="/content/images/haw.jpg" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
+      <img class="img-rounded" src="/assets/images/haw.jpg" style="width: 30%; float: right; padding: 20px;" alt="HAW" />
       <h2 style="padding: 20px;">Landshut</h2>
       <div style="padding: 20px 20px 10px 20px; text-shadow: 0 0 4px black;">Hochschule f&uuml;r angewandte Wissenschaften Landshut</div>
       <div style="padding: 0 20px 10px 20px;">Contest Site: Technische Universit&auml;t M&uuml;nchen</div>
