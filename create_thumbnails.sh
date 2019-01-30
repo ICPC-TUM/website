@@ -3,7 +3,7 @@
 shopt -s globstar
 shopt -s nullglob
 
-for i in images/**/*.{jpeg,jpg,png}
+for i in images/**/*.{jpeg,jpg,png,JPG,JPEG,PNG}
 do
 	echo -n "Processing image $i ..."
 
