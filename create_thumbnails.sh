@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 # FILES="$@"
 shopt -s globstar
 shopt -s nullglob
@@ -15,7 +15,7 @@ do
 	elif [[ $(basename $i) =~ ^thumb\..* ]]; then
 		echo " ignored - is a thumbnail."
 	else
-		convert -thumbnail 200 $i $THUMB
+		convert -thumbnail x210 $i $THUMB
 		echo "thumb: $(basename $THUMB)" > $YAML
 		echo " successful."
 	fi
