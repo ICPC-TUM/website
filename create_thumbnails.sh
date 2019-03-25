@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 # FILES="$@"
 shopt -s globstar
 shopt -s nullglob
