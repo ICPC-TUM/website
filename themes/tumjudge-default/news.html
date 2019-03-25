@@ -14,10 +14,10 @@
 	{% if not (images is empty) %}
 	    <h2>Photos</h2>
 	{% endif %}
-	<div id="gallery">
+	<div id="gallery" style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: space-between; margin-right: -3px">
 	{% for image in images if not (image.name starts with 'thumb.') %}
 		<a href="{{ image.url }}">
-	    <img src="{{ base_url }}/{{ image.path }}/{{ image.meta.thumb }}" alt="{{ image.name }}"></img>
+	    <img src="{{ base_url }}/{{ image.path }}/{{ image.meta.thumb }}" alt="{{ image.name }}" style="margin: 0 3px 5px 0;"></img>
 	    </a>
 	{% endfor %}
 	</div>
