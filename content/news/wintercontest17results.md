@@ -10,13 +10,6 @@ As every year, the annual Wintercontest was organized by the ICPC team from the 
 In total 64 teams from 6 universities participated in the FAU Wintercontest, among them were 24 teams from the TUM. Together with 2 guest teams from the Frankfurt University of Applied Sciences, exactly 70 participants gathered at our local contest site in Garching. It is a great joy for us to announce that this year's Wintercontest winner is a team from TUM. Congratulations to team "TUMbling" on being the only team that managed to solve all 13 problems of the contest!
 
 
-##Photos
-
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.950999638368849.1073741837.138869482915206&type=1&l=f69f432732&amp;type=3" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.950999638368849.1073741837.138869482915206&type=1&l=f69f432732&amp;type=3"><p>The annual FAU Wintercontest</p>Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.950999638368849.1073741837.138869482915206&type=1&l=f69f432732&amp;type=3">Samstag, 28. Januar 2017</a></blockquote></div></div>
-</div>
-
-
 ##Results
 
 <table class="scoreboard">

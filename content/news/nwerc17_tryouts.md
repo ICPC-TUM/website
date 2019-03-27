@@ -15,11 +15,3 @@ Invited to the TUM NWERC tryouts were the students whose teams scored best in th
 Even though the sun was shining and the sky was exceptionally blue, our students were very focused and dedicated to solve the programming exercises. Among others they had to find the perfect location for a candy store, calculate the length of a treehouse tour, and check if a triangular and rectangular skyscraper could be erected on swampy ground.
 
 At the end of both days the teams for the NWERC 2017 were fixed. The TUM will be represented by the teams “TUMbling”, “Nwreckers”, and “Fisch Quadrat”. Good luck to all of them!
-
-
-##Photos
-
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1117281605073984.1073741839.138869482915206&type=1&l=ec3052f936" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1117281605073984.1073741839.138869482915206&type=1&l=ec3052f936">Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1117281605073984.1073741839.138869482915206&type=1&l=ec3052f936">Sonntag, 15. October 2017</a></blockquote></div></div>
-</div>
-

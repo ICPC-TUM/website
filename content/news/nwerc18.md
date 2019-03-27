@@ -46,10 +46,3 @@ It was a great experience for all of us, and a successful one at that. We would 
 [<span style="color:darkblue">**Problemset**</span>](http://www.nwerc.eu/files/nwerc2018problems.pdf)
 <br/>
 [<span style="color:darkblue">**Solutions**</span>](http://www.nwerc.eu/files/nwerc2018slides-handout.pdf)
-
-
-##Photos
-
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1414618978673577&type=1&l=d10e69b7e4" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1414618978673577&type=1&l=d10e69b7e4"><p>TUM Tryouts for NWERC 2018</p>Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1414618978673577&type=1&l=d10e69b7e4">Mittwoch, 10. Oktober 2018</a></blockquote></div></div>
-</div>

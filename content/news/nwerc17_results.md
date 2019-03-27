@@ -16,17 +16,6 @@ In case you would like test your own performance in the NWERC or simply train, y
 Thanks to all participants, coaches, organizers, and jury members for this awesome competition!
 
 
-
-<div style="text-align: center;"> <div class="fb-post"
-data-href="https://www.facebook.com/media/set/?set=a.1136466076488870.1073741840.138869482915206&type=1&l=e1918ed759"
-data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote
-cite="https://www.facebook.com/media/set/?set=a.1136466076488870.1073741840.138869482915206&type=1&l=e1918ed759">Posted
-by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a
-href="https://www.facebook.com/media/set/?set=a.1136466076488870.1073741840.138869482915206&type=1&l=e1918ed759">Donnerstag,
-21. Dezember 2017</a></blockquote></div></div> </div>
-
-
-
  
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
