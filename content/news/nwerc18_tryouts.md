@@ -16,10 +16,3 @@ The result of our tryouts are, besides getting a look inside Google's offices an
 But with this, the actual work now just begins: with our focus on NWERC, we will now use every minute to prepare for the algorithmic challenges awaiting us!
 
 (by Gregor Matl)
-
-##Photos
-
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1414346638700811&type=1&l=f821db78c3" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1414346638700811&type=1&l=f821db78c3"><p>TUM Tryouts for NWERC 2018</p>Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1414346638700811&type=1&l=f821db78c3">Mittwoch, 10. Oktober 2018</a></blockquote></div></div>
-</div>
-

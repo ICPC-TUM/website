@@ -12,13 +12,6 @@ The problem set of this year's GCPC contained 11 programming tasks. Among others
 The first prize was awarded to the team "Hello KITty 😼" from the Karlsruhe Institute of Technology that managed to solve 10 out of the 11 problems. The second and third prize both went to teams from the Technical University of Munich; both teams "oachkatzlschwoaf" and "Lambda" were able to solve 8 problems.
 
 
-##Photos
-
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1052554291546716.1073741838.138869482915206&type=1&l=d1be30c233" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1052554291546716.1073741838.138869482915206&type=1&l=d1be30c233">Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1052554291546716.1073741838.138869482915206&type=1&l=d1be30c233">Sonntag, 2. Juli 2017</a></blockquote></div></div>
-</div>
-
-
 ##Results
 The teams highlighted in blue were not eligible for the GCPC 2017 and therefore competed out of competition.
 

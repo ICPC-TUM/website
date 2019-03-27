@@ -16,10 +16,6 @@ The winners of GCPC 2016 were team "breaKIT" with ten solved problems, closely f
 
 The contest site at TU Munich hosted 35 teams with a total of about 90 students that competed for the prizes and, of course, for fun. The best team from TU Munich was team "oachkatzlschwoaf" at fourth rank with nine solved problems. 
 
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.800740703394744.1073741833.138869482915206&amp;type=3" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.800740703394744.1073741833.138869482915206&amp;type=3">Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.800740703394744.1073741833.138869482915206&amp;type=3">Montag, 22. Juni 2015</a></blockquote></div></div>
-</div>
-
 The results scoreboard can be found [here](/contests/history/2016/gcpc).
 
 {{ comments }}

@@ -7,14 +7,6 @@ Template: news
 
 We went to another training camp this year. This time we chose the picturesque Zillertal as the destination of our trip and rented a nice house there that we filled with servers and cables soon after our arrival. After having 4 teams finishing in the Top 10 of the GCPC 2016 the next step for our best students was to qualify for a spot in one of our teams for NWERC. As some of them were not able to make it to the training camp and the NWERC or they were too old the battle for the spots turned out to be easier than expected. Nevertheless, we had many contests, lots of talks and numerous discussions on programming problems. The topics for the talks varied from team strategies, famous problem from World Finals of the ACM ICPC, the ACM ICPC in Mexico and the key to good estimation to in-depth algorithms like game theory, bipartite matchings, line sweep algorithms, string matchings, Burnside's Lemma, and more. We also had great evenings with a camp fire, card games, and funny electronic gadgets as well as a great excursion to the Wolfsklamm.
 
-<div style="text-align: center;"> <div class="fb-post"
-data-href="https://www.facebook.com/media/set/?set=a.895851567216990.1073741834.138869482915206&amp;type=3"
-data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote
-cite="https://www.facebook.com/media/set/?set=a.895851567216990.1073741834.138869482915206&amp;type=3">Posted
-by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a
-href="https://www.facebook.com/media/set/?set=a.895851567216990.1073741834.138869482915206&amp;type=3">Montag,
-22. Juni 2015</a></blockquote></div></div> </div>
-
 Those were the people who went to Zillertal. One of the teams even came all the way from Mexico as we were already [happy to announce](https://icpc.tum.de/news/guests_from_mexico).
 
 * TUMbling: Gregor Schwarz, Achraf Mamdouh, Kirill Martynov

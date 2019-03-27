@@ -14,14 +14,6 @@ It should also be mentioned that this year's Wintercontest was by far the larges
 
 Last but not least, we want to thank once again our colleagues at FAU for the great contest organization!
 
-
-##Photos
-
-<div style="text-align: center;">
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.1174066432728834.1073741841.138869482915206&type=1&l=1299dfcde3" data-width="1000"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.1174066432728834.1073741841.138869482915206&type=1&l=1299dfcde3"><p>The annual FAU Wintercontest</p>Posted by <a href="https://www.facebook.com/IcpcTum/">ICPC TUM</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1174066432728834.1073741841.138869482915206&type=1&l=1299dfcde3">Sonntag, 28. Januar 2018</a></blockquote></div></div>
-</div>
-
-
 ##Results
 <table class="scoreboard">
 <colgroup><col id="scorerank" /><col id="scoreaffil" /><col id="scoreteamname" /></colgroup><colgroup><col id="scoresolv" /><col id="scoretotal" /></colgroup>
