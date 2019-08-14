@@ -2,6 +2,7 @@
 
 The ICPC team at TUM currently consists of the following people:
 
+* Gregor Matl
 * [Tobias Meggendorfer](https://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=158)
 * [Philipp Meyer](https://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=152)
 * [Christian Müller](https://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=151)
