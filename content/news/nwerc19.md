@@ -6,7 +6,7 @@ Template: news
 */
 
 
-Sunday, November 17th, 10 AM. It was a peaceful, quiet morning in Eindhoven, Netherlands. But in the auditorium of the city’s Technical University, more than 300 undergraduate and graduate students from all over Northwestern Europe had just entered an exciting battle of the mind: the Northwestern Europe Regional Contest (NWERC) of the International Collegiate Programming Contest (ICPC). Among them were 4 teams representing ~Hogwarts~ the Technical University of Munich:
+Sunday, November 17th, 10 AM. It was a peaceful, quiet morning in Eindhoven, Netherlands. But in the auditorium of the city’s Technical University, more than 300 undergraduate and graduate students from all over Northwestern Europe had just entered an exciting battle of the mind: the Northwestern Europe Regional Contest (NWERC) of the International Collegiate Programming Contest (ICPC). Among them were 4 teams representing <s>Hogwarts</s> the Technical University of Munich:
 
 - Team **TUMbledore**: Atacan Iyidogan, Lukas Michel, Erik Sünderhauf
 - Team **Lord VolTUMort**: Florian Jüngermann, Gregor Matl, Tobias Schindler
