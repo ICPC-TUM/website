@@ -1,5 +1,5 @@
 /*
-Title: TUM riddle and the submission of fire
+Title: TUM Riddle and the submission of fire
 Description: TUM teams win gold and silver medals in NWERC19!
 Date: 2019/11/21
 Template: news
