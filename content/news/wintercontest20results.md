@@ -11,4 +11,4 @@ In the end, *Lord VolTUMort* came in second behind *TUMbledore*, being the only 
 
 We want to congratulate all participants on their achievements and hope everybody enjoyed the event as much as we did! Last but not least, we want to thank our colleagues at FAU once again for the great contest organization!
 
-Click here for the [<span style="color:darkblue">**problemset**</span>](http://domjudge.cs.fau.de/icpc/problemset_2jQW2jd83j33dds.pdf) and the [<span style="color:darkblue">**final scoreboard**</span>](http://domjudge.cs.fau.de/icpc/public).
+Click here for the [<span style="color:darkblue">**problemset**</span>](https://icpc.cs.fau.de/wp-content/uploads/2020/01/problemset.pdf) and the [<span style="color:darkblue">**final scoreboard**</span>](https://icpc.cs.fau.de/2020/01/28/fau-wintercontest-2020/).
