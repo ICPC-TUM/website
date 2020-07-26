@@ -1,6 +1,6 @@
 /*
 Title: TUM NWERC Selection Process 2020
-Description: How to represent TUM at the NWERC 2020
+Description: How to represent TUM in the NWERC 2020
 Date: 2020/07/26
 Template: news
 */
