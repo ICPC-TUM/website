@@ -7,6 +7,7 @@ Template: news
 
 
 As every year it is about time to decide who is going to represent TUM in the [<span style="color:darkblue">**2020 ICPC Northwestern Europe Regional Contest (NWERC)**</span>](https://www.nwerc.eu/). Due to the COVID-19-pandemic it is not clear at this point in which format (onsite in Iceland or remote) the NWERC 2020 is going to take place. Nevertheless, we would like to proceed with our usual selection process so that we are prepared for any scenario. Similar to previous years, we assume that TUM will be granted between 2 and 4 (most likely 3) spots in the NWERC 2020. As each team consists of up to 3 students, there will be in total 6 to 12 students able to qualify for the NWERC. After careful deliberation, we came up with quite an involved selection procedure last year that enjoyed a high popularity among our students. We therefore decided to conduct a similar selection procedure this year. It is based on student's performance in a number of upcoming online contests. Please read the details below and contact us in case you have any questions or would like to enter the selection process.
+
 <br/>
 
 **Eligibility**
@@ -58,7 +59,7 @@ Some of our students wrote a great [<span style="color:darkblue">**Telegram bot*
 <br/>
 
 **Contact**
-Gregor Matl & Gregor Schwarz
+Gregor Matl & Gregor Schwarz<br/>
 icpc@in.tum.de
 
 
