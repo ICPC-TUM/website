@@ -11,6 +11,7 @@ As every year it is about time to decide who is going to represent TUM in the [<
 <br/>
 
 **Eligibility**
+
 Everyone who is (or will be) enrolled as a TUM student in the winter semester 2020/2021 and is eligible to participate in the NWERC 2020 according to the official 2020 ICPC Eligibility Diagram is welcome to participate in our TUM NWERC selection process. In case you want to take part in the selection process, please contact us and send us your handles on the various contest platforms.
 
 The Eligibility Tree for the 2020 ICPC Regionals has not been published yet. Please check the [<span style="color:darkblue">**2019 ICPC Regionals Eligibility Diagram**</span>](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2019.pdf) for reference.
@@ -18,11 +19,13 @@ The Eligibility Tree for the 2020 ICPC Regionals has not been published yet. Ple
 <br/>
 
 **Selection Period**
+
 27.07.2020 - 30.09.2020 (may be extended)
 
 <br/>
 
 **Ranked Contest**
+
 - Atcoder Grand Contests
 - Codeforces Educational Contests
 - Codeforces Global Contests
@@ -32,6 +35,7 @@ The Eligibility Tree for the 2020 ICPC Regionals has not been published yet. Ple
 <br/>
 
 **Scoring Function**
+
 For each ranked contest, every student gets assigned a score measuring his/her performance in the contest. The score takes into account how many tasks a student solved and how difficult those tasks were. It is calculated as follows:
 - Every task gets assigned a number of points after the contest. For task i this is p_i = (1 - log(percentage of solutions for the task among all contestants in the contest)) (natural logarithm)
 For example if there are 10 000 contestants and m contestants solve a task, this task gives: m = 10 000: 1, m = 8000: 1.22, m = 5000: 1.69, m = 2500: 2.39, m = 1000: 3.3, m = 500: 4, m = 250: 4.69, m = 100: 5.61, m = 50: 6.3, m = 25: 6.99, m = 10: 7.91, m = 5: 8.6, m = 2: 9.52, m = 1: 10.21 points.
@@ -47,6 +51,7 @@ In case multiple contests take place on the same day, the parameter “n” will
 <br/>
 
 **Forming Teams**
+
 The best 9 participants according to their total score in the selection process create teams through a public discussion. If no consensus can be achieved, we use the following strategy:
 Students are ranked according to their individual scores. Ties are broken uniformly at random. The student with the best rank may now start to select his/her teammates. The student can ask any student who participated in the selection process to be his/her teammate. The student’s potential teammate can accept or reject this request. Once a team is formed, the student with the highest individual score but unassigned to a team may choose his/her teammates, and so on.
 
@@ -54,11 +59,13 @@ Students are ranked according to their individual scores. Ties are broken unifor
 
 
 **Telegram Group & Selection Bot**
+
 Some of our students wrote a great [<span style="color:darkblue">**Telegram bot**</span>](https://github.com/florianjuengermann/tum-nwerc-selection) that automatically fetches the contest data from various platforms, calculates the new scores, and pushes these scores into our ICPC TUM Telegram group. In case you want to join this group, please contact us!
 
 <br/>
 
 **Contact**
+
 Gregor Matl & Gregor Schwarz<br/>
 icpc@in.tum.de
 
