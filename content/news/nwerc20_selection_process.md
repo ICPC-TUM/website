@@ -12,9 +12,8 @@ As every year it is about time to decide who is going to represent TUM in the [<
 
 **Eligibility**
 
-Everyone who is (or will be) enrolled as a TUM student in the winter semester 2020/2021 and is eligible to participate in the NWERC 2020 according to the official 2020 ICPC Eligibility Diagram is welcome to participate in our TUM NWERC selection process. In case you want to take part in the selection process, please contact us and send us your handles on the various contest platforms.
+Everyone who is (or will be) enrolled as a TUM student in the winter semester 2020/2021 and is eligible to participate in the NWERC 2020 according to the official [<span style="color:darkblue">**2020 ICPC Regionals Eligibility Decision Diagram**</span>](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf) is welcome to participate in our TUM NWERC selection process. In case you want to take part in the selection process, please contact us and send us your handles on the various contest platforms.
 
-The Eligibility Tree for the 2020 ICPC Regionals has not been published yet. Please check the [<span style="color:darkblue">**2019 ICPC Regionals Eligibility Diagram**</span>](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2019.pdf) for reference.
 
 <br/>
 
