@@ -1,6 +1,6 @@
 /*
 Title: GCPC 2020
-Description: Get ready for GCPC 2020!
+Description: Get ready for this year's major German student programming competition!
 Date: 2020/09/25
 Template: news
 */
