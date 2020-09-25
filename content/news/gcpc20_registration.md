@@ -1,6 +1,6 @@
 /*
 Title: GCPC 2020
-Description: Prepare for GCPC 2020!
+Description: Get ready for GCPC 2020!
 Date: 2020/09/25
 Template: news
 */
@@ -13,8 +13,8 @@ Rules have been adapted to deal with this year's unique circumstances.
 - Teams are only allowed to use **one computer** for coding/debugging simultaneously. Additional machines may be used to read the problem statement and team's own code.
 - Teams are allowed to copy-paste code from their cheat sheet.
 
-Our colleagues at the Friedrich-Alexander-Universität Erlangen-Nürnberg are in charge of organizing GCPC 2020. You will have to register in advance, registration details will follow shortly.
+Our colleagues at the Friedrich-Alexander-Universität Erlangen-Nürnberg are in charge of organizing GCPC 2020. You will have to register in advance -- we will make registration details available here shortly.
 
 If you are looking for teammates or simply want to connect with the vibrant TUM competitive programming community, please fell free to join us on Discord: https://discord.gg/ehqp6wB
 
-{{ comments }}
+Happy Coding!
