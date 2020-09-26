@@ -64,7 +64,7 @@ Some of our students wrote a great [<span style="color:darkblue">**Telegram bot*
 
 **How to join the qualification**
 
-In case you want to take part in the selection process,  please send us a message to icpc(at)in.tum.de including your full name, your codeforces and atcoder handles, and whether or not you're already in our NWERC qualification telegram group.
+In case you want to take part in the selection process,  please send us a message to icpc(at)in.tum.de including your full name, your codeforces and atcoder handles, and whether or not you're already in our ICPC TUM Telegram group.
 
 <br/>
 
