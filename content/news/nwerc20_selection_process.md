@@ -22,7 +22,7 @@ For more information regarding the eligibility rules for the 2020 ICPC Regional 
 
 **Selection Period**
 
-27.07.2020 - 30.09.2020 (may be extended)
+27.07.2020 - 20.11.2020
 
 <br/>
 
@@ -45,10 +45,7 @@ For example if there are 10 000 contestants and m contestants solve a task, this
 - Finally, the score of every contestant is computed as s_j = c_j / (average preliminary score among all contestants in the contest)
 “All contestants” refers to the number of people that uploaded at least one submission.
 
-For the selection process, every participant is then assigned a total score based on his/her performances in the contests during the selection period. This total score t_j is the sum of the scores s_j of this participant in the individual contests, but only taking the best ceil(n / 2) contests of the participant into account, where "n" is the number of ranked contests taking place within the selection period.
-
-In case multiple contests take place on the same day, the parameter “n” will increase only by 1, even though 2 contests take place on this day. Students may, however, compete in both contests if they like.
-
+For the selection process, every participant is then assigned a total score based on his/her performances in the contests during the selection period. This total score t_j is the sum of the scores s_j of this participant in the individual contests, **but only taking the best 4 contests of the participant into account**.
 
 <br/>
 
@@ -70,6 +67,8 @@ Some of our students wrote a great [<span style="color:darkblue">**Telegram bot*
 
 Gregor Matl & Gregor Schwarz<br/>
 icpc@in.tum.de
+
+(This article has been updated after the selection period has been extended.)
 
 
 
