@@ -73,6 +73,8 @@ In case you want to take part in the selection process,  please send us a messag
 Gregor Matl & Gregor Schwarz<br/>
 icpc(at)in.tum.de
 
+<br/>
+
 (This article has been updated after the selection period has been extended.)
 
 
