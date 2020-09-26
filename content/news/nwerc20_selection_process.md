@@ -10,13 +10,12 @@ As every year it is about time to decide who is going to represent TUM in the [<
 
 <br/>
 
+
 **Eligibility**
 
-Everyone who is (or will be) enrolled as a TUM student in the winter semester 2020/2021 and is eligible to participate in the NWERC 2020 according to the official [<span style="color:darkblue">**2020 ICPC Regionals Eligibility Decision Diagram**</span>](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf) is welcome to participate in our TUM NWERC selection process. In case you want to take part in the selection process, please contact us and send us your handles on the various contest platforms.
+Everyone who is (or will be) enrolled as a TUM student in the winter semester 2020/2021 and is eligible to participate in the NWERC 2020 according to the official [<span style="color:darkblue">**2020 ICPC Regionals Eligibility Decision Diagram**</span>](https://icpc.global/xwiki/wiki/public/download/regionals/rules/EligibilityDecisionTree-2020.pdf) is welcome to participate in our TUM NWERC selection process. 
 
 For more information regarding the eligibility rules for the 2020 ICPC Regional contests, please [<span style="color:darkblue">**click here**</span>](https://icpc.global/regionals/rules).
-
-
 
 <br/>
 
@@ -59,14 +58,20 @@ Students are ranked according to their individual scores. Ties are broken unifor
 
 **Telegram Group & Selection Bot**
 
-Some of our students wrote a great [<span style="color:darkblue">**Telegram bot**</span>](https://github.com/florianjuengermann/tum-nwerc-selection) that automatically fetches the contest data from various platforms, calculates the new scores, and pushes these scores into our ICPC TUM Telegram group. In case you want to join this group, please contact us!
+Some of our students wrote a great [<span style="color:darkblue">**Telegram bot**</span>](https://github.com/florianjuengermann/tum-nwerc-selection) that automatically fetches the contest data from various platforms, calculates the new scores, and pushes these scores into our ICPC TUM Telegram group.
+
+<br/>
+
+**How to join the qualification**
+
+In case you want to take part in the selection process,  please send us a message to icpc(at)in.tum.de including your full name, your codeforces and atcoder handles, and whether or not you're already in our NWERC qualification telegram group.
 
 <br/>
 
 **Contact**
 
 Gregor Matl & Gregor Schwarz<br/>
-icpc@in.tum.de
+icpc(at)in.tum.de
 
 (This article has been updated after the selection period has been extended.)
 
