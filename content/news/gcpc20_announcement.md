@@ -13,7 +13,15 @@ Rules have been adapted to deal with this year's unique circumstances.
 - Teams are only allowed to use **one computer** for coding/debugging simultaneously. Additional machines may be used to read the problem statement and team's own code.
 - Teams are allowed to copy-paste code from their cheat sheet.
 
-Our colleagues at the Friedrich-Alexander-Universität Erlangen-Nürnberg are in charge of organizing GCPC 2020. You will have to register in advance -- we will make registration details available here shortly.
+The registration for the GCPC 2020 is a two step procedure and works as follows:
+1) Fill out this [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) provided by our colleagues from FAU who are the main organizers for this year's GCPC.
+2) In case you do not have an account on [<span style="color:darkblue">**ICPC Global**</span>](https://icpc.global/) yet, please go ahead and create one. 
+
+In case you teammates attend different universities, you can only participate out of competition. If this is the case, please fill out the [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) and drop us an email at icpc@in.tum.de with your team name.
+
+Please note that student teams who are ineligible for NWERC due to study / age restrictions are still welcome to participate in the GCPC. If this is the case for your team, simply fill out the [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) and also create an account on [<span style="color:darkblue">**ICPC Global**</span>](https://icpc.global/).
+
+In case you have any other questions regarding the registration, please send us an email to icpc@in.tum.de.
 
 If you are looking for teammates or simply want to connect with the vibrant TUM competitive programming community, please fell free to join us on Discord: https://discord.gg/ehqp6wB
 
