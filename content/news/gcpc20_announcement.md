@@ -17,7 +17,7 @@ The registration for the GCPC 2020 is a two step procedure and works as follows:
 
 1) Fill out this [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) provided by our colleagues from FAU who are the main organizers for this year's GCPC.
 
-2) In case you do not have an account on [<span style="color:darkblue">**ICPC Global**</span>](https://icpc.global/) yet, please go ahead and create one. Once the official registration closes, we will create your team on ICPC Global, add the respective team mates, and officially register you for the GCPC 2020 on the ICPC Global platform.
+2) In case you do not have an account on [<span style="color:darkblue">**ICPC Global**</span>](https://icpc.global/) yet, please go ahead and create one. Once the official registration closes, we will create your team on the ICPC Global platform, add the respective team members, and officially register you for the GCPC 2020 on the ICPC Global platform.
 
 The registration deadline for the GCPC 2020 is **November 19th**!
 
