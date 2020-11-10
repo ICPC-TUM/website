@@ -13,6 +13,8 @@ Rules have been adapted to deal with this year's unique circumstances.
 - Teams are only allowed to use **one computer** for coding/debugging simultaneously. Additional machines may be used to read the problem statement and team's own code.
 - Teams are allowed to copy-paste code from their cheat sheet.
 
+In fact, as of November 10, the current restriction for Bavaria is that no more than two households are allowed to meet. Hence, it probably won't be possible at all to meet physically with your teammates. Instead, for a distributed participation, we recommend to use a voice or video-chat tool (Skype, Zoom, Teams, Hangouts, Discord, etc. - please feel free to use one of the subgroups on our TUM Discord server if you'd like) and, in addition, a shared editor to view and work on code together (such as [<span style="color:darkblue">codeinterview.io</span>](codeinterview.io)).
+
 The registration for the GCPC 2020 is a two step procedure and works as follows:
 
 1) Fill out this [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) provided by our colleagues from FAU who are the main organizers for this year's GCPC.
@@ -29,4 +31,4 @@ If you have any other questions regarding the registration, please send us an em
 
 In case you are looking for teammates or simply want to connect with the vibrant TUM competitive programming community, please fell free to join us on Discord: https://discord.gg/ehqp6wB
 
-Happy Coding!
+Happy coding and stay save!
