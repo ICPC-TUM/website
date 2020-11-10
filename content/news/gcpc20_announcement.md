@@ -25,8 +25,8 @@ Please note that student teams who are ineligible for NWERC due to study / age r
 
 In case you teammates attend different universities, you can only participate out of competition. If this is the case, please fill out the [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) and drop us an email at icpc@in.tum.de with your team name.
 
-In case you have any other questions regarding the registration, please send us an email to icpc@in.tum.de.
+If you have any other questions regarding the registration, please send us an email to icpc@in.tum.de.
 
-If you are looking for teammates or simply want to connect with the vibrant TUM competitive programming community, please fell free to join us on Discord: https://discord.gg/ehqp6wB
+In case you are looking for teammates or simply want to connect with the vibrant TUM competitive programming community, please fell free to join us on Discord: https://discord.gg/ehqp6wB
 
 Happy Coding!
