@@ -13,7 +13,7 @@ Rules have been adapted to deal with this year's unique circumstances.
 - Teams are only allowed to use **one computer** for coding/debugging simultaneously. Additional machines may be used to read the problem statement and team's own code.
 - Teams are allowed to copy-paste code from their cheat sheet.
 
-In fact, as of November 10, the current Covid restriction for Bavaria do not allow more than two households to meet. Hence, it probably won't be possible at all to meet physically with your teammates. Instead, for a distributed participation, we recommend to use a voice or video-chat tool (Skype, Zoom, Teams, Hangouts, Discord, etc. - please feel free to use one of the subgroups on our TUM Discord server if you'd like) and, in addition, a shared editor (such as [<span style="color:darkblue">https://codeinterview.io</span>](codeinterview.io)) to view and work on code together (as if you had one common computer).
+In fact, as of November 10, the current Covid restriction for Bavaria do not allow more than two households to meet. Hence, it probably won't be possible at all to meet physically with your teammates. Instead, for a distributed participation, we recommend to use a voice or video-chat tool (Skype, Zoom, Teams, Hangouts, Discord, etc. - please feel free to use one of the subgroups on our TUM Discord server if you'd like) and, in addition, a shared editor (such as [<span style="color:darkblue">codeinterview.io</span>](https://codeinterview.io)) to view and work on code together (as if you had one common computer).
 
 The registration for the GCPC 2020 is a two step procedure and works as follows:
 
