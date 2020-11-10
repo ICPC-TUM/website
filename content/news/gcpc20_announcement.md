@@ -21,9 +21,9 @@ The registration for the GCPC 2020 is a two step procedure and works as follows:
 
 The registration deadline for the GCPC 2020 is **November 19th**!
 
-In case you teammates attend different universities, you can only participate out of competition. If this is the case, please fill out the [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) and drop us an email at icpc@in.tum.de with your team name.
+Please note that student teams who are ineligible for NWERC due to study / age restrictions are still allowed to participate in the GCPC. If this is the case for your team, simply follow the registration instructions as described above.
 
-Please note that student teams who are ineligible for NWERC due to study / age restrictions are still welcome to participate in the GCPC. If this is the case for your team, simply fill out the [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) and also create an account on [<span style="color:darkblue">**ICPC Global**</span>](https://icpc.global/).
+In case you teammates attend different universities, you can only participate out of competition. If this is the case, please fill out the [<span style="color:darkblue">**registration form**</span>](https://icpc.cs.fau.de/anmeldung/) and drop us an email at icpc@in.tum.de with your team name.
 
 In case you have any other questions regarding the registration, please send us an email to icpc@in.tum.de.
 
