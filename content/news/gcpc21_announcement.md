@@ -10,7 +10,7 @@ Time to team up! The German Collegiate Programming Contest 2021 is set for **Jun
 <img src="/images/news/sommer2021-01-724x1024.png"  style="margin: 10px auto 10px auto;   display: block;
   width: 80%; max-width: 724px;"></img>
 	    
-We will again rules similar to those that worked very well for GCPC 2020:
+We will again use rules similar to those that worked very well for GCPC 2020:
 - As always, contestants participate in teams of up to 3 students.
 - Teams do not have to be physically at the same location and are allowed to use the internet to communicate with each other.
 - Teams are allowed to use any hardware you can find.
