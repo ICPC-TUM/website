@@ -7,7 +7,8 @@ Template: news
 
 Time to team up! The German Collegiate Programming Contest 2021 is set for **June 26**, from 11am to 4pm. Just like GCPC 2020, it will again take place **in the internet**. GCPC is Germany's main ICPC-style contest and TUM is again hoping to win big this year!
 
-<img src="/images/news/sommer2021-01-724x1024.png"  style="margin: 10px 10px 10px 10px;"></img>
+<img src="/images/news/sommer2021-01-724x1024.png"  style="margin: 10px auto 10px auto;   display: block;
+  width: 50%;"></img>
 	    
 We will again rules similar to those that worked very well for GCPC 2020:
 - As always, contestants participate in teams of up to 3 students.
