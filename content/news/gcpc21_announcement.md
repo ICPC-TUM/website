@@ -1,5 +1,5 @@
 /*
-Title: GCPC 2021
+Title: GCPC 2021 Registration
 Description: Get ready for Germany's major student programming competition! Registration is now open!
 Date: 2021/06/26
 Template: news

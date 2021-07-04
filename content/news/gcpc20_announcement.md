@@ -1,5 +1,5 @@
 /*
-Title: GCPC 2020
+Title: GCPC 2020 Registration
 Description: Get ready for Germany's major student programming competition! Registration is now open!
 Date: 2020/11/10
 Template: news
