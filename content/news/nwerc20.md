@@ -17,6 +17,6 @@ The winner of the contest was team "Los Patrons" from the University of Oxford w
 
 **Links**:
 - [<span style="color:darkblue">**Final Scoreboard**</span>](https://2020.nwerc.eu/standings/)
-- [<span style="color:darkblue">**Problemset**</span>](hhttps://2020.nwerc.eu/files/nwerc2020problems.pdf)
+- [<span style="color:darkblue">**Problemset**</span>](https://2020.nwerc.eu/files/nwerc2020problems.pdf)
 - [<span style="color:darkblue">**Solution Slides**</span>](https://2020.nwerc.eu/files/nwerc2020slides.pdf)
 - [<span style="color:darkblue">**Livestream**</span>](https://www.youtube.com/watch?v=AdSJ6hBL7x8&ab_channel=NWERC2020)
