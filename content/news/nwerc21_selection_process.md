@@ -15,7 +15,7 @@ As every year it is about time to decide who is going to represent TUM in the [<
 
 Everyone who is (or will be) enrolled as a TUM student in the winter semester 2021/2022 and is eligible to participate in the NWERC 2021 according to the official [<span style="color:darkblue">**2021 ICPC Regionals Eligibility Decision Diagram**</span>](https://drive.google.com/file/d/1E9yaQbpSu9059UrOYafAiNrH-ABgRDAW/view) is welcome to participate in our TUM NWERC selection process. 
 
-For more information regarding the eligibility rules for the 2020 ICPC Regional contests, please [<span style="color:darkblue">**click here**</span>](https://icpc.global/regionals/rules).
+For more information regarding the eligibility rules for the 2021 ICPC Regional contests, please [<span style="color:darkblue">**click here**</span>](https://icpc.global/regionals/rules).
 
 <br/>
 
