@@ -27,6 +27,7 @@ For more information regarding the eligibility rules for the 2021 ICPC Regional 
 
 **Ranked Contest**
 
+- Atcoder Regular Contests
 - Atcoder Grand Contests
 - Codeforces Educational Contests
 - Codeforces Global Contests
