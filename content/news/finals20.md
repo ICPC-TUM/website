@@ -1,6 +1,6 @@
 /*
 Title: The 44th ICPC World Finals
-Description: "Lord VolTUMort" goes to Moscow!
+Description: »Lord VolTUMort« goes to Moscow!
 Date: 2021/10/05
 Template: news
 */
@@ -9,7 +9,7 @@ With some covid-induced delay, the TUM spree at the ICPC world finals continues!
 
 It has to be stated that the surrounding conditions were particularly bad. The event in Moscow took place at a time when covid cases were on the rise and the situation in Moscow has already gotten quite severe again. And it was cosponsored and co-organized by multiple organs of the Russian state just weeks after the Russian Duma elections took place, where virtually all opposition figures have either been murdered, imprisoned or otherwise blocked from running for office and the results especially in Moscow still ended up being utterly questionable. For those reasons, our team was of course quiet hesitant to participate at all, but in the end, we decided to compete given that we were all young and fully vaccinated and we wanted to be part of this exchange with all the young Russian students and teams from all over the world whom we were to meet and who were presumably not part of the larger political issue.
 
-Team "Lord VolTUMort" consists of the students
+Team »Lord VolTUMort« consists of the students
 * Florian Jüngermann
 * Gregor Matl
 * Tobias Schindler
