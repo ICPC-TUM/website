@@ -10,12 +10,13 @@ With some covid-induced delay, the TUM spree at the ICPC world finals continues!
 It has to be stated that the surrounding conditions were particularly bad. The event in Moscow took place at a time when covid cases were on the rise and the situation in Moscow has already gotten quite severe again. And it was cosponsored and co-organized by multiple organs of the Russian state just weeks after the Russian Duma elections took place, where virtually all opposition figures have either been murdered, imprisoned or otherwise blocked from running for office and the results especially in Moscow still ended up being utterly questionable. For those reasons, our team was of course quiet hesitant to participate at all, but in the end, we decided to compete given that we were all young and fully vaccinated and we wanted to be part of this exchange with all the young Russian students and teams from all over the world whom we were to meet and who were presumably not part of the larger political issue.
 
 Team TUMbledore consists of the students
- - Florian Jüngermann
- - Gregor Matl
- - Tobias Schindler
+* Florian Jüngermann
+* Gregor Matl
+* Tobias Schindler
+
 and was coached by Gregor Schwarz, who stayed in Munich.
 
-The event was hosted at Moscow Manege adjacent to Red Square and that was an extensive program surrounding the actual competition. This includes an opening ceremony, which was on the one hand off-putting because it felt like it took place by courtesy of President Putin and his apparatus. But on the other hand, it was very spectacular and included fantastic musical performances by musicians of Bolshoi theater, who composed beautiful and authentic pieces on different computer science topics such as the bubblesort algorithm. Sorting has never been as vivid.
+The event was hosted at Moscow Manege adjacent to Red Square and there was an extensive program surrounding the actual competition. This includes an opening ceremony, which was on the one hand off-putting because it felt like it took place by courtesy of President Putin and his apparatus. But on the other hand, it was very spectacular in an artistic way and included fantastic musical performances by musicians of Bolshoi theater, who composed beautiful and authentic pieces on different computer science topics such as the bubblesort algorithm. Sorting has never been as vivid.
 
 The next day, we went on a guided tour through the Kremlin, which includes many churches, cannons and helicopter landing pads behind its high walls. We also explored the city on our own, went to Gorky Park and were later helped around by some of the student guides who did a truly amazing job throughout the event. It is astonishing how the massive Soviet architecture makes a single human being feel small.
 
@@ -23,4 +24,4 @@ Finally, following the practice session, the day of the competition arrived, and
 
 In the end, we had a great experience and are very happy with the result, and of course we are also extremely thankful for this opportunity to meet so many other talented participants. For the future, we only wish such an event would take place in a more peaceful environment.
 
-Author: Gregor Matl
+ Author: *Gregor Matl*
