@@ -5,7 +5,7 @@ Date: 2021/10/05
 Template: news
 */
 
-With some covid-induced delay, the TUM spree at the ICPC world finals continues! At NWERC in 2020, for the second time in a row (and third time in university history), a TUM team has qualified for the world finals as best German team. After the event was postponed for over a year due to the coronavirus, it finally took place October 2021 in Moscow. 
+With some covid-induced delay, the TUM spree at the ICPC world finals continues! At NWERC in 2019, for the second time in a row (and third time in university history), a TUM team has qualified for the world finals as best German team. After the event was postponed for over a year due to the coronavirus, it finally took place October 2021 in Moscow. 
 
 It has to be stated that the surrounding conditions were particularly bad. The event in Moscow took place at a time when covid cases were on the rise and the situation in Moscow has already gotten quite severe again. And it was cosponsored and co-organized by multiple organs of the Russian state just weeks after the Russian Duma elections took place, where virtually all opposition figures have either been murdered, imprisoned or otherwise blocked from running for office and the results especially in Moscow still ended up being utterly questionable. For those reasons, our team was of course quiet hesitant to participate at all, but in the end, we decided to compete given that we were all young and fully vaccinated and we wanted to be part of this exchange with all the young Russian students and teams from all over the world whom we were to meet and who were presumably not part of the larger political issue.
 
