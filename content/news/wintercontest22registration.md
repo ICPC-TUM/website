@@ -1,7 +1,7 @@
 /*
 Title: Winter Contest 2022 Registration
 Description: Register now for the Winter Contest 2022!
-Date: 2021/01/05
+Date: 2022/01/05
 Template: news
 */
 
