@@ -1,5 +1,5 @@
 /*
-Title: GCPC2022 Results
+Title: GCPC 2022 Results
 Description: The contest became onsite again!
 Date: 2022/06/25
 Template: news
